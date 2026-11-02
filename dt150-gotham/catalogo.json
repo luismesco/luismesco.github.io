@@ -1,0 +1,538 @@
+[
+  {
+    "id": "vinil",
+    "title": "Vinil negro mate",
+    "phase": "Color",
+    "need": "Cubrir tanque y todos los paneles rojos en el mismo tono.",
+    "check": "Medir cada panel con margen. Dos unidades son secciones separadas de 1 × 1.52 m, no un tramo continuo de 2 m.",
+    "options": [
+      {
+        "name": "Autoelite estándar · 1 × 1.52 m",
+        "price": 189.52,
+        "url": "https://www.mercadolibre.com.mx/vinil-wrap-negro-mate-seccionado-1-metro-x-152m-autoelite/up/MLMU706133564",
+        "seller": "Mercado Libre · Autoelite",
+        "note": "Precio de referencia anunciado; seleccionar Negro Mate. Cantidad inicial: 2 secciones.",
+        "image": "",
+        "kind": "publicado",
+        "qty": 2,
+        "unit": "sección",
+        "status": "Consultar existencia"
+      },
+      {
+        "name": "Autoelite colores mate · 1 × 1.52 m",
+        "price": null,
+        "url": "https://articulo.mercadolibre.com.mx/MLM-2779069502-vinil-wrap-automotriz-colores-mate-autoelite-cwf-1x152mts-_JM",
+        "seller": "Mercado Libre",
+        "note": "Elegir Negro Mate. Confirmar precio y si entrega metros continuos.",
+        "image": "",
+        "kind": "consultar",
+        "qty": 2,
+        "unit": "metro",
+        "status": "Consultar existencia"
+      },
+      {
+        "kind": "consultar",
+        "qty": 1,
+        "status": "Consultar existencia",
+        "unit": "pieza",
+        "price": null,
+        "name": "Gahlmot · sección 30 × 150 cm",
+        "url": "https://www.mercadolibre.com.mx/vinil-automotriz-negro-mate-30-x-150-cm-autoadherible/up/MLMU544535562",
+        "seller": "Mercado Libre · Gahlmot",
+        "note": "Sección pequeña para comparar. No equivale al metraje completo del proyecto; consultar precio y cantidad necesaria.",
+        "image": "assets/vinil-alt.jpg"
+      }
+    ],
+    "default": 0
+  },
+  {
+    "id": "asiento",
+    "title": "Tapizado negro del asiento",
+    "phase": "Color",
+    "need": "Reutilizar base y espuma del asiento doble. Conservar la forma y confeccionar las líneas horizontales.",
+    "check": "La tela no viene acanalada ni cosida: tendrás que confeccionar la funda. Revisar ancho, resistencia exterior y sellado de costuras.",
+    "options": [
+      {
+        "name": "Vinipiel negra · 1 × 1.20 m",
+        "price": 284,
+        "url": "https://www.mercadolibre.com.mx/vinil-vinipiel-sintetico-tapiceria-1-metro-x-120/up/MLMU950151728",
+        "seller": "Mercado Libre · Creaciones Beth",
+        "note": "El vendedor describe uso exterior y automotriz. Material liso, no funda terminada.",
+        "image": "",
+        "kind": "publicado",
+        "qty": 1,
+        "unit": "metro",
+        "status": "Consultar existencia"
+      },
+      {
+        "name": "Vinipiel stretch negro mate · compra en tienda",
+        "price": 99.99,
+        "url": "https://www.laparisina.mx/vinipiel-strech-negro-mate/",
+        "seller": "Parisina",
+        "note": "Precio por metro en tienda. Internet vende rollo de 30 m. No acredita uso exterior: comparar muestra antes de elegir.",
+        "image": "assets/vinipiel.jpg",
+        "kind": "publicado",
+        "qty": 1,
+        "unit": "metro",
+        "status": "Consultar sucursal"
+      }
+    ],
+    "default": 0
+  },
+  {
+    "id": "punos",
+    "title": "Puños negros",
+    "phase": "Mandos",
+    "need": "Eliminar el rojo y conservar un buen agarre.",
+    "check": "Confirmar medidas izquierda/derecha y extremos desmontables para espejos. No bloquear el retorno del acelerador.",
+    "options": [
+      {
+        "name": "Puños negros 22 mm con contrapesos",
+        "price": 76.95,
+        "url": "https://articulo.mercadolibre.com.mx/MLM-4417313764-punos-motocicleta-contrapesos-negros-22mm-para-moto-_JM",
+        "seller": "Mercado Libre · Tienda Accesorios",
+        "note": "Envío desde China. Confirmar que las puntas se desmontan y que permite montar espejos.",
+        "image": "",
+        "kind": "publicado",
+        "qty": 1,
+        "unit": "juego",
+        "status": "Consultar existencia"
+      },
+      {
+        "name": "Puños Café Racer negros",
+        "price": null,
+        "url": "https://articulo.mercadolibre.com.mx/MLM-594759142-punos-cafe-racer-para-motocicleta-_JM?searchVariation=63202812286",
+        "seller": "Mercado Libre",
+        "note": "Goma para manillar de 22 mm. Revisar precio, extremos y color negro.",
+        "image": "",
+        "kind": "consultar",
+        "qty": 1,
+        "unit": "juego",
+        "status": "Consultar existencia"
+      }
+    ],
+    "default": 0
+  },
+  {
+    "id": "posapies",
+    "title": "Remate negro de posapiés",
+    "phase": "Color",
+    "need": "Conservar el conjunto original y cambiar sólo la goma si corresponde.",
+    "check": "La referencia de Angelo enumera DT150 Sport 2017–2018, no 2021. Comparar anclaje y cantidad antes de pedir.",
+    "options": [
+      {
+        "name": "Gomas delanteras FT150 / DT150",
+        "price": 45,
+        "url": "https://refaccionariaangelo.mx/producto/gomas-de-posapies-delanteros-para-moto-italika-ft-150-dt150/",
+        "seller": "Refaccionaria Angelo",
+        "note": "Confirmar si $45 corresponde al par. No sustituye un posapié completo ni está acreditada para 2021.",
+        "image": "assets/posapies.jpg",
+        "kind": "publicado",
+        "qty": 1,
+        "unit": "presentación",
+        "status": "Consultar existencia"
+      },
+      {
+        "name": "Conservar las piezas negras actuales",
+        "price": 0,
+        "url": "",
+        "seller": "Reutilizar",
+        "note": "Sólo si están sanas, firmes y ya tienen el acabado que buscas.",
+        "image": "",
+        "kind": "reutilizar",
+        "qty": 1,
+        "unit": "pieza",
+        "status": "Consultar existencia"
+      }
+    ],
+    "default": 0
+  },
+  {
+    "id": "pads",
+    "title": "Protectores laterales de tanque",
+    "phase": "Color",
+    "need": "Dos piezas negras, una a cada lado; no confundir con el protector central tipo espina.",
+    "check": "Comparar silueta y medidas sobre tu tanque. El precio de un protector central no equivale a dos laterales.",
+    "options": [
+      {
+        "name": "Cubre tanque protector lateral negro",
+        "price": 405.77,
+        "url": "https://articulo.mercadolibre.com.mx/MLM-2164839099-cubre-tanque-protector-lateral-calcomania-moto-negro-univers-_JM",
+        "seller": "Mercado Libre · listado de laterales",
+        "note": "Precio localizado en listado. Seleccionar el artículo lateral y confirmar si incluye ambos lados.",
+        "image": "assets/pads.jpg",
+        "kind": "publicado",
+        "qty": 1,
+        "unit": "juego",
+        "status": "Consultar presentación y existencia"
+      },
+      {
+        "name": "Recortar pads en material negro exterior",
+        "price": 100,
+        "url": "https://www.mercadolibre.com.mx/lamina-de-espuma-de-neopreno-con-adhesivo--3-mm-de-grosor-x/up/MLMU3726322467",
+        "seller": "Material cortable",
+        "note": "Provisión de $100, no precio confirmado del enlace. Cotizar un retazo con adhesivo apto para exterior y gasolina; no usar foami escolar.",
+        "image": "",
+        "kind": "estimado",
+        "qty": 1,
+        "unit": "retazo",
+        "status": "Consultar existencia"
+      }
+    ],
+    "default": 1
+  },
+  {
+    "id": "faro",
+    "title": "Faro LED redondo de 7 pulgadas",
+    "phase": "Frente",
+    "need": "Aro blanco, altas y bajas, carcasa negra y soportes.",
+    "check": "Comprobar alimentación de la moto, consumo real, corte de bajas, diámetro de abrazaderas y sitio para esconder conexiones.",
+    "options": [
+      {
+        "name": "Faro 7” + carcasa + soporte",
+        "price": 443.04,
+        "url": "https://articulo.mercadolibre.com.mx/MLM-3796373954-faro-para-moto-7-pulgada-universal-redondo-carcasa-y-soporte-_JM",
+        "seller": "Mercado Libre · Tienda De Faros Led",
+        "note": "Precio anunciado. La declaración universal no garantiza ajuste ni calidad del haz.",
+        "image": "",
+        "kind": "publicado",
+        "qty": 1,
+        "unit": "pieza",
+        "status": "Consultar existencia"
+      },
+      {
+        "name": "Faro 7” con carcasa y soporte",
+        "price": 489.89,
+        "url": "https://articulo.mercadolibre.com.mx/MLM-3843832304-faro-led-para-moto-universal-7-carcasa-y-soporte-derecho-_JM",
+        "seller": "Mercado Libre · Loja Xinqi",
+        "note": "Alternativa de precio anunciado; comparar qué incluye.",
+        "image": "",
+        "kind": "publicado",
+        "qty": 1,
+        "unit": "pieza",
+        "status": "Consultar existencia"
+      },
+      {
+        "name": "Faro universal 7” · publicación con fotografía",
+        "price": null,
+        "url": "https://www.mercadolibre.com.mx/faro-para-moto-universal-de-7-pulgadas-con-carcasa-y-soporte/up/MLMU3639704293",
+        "seller": "Mercado Libre",
+        "note": "Abrir para conocer precio y variante exacta.",
+        "image": "assets/faro.jpg",
+        "kind": "consultar",
+        "qty": 1,
+        "unit": "pieza",
+        "status": "Consultar existencia"
+      }
+    ],
+    "default": 0
+  },
+  {
+    "id": "cupula",
+    "title": "Minicúpula oscura corta",
+    "phase": "Frente",
+    "need": "Pequeña y centrada sobre el faro, como la referencia.",
+    "check": "Comparar forma ahumada/translúcida contra negra opaca, distancia entre soportes y espacio para tablero.",
+    "options": [
+      {
+        "name": "Carenado para faros de 5 a 7 pulgadas",
+        "price": 240.26,
+        "url": "https://articulo.mercadolibre.com.mx/MLM-5409200480-carenado-parabrisas-faros-5-a-7-pulgadas-universal-moto-ital-_JM",
+        "seller": "Mercado Libre",
+        "note": "Precio visto en listado; confirmar tamaño y soportes.",
+        "image": "",
+        "kind": "publicado",
+        "qty": 1,
+        "unit": "pieza",
+        "status": "Consultar existencia"
+      },
+      {
+        "name": "Flyscreen EO SAFE IMPORTS · EO-13447",
+        "price": 539,
+        "url": "https://www.sanborns.com.mx/producto/591747/faro-parabrisas-5-a-7-pulgadas-universal-moto-carenado-negro",
+        "seller": "Sanborns · Oe Safe Imports",
+        "note": "Incluye soportes según ficha. No es compra directa en sucursal; revisar vendedor y entrega.",
+        "image": "",
+        "kind": "publicado",
+        "qty": 1,
+        "unit": "pieza",
+        "status": "Consultar existencia"
+      }
+    ],
+    "default": 0
+  },
+  {
+    "id": "manillar",
+    "title": "Manillar negro moderado",
+    "phase": "Mandos",
+    "need": "Conservar una postura cómoda, sin cambiar chicotes ni geometría.",
+    "check": "Medir diámetro, alto, ancho, interior de puntas y holgura al girar. El manillar actual debe estar recto si se reutiliza.",
+    "options": [
+      {
+        "name": "Scrambler / Café Racer negro de 22 mm",
+        "price": 220.52,
+        "url": "https://articulo.mercadolibre.com.mx/MLM-3593452654-manubrio-para-moto-scramblercafe-racer-22mm-negro-_JM",
+        "seller": "Mercado Libre",
+        "note": "Precio visto en listado de manillares. Confirmar dimensiones de esa publicación.",
+        "image": "",
+        "kind": "publicado",
+        "qty": 1,
+        "unit": "pieza",
+        "status": "Consultar existencia"
+      },
+      {
+        "name": "Conservar el manillar actual",
+        "price": 0,
+        "url": "",
+        "seller": "Reutilizar",
+        "note": "Sólo si está sano, recto, negro y acepta los accesorios sin interferencias.",
+        "image": "",
+        "kind": "reutilizar",
+        "qty": 1,
+        "unit": "pieza",
+        "status": "Consultar existencia"
+      },
+      {
+        "kind": "consultar",
+        "qty": 1,
+        "status": "Consultar existencia",
+        "unit": "pieza",
+        "price": null,
+        "name": "Scrambler 22 mm · publicación con fotografía",
+        "url": "https://articulo.mercadolibre.com.mx/MLM-2695022394-manubrio-para-moto-scramblercafe-racer-22mm-negro-_JM",
+        "seller": "Mercado Libre",
+        "note": "La foto incluye una variante cromada. Pedir negro y comprobar medidas; el precio de esta alternativa está por consultar.",
+        "image": "assets/manillar-alt.jpg"
+      }
+    ],
+    "default": 0
+  },
+  {
+    "id": "espejos",
+    "title": "Par de espejos redondos bajos",
+    "phase": "Mandos",
+    "need": "Ambos negros y orientados hacia atrás, debajo de las puntas.",
+    "check": "El precio de Fénix no especifica claramente la cantidad en el texto: confirmar que sea el par. Verificar visión y que no choquen con cubrepuños o tanque.",
+    "options": [
+      {
+        "name": "Redondos negros Café Racer · A4663",
+        "price": 200,
+        "url": "https://motosfenixveloz.com.mx/refacciones-general/3642-espejos-redondos-negros-cafe-racer.html",
+        "seller": "Motos Fénix Veloz",
+        "note": "Precio por presentación. Pedir confirmación de par y anclaje.",
+        "image": "assets/espejos.jpg",
+        "kind": "publicado",
+        "qty": 1,
+        "unit": "presentación",
+        "status": "Consultar existencia"
+      },
+      {
+        "name": "Iron Racing 0102P · par bar-end",
+        "price": 419,
+        "url": "https://www.mercadolibre.com.mx/par-espejos-bar-end-redondos-de-metal-para-moto-universales/up/MLMU557231436",
+        "seller": "Mercado Libre · Aphelios",
+        "note": "La ficha abre en plata; seleccionar negro y confirmar precio. Incluye adaptadores según vendedor.",
+        "image": "",
+        "kind": "publicado",
+        "qty": 1,
+        "unit": "par",
+        "status": "Consultar existencia"
+      },
+      {
+        "name": "Street Barend · entrega personal CDMX",
+        "price": 469,
+        "url": "https://haneaccesorios.catalog.kyte.site/",
+        "seller": "Hane / Cafe Racer Accesorios",
+        "note": "El catálogo ofrece entregas personales CDMX y Línea A. Confirmar forma redonda y presentación.",
+        "image": "assets/espejos-hane.jpg",
+        "kind": "publicado",
+        "qty": 1,
+        "unit": "presentación",
+        "status": "Consultar existencia"
+      },
+      {
+        "name": "RODA Class · par negro",
+        "price": 220,
+        "url": "https://www.elviejodelasmotos.com/products/espejo-cafe-racer",
+        "seller": "El Viejo de las Motos",
+        "note": "Referencia de precio; aparece AGOTADO. No contar como compra disponible.",
+        "image": "assets/espejos-roda.jpg",
+        "kind": "publicado",
+        "qty": 1,
+        "unit": "par",
+        "status": "Agotado"
+      }
+    ],
+    "default": 0
+  },
+  {
+    "id": "cubrepunos",
+    "title": "Cubrepuños negros con ámbar",
+    "phase": "Mandos",
+    "need": "Dos protectores con tira ámbar, manteniendo las direccionales actuales.",
+    "check": "Las fotos y selectores incluyen colores distintos. Pedir carcasa negra y luz ámbar; resolver el anclaje compartido con espejos antes de comprar.",
+    "options": [
+      {
+        "name": "Par LED blanco + direccional ámbar",
+        "price": 449,
+        "url": "https://articulo.mercadolibre.com.mx/MLM-4737532062-cubre-punos-para-moto-con-luz-led-direccionales-con-luz-_JM",
+        "seller": "Mercado Libre · AUTOACCESORIOS.NET",
+        "note": "Descripción: blanco y ámbar; selector también dice direccional azul. Confirmar por escrito la variante.",
+        "image": "",
+        "kind": "publicado",
+        "qty": 1,
+        "unit": "par",
+        "status": "Consultar existencia"
+      },
+      {
+        "name": "Vmingo Sin Hueco · luz blanca",
+        "price": null,
+        "url": "https://www.vmingo.com.mx/products/cubre-punos-moto-luz-led-hand-guards-universal-sin-hueco",
+        "seller": "Vmingo",
+        "note": "Foto del producto de luz blanca; no reproduce por sí solo el ámbar solicitado.",
+        "image": "assets/cubrepunos.jpg",
+        "kind": "consultar",
+        "qty": 1,
+        "unit": "par",
+        "status": "Consultar existencia"
+      }
+    ],
+    "default": 0
+  },
+  {
+    "id": "fuelles",
+    "title": "Par de fuelles negros",
+    "phase": "Protección",
+    "need": "Cubrir la zona de las barras con acordeones negros.",
+    "check": "Medir ambos diámetros de asiento y longitud comprimida/extendida. Los fuelles no corrigen fugas ni daños de horquilla.",
+    "options": [
+      {
+        "name": "Cubrepolvos · entrega personal CDMX",
+        "price": 150,
+        "url": "https://haneaccesorios.catalog.kyte.site/",
+        "seller": "Hane / Cafe Racer Accesorios",
+        "note": "Confirmar que la presentación incluye las dos piezas y verificar medidas.",
+        "image": "assets/fuelles-hane.jpg",
+        "kind": "publicado",
+        "qty": 1,
+        "unit": "presentación",
+        "status": "Consultar existencia"
+      },
+      {
+        "name": "Par universal negro para suspensión",
+        "price": 299,
+        "url": "https://articulo.mercadolibre.com.mx/MLM-3686137486-par-cubre-polvos-moto-acordeon-barras-suspension-universales-_JM",
+        "seller": "Mercado Libre · MOTOPARTESCANCUNFACE",
+        "note": "El anuncio identifica un par; comparar medidas.",
+        "image": "",
+        "kind": "publicado",
+        "qty": 1,
+        "unit": "par",
+        "status": "Consultar existencia"
+      },
+      {
+        "name": "Fuelles económicos · referencias desde $123.12",
+        "price": 123.12,
+        "url": "https://listado.mercadolibre.com.mx/cubre-polvos-para-barras",
+        "seller": "Mercado Libre · listado",
+        "note": "Precio de listado, presentación y diámetro por confirmar; no usar un retén en lugar de un fuelle.",
+        "image": "",
+        "kind": "publicado",
+        "qty": 1,
+        "unit": "presentación",
+        "status": "Localizar publicación"
+      }
+    ],
+    "default": 0
+  },
+  {
+    "id": "defensa",
+    "title": "Defensa / slider negro",
+    "phase": "Protección",
+    "need": "Protección compacta, sin cortar ni soldar el chasis.",
+    "check": "El slider comercial tiene otra forma que el arco de la referencia. Comparar tornillos, despejes y año; la defensa idéntica sigue sin precio cerrado.",
+    "options": [
+      {
+        "name": "Slider Stunt anunciado para DT150 Sport",
+        "price": 488.92,
+        "url": "https://articulo.mercadolibre.com.mx/MLM-2753743552-slider-defensa-stunt-para-motocicleta-italika-dt150-sport-_JM",
+        "seller": "Mercado Libre",
+        "note": "Referencia de listado para ese modelo; confirmar precio final y puntos de montaje.",
+        "image": "",
+        "kind": "publicado",
+        "qty": 1,
+        "unit": "pieza",
+        "status": "Consultar existencia"
+      },
+      {
+        "name": "Slider MACH reforzado DT150 Sport",
+        "price": 871.73,
+        "url": "https://articulo.mercadolibre.com.mx/MLM-1904937723-slider-reforzado-mach-para-motocicleta-italika-dt150-sport-_JM",
+        "seller": "Mercado Libre · bikerszone",
+        "note": "Incluye tornillería según vendedor. Mantiene forma de slider, no arco a medida.",
+        "image": "",
+        "kind": "publicado",
+        "qty": 1,
+        "unit": "pieza",
+        "status": "Consultar existencia"
+      },
+      {
+        "name": "Slider trabajo Match · 0217700026",
+        "price": null,
+        "url": "https://bicimex.com/products/show/0217700026/slider-universal-motos-de-trabajo",
+        "seller": "Bicimex / Ciclometa",
+        "note": "Ficha incluye DT150 Sport. Pedir precio de venta al público y comprobar forma.",
+        "image": "assets/slider.jpg",
+        "kind": "consultar",
+        "qty": 1,
+        "unit": "pieza",
+        "status": "Consultar existencia"
+      }
+    ],
+    "default": 0
+  },
+  {
+    "id": "espatula",
+    "title": "Espátula con fieltro",
+    "phase": "Insumos",
+    "need": "Aplicar vinil sin rayar el acabado.",
+    "check": "Necesitas una herramienta con borde limpio y fieltro; puedes marcarla como ya disponible si tienes una.",
+    "options": [
+      {
+        "name": "Espátula cuña · AOMF26245",
+        "price": 45.95,
+        "url": "https://kgprint.mx/producto/espatula-cuna-aplicador-vinil-profesional/",
+        "seller": "KGPrint",
+        "note": "La tienda indica disponible sobre pedido. Comparar envío.",
+        "image": "assets/espatula.jpg",
+        "kind": "publicado",
+        "qty": 1,
+        "unit": "pieza",
+        "status": "Sobre pedido"
+      }
+    ],
+    "default": 0
+  },
+  {
+    "id": "cinta",
+    "title": "Cinta aislante negra",
+    "phase": "Insumos",
+    "need": "Un consumible para el trabajo eléctrico.",
+    "check": "No sustituye conectores, fusible ni protección de empalmes contra agua. Elegir el resto según el circuito real.",
+    "options": [
+      {
+        "name": "Steren PT-13 NE · 18.3 metros",
+        "price": 15,
+        "url": "https://www.steren.com.mx/cinta-de-aislar.html",
+        "seller": "Steren",
+        "note": "Compra en sucursal si el envío de un rollo encarece el pedido.",
+        "image": "assets/cinta.jpg",
+        "kind": "publicado",
+        "qty": 1,
+        "unit": "pieza",
+        "status": "Consultar existencia"
+      }
+    ],
+    "default": 0
+  }
+]
