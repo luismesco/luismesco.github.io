@@ -43,7 +43,9 @@
         "condicion": "La carga máxima de esta unidad debe constar para contrastarla con el peso real del conductor, acompañante y equipaje; contar dos plazas no acredita por sí solo capacidad para cualquier pareja."
       },
       "identidad": true,
-      "foto": "https://www.vento.com/wp-content/uploads/thriller-250-menu.jpg"
+      "foto": "imagenes/42dd46edd906.png",
+      "nota_foto": "Imagen de referencia; confirmar edición y color.",
+      "pdf": "fichas/thriller-250cc-2025.pdf"
     },
     {
       "id": "572",
@@ -99,7 +101,10 @@
         "condicion": "La carga máxima de esta unidad debe constar para contrastarla con el peso real del conductor, acompañante y equipaje; contar dos plazas no acredita por sí solo capacidad para cualquier pareja."
       },
       "identidad": true,
-      "foto": "https://www.vento.com/wp-content/uploads/COUGAR-MENU.webp"
+      "foto": "imagenes/22ea2bec506c.png",
+      "nota_foto": "Imagen de referencia; confirmar edición y color.",
+      "pdf": "fichas/cougar-250-cc-2025.pdf",
+      "pdf_original": "fichas/cougar-2025-catalogo.pdf"
     },
     {
       "id": "518",
@@ -158,7 +163,10 @@
         "condicion": "La carga máxima de esta unidad debe constar para contrastarla con el peso real del conductor, acompañante y equipaje; contar dos plazas no acredita por sí solo capacidad para cualquier pareja."
       },
       "identidad": true,
-      "foto": "https://www.vento.com/wp-content/uploads/workman250.jpg"
+      "foto": "imagenes/d6ba90ef571f.png",
+      "nota_foto": "Imagen de referencia; confirmar edición y color.",
+      "pdf": "fichas/workman-250cc-2025.pdf",
+      "pdf_original": "fichas/workman-2025-catalogo.pdf"
     },
     {
       "id": "595",
@@ -209,7 +217,9 @@
         "condicion": "Conductor, acompañante y equipaje deben sumar como máximo 150 kg según la fuente citada. Confirmar que ese límite y la configuración para pasajero corresponden a la unidad entregada."
       },
       "identidad": true,
-      "foto": "https://www.vento.com/wp-content/uploads/onyx-250-menu-300x200-1.webp"
+      "foto": "imagenes/ffc7fec8c118.png",
+      "nota_foto": "Imagen de referencia; confirmar edición y color.",
+      "pdf": "fichas/onyx-250-2025.pdf"
     },
     {
       "id": "576",
@@ -253,7 +263,9 @@
         "condicion": "La carga máxima de esta unidad debe constar para contrastarla con el peso real del conductor, acompañante y equipaje; contar dos plazas no acredita por sí solo capacidad para cualquier pareja."
       },
       "identidad": true,
-      "foto": "https://www.vento.com/wp-content/uploads/COUGAR-MENU.webp"
+      "foto": "imagenes/22ea2bec506c.png",
+      "nota_foto": "Imagen de referencia; confirmar edición y color.",
+      "pdf": "fichas/cougar-250-cc-2026.pdf"
     },
     {
       "id": "545",
@@ -299,7 +311,9 @@
         "condicion": "La carga máxima de esta unidad debe constar para contrastarla con el peso real del conductor, acompañante y equipaje; contar dos plazas no acredita por sí solo capacidad para cualquier pareja."
       },
       "identidad": true,
-      "foto": "https://www.vento.com/wp-content/uploads/thriller-250-menu.jpg"
+      "foto": "imagenes/42dd46edd906.png",
+      "nota_foto": "Imagen de referencia; confirmar edición y color.",
+      "pdf": "fichas/thriller-250cc-2026.pdf"
     },
     {
       "id": "683",
@@ -356,7 +370,9 @@
         "condicion": "La carga máxima de esta unidad debe constar para contrastarla con el peso real del conductor, acompañante y equipaje; contar dos plazas no acredita por sí solo capacidad para cualquier pareja."
       },
       "identidad": true,
-      "foto": "https://www.vento.com/wp-content/uploads/COUGAR-MENU.webp"
+      "foto": "imagenes/22ea2bec506c.png",
+      "nota_foto": "Imagen de referencia; confirmar edición y color.",
+      "pdf": "fichas/cougar-250-cc-2027.pdf"
     },
     {
       "id": "715",
@@ -374,7 +390,8 @@
         "condicion": "La carga máxima de esta unidad debe constar para contrastarla con el peso real del conductor, acompañante y equipaje; contar dos plazas no acredita por sí solo capacidad para cualquier pareja."
       },
       "identidad": false,
-      "foto": null
+      "foto": "imagenes/foto-por-confirmar.png",
+      "nota_foto": "Fotografía de esta edición por confirmar."
     },
     {
       "id": "486",
@@ -430,7 +447,8 @@
         "condicion": "La carga máxima de esta unidad debe constar para contrastarla con el peso real del conductor, acompañante y equipaje; contar dos plazas no acredita por sí solo capacidad para cualquier pareja."
       },
       "identidad": true,
-      "foto": "https://www.vento.com/wp-content/uploads/m-nitrox250t3.jpg"
+      "foto": "imagenes/ea463bc637ac.png",
+      "nota_foto": "Imagen de referencia; confirmar edición y color."
     },
     {
       "id": "585",
@@ -481,7 +499,9 @@
         "condicion": "La carga máxima de esta unidad debe constar para contrastarla con el peso real del conductor, acompañante y equipaje; contar dos plazas no acredita por sí solo capacidad para cualquier pareja."
       },
       "identidad": true,
-      "foto": "https://www.vento.com/wp-content/uploads/workman250.jpg"
+      "foto": "imagenes/d6ba90ef571f.png",
+      "nota_foto": "Imagen de referencia; confirmar edición y color.",
+      "pdf": "fichas/workman-250cc-2026.pdf"
     },
     {
       "id": "708",
@@ -538,7 +558,9 @@
         "condicion": "La carga máxima de esta unidad debe constar para contrastarla con el peso real del conductor, acompañante y equipaje; contar dos plazas no acredita por sí solo capacidad para cualquier pareja."
       },
       "identidad": true,
-      "foto": "https://www.vento.com/wp-content/uploads/thriller-250-menu.jpg"
+      "foto": "imagenes/42dd46edd906.png",
+      "nota_foto": "Imagen de referencia; confirmar edición y color.",
+      "pdf": "fichas/thriller-250cc-2027.pdf"
     },
     {
       "id": "712",
@@ -589,7 +611,9 @@
         "condicion": "La carga máxima de esta unidad debe constar para contrastarla con el peso real del conductor, acompañante y equipaje; contar dos plazas no acredita por sí solo capacidad para cualquier pareja."
       },
       "identidad": true,
-      "foto": "https://www.vento.com/wp-content/uploads/workman250.jpg"
+      "foto": "imagenes/d6ba90ef571f.png",
+      "nota_foto": "Imagen de referencia; confirmar edición y color.",
+      "pdf": "fichas/workman-250cc-2027.pdf"
     },
     {
       "id": "659",
@@ -629,7 +653,7 @@
           "tipo": "Fuente del producto"
         }
       ],
-      "nota": "Título y ficha de atributos dicen2023; la descripción conserva una referencia2022.",
+      "nota": "Título y ficha de atributos dicen2023; la descripción conserva una referencia2022. Imagen ilustrativa de la familia Crossmax; confirmar carrocería de la edición.",
       "anomalia": "",
       "valoracion": {
         "carga": 150.0,
@@ -637,7 +661,8 @@
         "condicion": "Conductor, acompañante y equipaje deben sumar como máximo 150 kg según la fuente citada. Confirmar que ese límite y la configuración para pasajero corresponden a la unidad entregada."
       },
       "identidad": true,
-      "foto": "https://www.vento.com/wp-content/uploads/thunderstar300s-menu.jpg"
+      "foto": "imagenes/0ad5fd07e27f.png",
+      "nota_foto": "Imagen de referencia; confirmar edición y color."
     },
     {
       "id": "543",
@@ -682,7 +707,9 @@
         "condicion": "La carga máxima de esta unidad debe constar para contrastarla con el peso real del conductor, acompañante y equipaje; contar dos plazas no acredita por sí solo capacidad para cualquier pareja."
       },
       "identidad": true,
-      "foto": "https://www.vento.com/wp-content/uploads/onyx-250-menu-300x200-1.webp"
+      "foto": "imagenes/ffc7fec8c118.png",
+      "nota_foto": "Imagen de referencia; confirmar edición y color.",
+      "pdf": "fichas/onyx-250-2026.pdf"
     },
     {
       "id": "564",
@@ -724,7 +751,8 @@
         "condicion": "La carga máxima de esta unidad debe constar para contrastarla con el peso real del conductor, acompañante y equipaje; contar dos plazas no acredita por sí solo capacidad para cualquier pareja."
       },
       "identidad": true,
-      "foto": "https://www.vento.com/wp-content/uploads/m-vento-crossmax250.jpg"
+      "foto": "imagenes/c0c6bd9be5d6.png",
+      "nota_foto": "Imagen de referencia; confirmar edición y color."
     },
     {
       "id": "614",
@@ -770,7 +798,8 @@
         "condicion": "La carga máxima de esta unidad debe constar para contrastarla con el peso real del conductor, acompañante y equipaje; contar dos plazas no acredita por sí solo capacidad para cualquier pareja."
       },
       "identidad": true,
-      "foto": "https://www.vento.com/wp-content/uploads/vento-falkon-220-01.jpg"
+      "foto": "imagenes/aa6e42ac7b1e.png",
+      "nota_foto": "Imagen de referencia; confirmar edición y color."
     },
     {
       "id": "698",
@@ -821,7 +850,9 @@
         "condicion": "La carga máxima de esta unidad debe constar para contrastarla con el peso real del conductor, acompañante y equipaje; contar dos plazas no acredita por sí solo capacidad para cualquier pareja."
       },
       "identidad": true,
-      "foto": "https://www.vento.com/wp-content/uploads/onyx-250-menu-300x200-1.webp"
+      "foto": "imagenes/ffc7fec8c118.png",
+      "nota_foto": "Imagen de referencia; confirmar edición y color.",
+      "pdf": "fichas/onyx-250-2027.pdf"
     },
     {
       "id": "692",
@@ -872,7 +903,8 @@
         "condicion": "La carga máxima de esta unidad debe constar para contrastarla con el peso real del conductor, acompañante y equipaje; contar dos plazas no acredita por sí solo capacidad para cualquier pareja."
       },
       "identidad": true,
-      "foto": "https://www.vento.com/wp-content/uploads/vento-falkon-220-01.jpg"
+      "foto": "imagenes/aa6e42ac7b1e.png",
+      "nota_foto": "Imagen de referencia; confirmar edición y color."
     },
     {
       "id": "602",
@@ -917,7 +949,8 @@
         "condicion": "La carga máxima de esta unidad debe constar para contrastarla con el peso real del conductor, acompañante y equipaje; contar dos plazas no acredita por sí solo capacidad para cualquier pareja."
       },
       "identidad": true,
-      "foto": "https://www.vento.com/wp-content/uploads/m-vento-crossmax250.jpg"
+      "foto": "imagenes/c0c6bd9be5d6.png",
+      "nota_foto": "Imagen de referencia; confirmar edición y color."
     },
     {
       "id": "621",
@@ -962,7 +995,8 @@
         "condicion": "La carga máxima de esta unidad debe constar para contrastarla con el peso real del conductor, acompañante y equipaje; contar dos plazas no acredita por sí solo capacidad para cualquier pareja."
       },
       "identidad": true,
-      "foto": "https://www.vento.com/wp-content/uploads/m-nitrox250t3.jpg"
+      "foto": "imagenes/ea463bc637ac.png",
+      "nota_foto": "Imagen de referencia; confirmar edición y color."
     },
     {
       "id": "720",
@@ -1005,7 +1039,8 @@
         "condicion": "La carga máxima de esta unidad debe constar para contrastarla con el peso real del conductor, acompañante y equipaje; contar dos plazas no acredita por sí solo capacidad para cualquier pareja."
       },
       "identidad": true,
-      "foto": "https://www.vento.com/wp-content/uploads/crossmax250led-main-1024x1024.webp"
+      "foto": "imagenes/f22d674fba5f.png",
+      "nota_foto": "Imagen de referencia; confirmar edición y color."
     },
     {
       "id": "727",
@@ -1023,7 +1058,8 @@
         "condicion": "La carga máxima de esta unidad debe constar para contrastarla con el peso real del conductor, acompañante y equipaje; contar dos plazas no acredita por sí solo capacidad para cualquier pareja."
       },
       "identidad": false,
-      "foto": null
+      "foto": "imagenes/foto-por-confirmar.png",
+      "nota_foto": "Fotografía de esta edición por confirmar."
     },
     {
       "id": "721",
@@ -1066,7 +1102,7 @@
           "tipo": "Fuente del producto"
         }
       ],
-      "nota": "Especificaciones anunciadas por Vento; no son mediciones de desempeño.",
+      "nota": "Especificaciones anunciadas por Vento; no son mediciones de desempeño. Imagen ilustrativa de la familia Crossmax; confirmar carrocería de la edición.",
       "anomalia": "",
       "valoracion": {
         "carga": null,
@@ -1074,7 +1110,8 @@
         "condicion": "La carga máxima de esta unidad debe constar para contrastarla con el peso real del conductor, acompañante y equipaje; contar dos plazas no acredita por sí solo capacidad para cualquier pareja."
       },
       "identidad": true,
-      "foto": "https://www.vento.com/wp-content/uploads/thunderstar300s-menu.jpg"
+      "foto": "imagenes/f22d674fba5f.png",
+      "nota_foto": "Imagen de referencia; confirmar edición y color."
     },
     {
       "id": "689",
@@ -1125,7 +1162,8 @@
         "condicion": "La carga máxima de esta unidad debe constar para contrastarla con el peso real del conductor, acompañante y equipaje; contar dos plazas no acredita por sí solo capacidad para cualquier pareja."
       },
       "identidad": true,
-      "foto": "https://www.vento.com/wp-content/uploads/m-vento-crossmax250.jpg"
+      "foto": "imagenes/c0c6bd9be5d6.png",
+      "nota_foto": "Imagen de referencia; confirmar edición y color."
     },
     {
       "id": "667",
@@ -1176,7 +1214,8 @@
         "condicion": "La carga máxima de esta unidad debe constar para contrastarla con el peso real del conductor, acompañante y equipaje; contar dos plazas no acredita por sí solo capacidad para cualquier pareja."
       },
       "identidad": true,
-      "foto": "https://www.vento.com/wp-content/uploads/m-nitrox250t3.jpg"
+      "foto": "imagenes/ea463bc637ac.png",
+      "nota_foto": "Imagen de referencia; confirmar edición y color."
     },
     {
       "id": "407",
@@ -1214,7 +1253,8 @@
         "condicion": "La carga máxima de esta unidad debe constar para contrastarla con el peso real del conductor, acompañante y equipaje; contar dos plazas no acredita por sí solo capacidad para cualquier pareja."
       },
       "identidad": true,
-      "foto": "https://www.vento.com/wp-content/uploads/crossmax250.jpg"
+      "foto": "imagenes/0ad5fd07e27f.png",
+      "nota_foto": "Imagen de referencia; confirmar edición y color."
     },
     {
       "id": "617",
@@ -1257,7 +1297,8 @@
         "condicion": "La clasificación de pasajeros y el uso autorizado corresponden a su configuración utilitaria o recreativa; no se prioriza para este perfil de compra."
       },
       "identidad": true,
-      "foto": "https://www.vento.com/wp-content/uploads/yuma-menu.jpg"
+      "foto": "imagenes/30bf0c2f08fc.png",
+      "nota_foto": "Imagen de referencia; confirmar edición y color."
     },
     {
       "id": "660",
@@ -1307,7 +1348,8 @@
         "condicion": "La clasificación de pasajeros y el uso autorizado corresponden a su configuración utilitaria o recreativa; no se prioriza para este perfil de compra."
       },
       "identidad": true,
-      "foto": "https://www.vento.com/wp-content/uploads/yuma-menu.jpg"
+      "foto": "imagenes/30bf0c2f08fc.png",
+      "nota_foto": "Imagen de referencia; confirmar edición y color."
     }
   ],
   "cotizaciones": [
