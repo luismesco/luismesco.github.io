@@ -1,0 +1,2659 @@
+{
+  "autor": "Luis Montañez Escobar",
+  "fecha": "2026-11-02",
+  "modelos": [
+    {
+      "id": "594",
+      "nombre": "THRILLER 250CC",
+      "anio": 2025,
+      "categoria": "REBEL",
+      "precio": 20799.0,
+      "ficha": {
+        "nombre": "Thriller 250 Negro 2025",
+        "anio": 2025,
+        "url": "https://www.walmart.com.mx/ip/Motocicleta-Rebel-Vento-Thriller-250-Negro-2025/00750305458323",
+        "campos": {
+          "Motor": "4 tiempos, enfriado por aire",
+          "Capacidad del Cilindro": "250 cc",
+          "Potencia Máxima": "18 HP",
+          "Transmisión": "Manual, 5 velocidades por cadena",
+          "Tanque de Combustible": "10 litros",
+          "Freno Delantero": "Disco hidráulico",
+          "Freno Trasero": "Tambor",
+          "Suspensión Delantera": "Horquilla hidráulica",
+          "Suspensión Trasera": "Amortiguadores con resorte",
+          "Rendimiento anunciado": "35 km/l"
+        },
+        "tipo": "Datos publicados para este modelo y año",
+        "nota": "El título, el modelo y la edición 2025 corresponden a la oferta; se usan los datos del vendedor y la tabla de especificaciones."
+      },
+      "fuentes": [
+        {
+          "nombre": "Thriller 250 Negro 2025",
+          "anio": 2025,
+          "url": "https://www.walmart.com.mx/ip/Motocicleta-Rebel-Vento-Thriller-250-Negro-2025/00750305458323",
+          "tipo": "Fuente del producto"
+        }
+      ],
+      "nota": "El título, el modelo y la edición 2025 corresponden a la oferta; se usan los datos del vendedor y la tabla de especificaciones.",
+      "anomalia": "",
+      "valoracion": {
+        "carga": null,
+        "fuente_carga": null,
+        "condicion": "La carga máxima de esta unidad debe constar para contrastarla con el peso real del conductor, acompañante y equipaje; contar dos plazas no acredita por sí solo capacidad para cualquier pareja."
+      },
+      "identidad": true,
+      "foto": "https://www.vento.com/wp-content/uploads/thriller-250-menu.jpg"
+    },
+    {
+      "id": "572",
+      "nombre": "COUGAR 250 CC",
+      "anio": 2025,
+      "categoria": "REBEL",
+      "precio": 21599.2,
+      "ficha": {
+        "nombre": "Cougar 250 Negro 2025",
+        "anio": 2025,
+        "url": "https://www.mercadolibre.com.mx/motocicleta-vento-cougar-250-negro-2025/up/MLMU3182109095",
+        "campos": {
+          "Motor": "4 tiempos, enfriado por aire",
+          "Número de Cilindros": "1",
+          "Capacidad del Cilindro": "250 cc",
+          "Potencia Máxima": "18 HP",
+          "Transmisión": "Manual, 5 velocidades",
+          "Tanque de Combustible": "15.5 litros",
+          "Altura del Asiento": "75 cm",
+          "Peso": "117 kg",
+          "Freno Delantero": "Disco",
+          "Freno Trasero": "Tambor",
+          "Rueda Delantera": "2.75 R18",
+          "Rueda Trasera": "110/90 R16",
+          "Suspensión Delantera": "Horquilla hidráulica",
+          "Suspensión Trasera": "Doble amortiguador con resorte",
+          "Largo Total": "197 cm",
+          "Ancho Total": "76 cm",
+          "Alto Total": "113 cm"
+        },
+        "tipo": "Datos publicados para este modelo y año",
+        "nota": ""
+      },
+      "fuentes": [
+        {
+          "nombre": "Cougar 250 Negro 2025",
+          "anio": 2025,
+          "url": "https://www.mercadolibre.com.mx/motocicleta-vento-cougar-250-negro-2025/up/MLMU3182109095",
+          "tipo": "Fuente del producto"
+        },
+        {
+          "nombre": "Cougar: ficha comercial con transmisión discordante",
+          "anio": 2025,
+          "url": "https://lanamovil.net/wp-content/uploads/2025/08/catalogo_vento_tby_2025-2.pdf#page=26",
+          "tipo": "Fuente del producto"
+        }
+      ],
+      "nota": "",
+      "anomalia": "",
+      "valoracion": {
+        "carga": null,
+        "fuente_carga": null,
+        "condicion": "La carga máxima de esta unidad debe constar para contrastarla con el peso real del conductor, acompañante y equipaje; contar dos plazas no acredita por sí solo capacidad para cualquier pareja."
+      },
+      "identidad": true,
+      "foto": "https://www.vento.com/wp-content/uploads/COUGAR-MENU.webp"
+    },
+    {
+      "id": "518",
+      "nombre": "WORKMAN 250CC",
+      "anio": 2025,
+      "categoria": "TRABAJO",
+      "precio": 22399.2,
+      "ficha": {
+        "nombre": "WORKMAN 250 · catálogo y tabla Modelo2025",
+        "anio": 2025,
+        "url": "https://lanamovil.net/wp-content/uploads/2025/08/catalogo_vento_tby_2025-2.pdf#page=37",
+        "campos": {
+          "Motor": "4 tiempos, enfriado por aire",
+          "Cilindros": "1",
+          "Desplazamiento": "250 cc",
+          "Potencia Máxima": "18 H.P.",
+          "Ignición": "CDI Electrónica",
+          "Capacidad de combustible": "14.5 litros",
+          "Rendimiento": "30km/l",
+          "Autonomía": "435km",
+          "Transmisión": "Manual con 5 velocidades",
+          "Largo total": "197 cm",
+          "Ancho Total": "78.3 cm",
+          "Alto total": "108 cm",
+          "Altura del asiento": "79.9 cm",
+          "Peso en seco": "115 Kg",
+          "Suspensión delantera": "Horquilla hidráulica",
+          "Suspensión trasera": "Amortiguadores con resorte",
+          "Freno delantero": "Disco Hidráulico",
+          "Freno trasero": "Tambor",
+          "Rueda delantera": "3.0 R17",
+          "Rueda trasera": "110 / 90 R17"
+        },
+        "tipo": "Datos publicados para este modelo y año",
+        "nota": ""
+      },
+      "fuentes": [
+        {
+          "nombre": "WORKMAN 250 · catálogo y tabla Modelo2025",
+          "anio": 2025,
+          "url": "https://lanamovil.net/wp-content/uploads/2025/08/catalogo_vento_tby_2025-2.pdf#page=37",
+          "tipo": "Fuente del producto"
+        },
+        {
+          "nombre": "Fila con comentario explícito Modelo2025; año de unidad sustentado.",
+          "anio": null,
+          "url": "https://lanamovil.net/wp-content/uploads/2025/08/catalogo_vento_tby_2025-2.pdf#page=54",
+          "tipo": "Fuente del producto"
+        }
+      ],
+      "nota": "",
+      "anomalia": "",
+      "valoracion": {
+        "carga": null,
+        "fuente_carga": null,
+        "condicion": "La carga máxima de esta unidad debe constar para contrastarla con el peso real del conductor, acompañante y equipaje; contar dos plazas no acredita por sí solo capacidad para cualquier pareja."
+      },
+      "identidad": true,
+      "foto": "https://www.vento.com/wp-content/uploads/workman250.jpg"
+    },
+    {
+      "id": "595",
+      "nombre": "ONYX 250",
+      "anio": 2025,
+      "categoria": "URBAN SPORT",
+      "precio": 23199.2,
+      "ficha": {
+        "nombre": "Onyx 250 gris 2025",
+        "anio": 2025,
+        "url": "https://www.bicimex.com/products/show/0200180199/motocicleta-vento-onyx-250-gris",
+        "campos": {
+          "Motor": "4 tiempos, OHV, 2 válvulas, enfriado por aire",
+          "Número de Cilindros": "1",
+          "Capacidad del Cilindro": "250 cc",
+          "Potencia Máxima": "18 HP",
+          "Torque": "18 Nm a 5500 rpm",
+          "Transmisión": "Manual, 5 velocidades; final por cadena",
+          "Tanque de Combustible": "18 litros",
+          "Altura del Asiento": "795 mm",
+          "Peso": "110 kg",
+          "Freno Delantero": "Disco ventilado",
+          "Freno Trasero": "Tambor",
+          "Rueda Delantera": "90/90-17",
+          "Rueda Trasera": "120/80-17",
+          "Suspensión Delantera": "Horquilla telescópica",
+          "Suspensión Trasera": "Basculante, doble amortiguador",
+          "Largo Total": "2100 mm",
+          "Ancho Total": "780 mm",
+          "Capacidad de Carga": "150 kg"
+        },
+        "tipo": "Datos publicados para este modelo y año",
+        "nota": ""
+      },
+      "fuentes": [
+        {
+          "nombre": "Onyx 250 gris 2025",
+          "anio": 2025,
+          "url": "https://www.bicimex.com/products/show/0200180199/motocicleta-vento-onyx-250-gris",
+          "tipo": "Fuente del producto"
+        }
+      ],
+      "nota": "",
+      "anomalia": "",
+      "valoracion": {
+        "carga": 150.0,
+        "fuente_carga": "https://www.bicimex.com/products/show/0200180199/motocicleta-vento-onyx-250-gris",
+        "condicion": "Conductor, acompañante y equipaje deben sumar como máximo 150 kg según la fuente citada. Confirmar que ese límite y la configuración para pasajero corresponden a la unidad entregada."
+      },
+      "identidad": true,
+      "foto": "https://www.vento.com/wp-content/uploads/onyx-250-menu-300x200-1.webp"
+    },
+    {
+      "id": "576",
+      "nombre": "COUGAR 250 CC",
+      "anio": 2026,
+      "categoria": "REBEL",
+      "precio": 25999.0,
+      "ficha": {
+        "nombre": "COUGAR 250",
+        "anio": 2026,
+        "url": "https://www.vento.com/cougar-250/",
+        "campos": {
+          "Cilindrada": "250 c.c.",
+          "Potencia": "18 HP",
+          "Motor": "4 Tiempos, Enfriado por Aceite",
+          "Transmisión": "Manual con 5 Velocidades",
+          "Enfriamiento": "Enfriado por Aceite",
+          "Tanque": "15.5 litros",
+          "Peso": "117 kg",
+          "Altura del asiento": "75 cm",
+          "Longitud": "197 cm",
+          "Anchura": "76 cm",
+          "Freno delantero": "Disco"
+        },
+        "tipo": "Datos publicados para este modelo y año",
+        "nota": ""
+      },
+      "fuentes": [
+        {
+          "nombre": "COUGAR 250",
+          "anio": 2026,
+          "url": "https://www.vento.com/cougar-250/",
+          "tipo": "Fuente del producto"
+        }
+      ],
+      "nota": "",
+      "anomalia": "",
+      "valoracion": {
+        "carga": null,
+        "fuente_carga": null,
+        "condicion": "La carga máxima de esta unidad debe constar para contrastarla con el peso real del conductor, acompañante y equipaje; contar dos plazas no acredita por sí solo capacidad para cualquier pareja."
+      },
+      "identidad": true,
+      "foto": "https://www.vento.com/wp-content/uploads/COUGAR-MENU.webp"
+    },
+    {
+      "id": "545",
+      "nombre": "THRILLER 250CC",
+      "anio": 2026,
+      "categoria": "REBEL",
+      "precio": 25999.0,
+      "ficha": {
+        "nombre": "THRILLER 250",
+        "anio": 2026,
+        "url": "https://www.vento.com/thriller-250/",
+        "campos": {
+          "Cilindrada": "250 c.c.",
+          "Potencia": "18 HP",
+          "Motor": "4 Tiempos, Enfriado por Aire",
+          "Transmisión": "Manual con 5 Velocidades",
+          "Enfriamiento": "Enfriado por Aire",
+          "Tanque": "10 litros",
+          "Peso": "110 kg",
+          "Altura del asiento": "77 cm",
+          "Longitud": "200 cm",
+          "Anchura": "77 cm",
+          "Freno delantero": "Disco Hidráulico",
+          "Freno trasero": "Tambor",
+          "Suspensión delantera": "Horquilla Hidráulica"
+        },
+        "tipo": "Datos publicados para este modelo y año",
+        "nota": ""
+      },
+      "fuentes": [
+        {
+          "nombre": "THRILLER 250",
+          "anio": 2026,
+          "url": "https://www.vento.com/thriller-250/",
+          "tipo": "Fuente del producto"
+        }
+      ],
+      "nota": "",
+      "anomalia": "",
+      "valoracion": {
+        "carga": null,
+        "fuente_carga": null,
+        "condicion": "La carga máxima de esta unidad debe constar para contrastarla con el peso real del conductor, acompañante y equipaje; contar dos plazas no acredita por sí solo capacidad para cualquier pareja."
+      },
+      "identidad": true,
+      "foto": "https://www.vento.com/wp-content/uploads/thriller-250-menu.jpg"
+    },
+    {
+      "id": "683",
+      "nombre": "COUGAR 250 CC",
+      "anio": 2027,
+      "categoria": "REBEL",
+      "precio": 26999.0,
+      "ficha": {
+        "nombre": "COUGAR 250",
+        "anio": 2027,
+        "url": "https://www.vento.com/cougar-250/",
+        "campos": {
+          "Motor": "4 Tiempos, Enfriado por Aceite",
+          "Número de Cilindros": "1",
+          "Capacidad del Cilindro": "250 c.c.",
+          "Potencia Máxima": "18 HP",
+          "Sistema de Ignición": "CDI Electrónica",
+          "Largo Total": "197 cm",
+          "Ancho Total": "76 cm",
+          "Alto Total": "113 cm",
+          "Altura del Asiento": "75 cm",
+          "Peso": "117 kg",
+          "Freno Delantero": "Disco",
+          "Freno Trasero": "Tambor",
+          "Rueda Delantera": "2.75 R18",
+          "Rueda Trasera": "110/90 R16",
+          "Transmisión": "Manual con 5 Velocidades",
+          "Tanque de Combustible": "15.5 litros",
+          "Suspensión Delantera": "Horquilla Hidráulica Invertida",
+          "Suspensión Trasera": "Amortiguadores con resorte"
+        },
+        "tipo": "Datos publicados para este modelo y año",
+        "nota": ""
+      },
+      "fuentes": [
+        {
+          "nombre": "COUGAR 250",
+          "anio": 2027,
+          "url": "https://www.vento.com/cougar-250/",
+          "tipo": "Fuente del producto"
+        },
+        {
+          "nombre": "Motocicleta Vento Chopper Cougar 250 Negro 2027",
+          "anio": 2027,
+          "url": "https://www.marti.mx/motocicleta-vento-chopper-cougar-250-negro-2027-1128000444/p",
+          "tipo": "Fuente del producto"
+        }
+      ],
+      "nota": "",
+      "anomalia": "",
+      "valoracion": {
+        "carga": null,
+        "fuente_carga": null,
+        "condicion": "La carga máxima de esta unidad debe constar para contrastarla con el peso real del conductor, acompañante y equipaje; contar dos plazas no acredita por sí solo capacidad para cualquier pareja."
+      },
+      "identidad": true,
+      "foto": "https://www.vento.com/wp-content/uploads/COUGAR-MENU.webp"
+    },
+    {
+      "id": "715",
+      "nombre": "VRACER 250",
+      "anio": 2027,
+      "categoria": "URBAN SPORT",
+      "precio": 26999.0,
+      "ficha": null,
+      "fuentes": [],
+      "nota": "El catálogo ofrece VRACER 250 2027, pero usa una imagen Thunderstar 300 S. No se localizó ficha primaria atribuible a esa edición; la V-Racer histórica no acredita la oferta 2027.",
+      "anomalia": "La foto que acompaña esta entrada en el cotizador corresponde a Thunderstar 300 S; no identifica el vehículo ofrecido.",
+      "valoracion": {
+        "carga": null,
+        "fuente_carga": null,
+        "condicion": "La carga máxima de esta unidad debe constar para contrastarla con el peso real del conductor, acompañante y equipaje; contar dos plazas no acredita por sí solo capacidad para cualquier pareja."
+      },
+      "identidad": false,
+      "foto": null
+    },
+    {
+      "id": "486",
+      "nombre": "NITROX 250 T3",
+      "anio": 2025,
+      "categoria": "URBAN SPORT",
+      "precio": 27199.2,
+      "ficha": {
+        "nombre": "NITROX 250 T3",
+        "anio": 2025,
+        "url": "https://lanamovil.net/wp-content/uploads/2025/08/catalogo_vento_tby_2025-2.pdf#page=30",
+        "campos": {
+          "Motor": "4 tiempos, enfriado por aire",
+          "Cilindros": "1",
+          "Capacidad del Cilindro": "250 cc",
+          "Potencia Máxima": "18 H.P.",
+          "Ignición": "CDI Electrónica",
+          "Transmisión": "Manual con 5 velocidades",
+          "Largo Total": "209 cm",
+          "Ancho Total": "80 cm",
+          "Alto Total": "116 cm",
+          "Altura del Asiento": "80 cm",
+          "Peso en seco": "120 Kg",
+          "Suspensión Delantera": "Horquilla hidráulica",
+          "Suspensión Trasera": "Monoshock",
+          "Freno Delantero": "Disco ventilado",
+          "Freno Trasero": "Disco ventilado",
+          "Rueda Delantera": "110/80 R17",
+          "Rueda Trasera": "140/80 R17"
+        },
+        "tipo": "Datos publicados para este modelo y año",
+        "nota": "La ficha de la página 30 se cruza con la fila Modelo 2025 de la página 54 del mismo catálogo; sus precios y condiciones crediticias no se usan aquí."
+      },
+      "fuentes": [
+        {
+          "nombre": "NITROX 250 T3",
+          "anio": 2025,
+          "url": "https://lanamovil.net/wp-content/uploads/2025/08/catalogo_vento_tby_2025-2.pdf#page=30",
+          "tipo": "Fuente del producto"
+        },
+        {
+          "nombre": "Tabla que identifica expresamente el modelo 2025",
+          "anio": 2025,
+          "url": "https://lanamovil.net/wp-content/uploads/2025/08/catalogo_vento_tby_2025-2.pdf#page=54",
+          "tipo": "Fuente del producto"
+        }
+      ],
+      "nota": "La ficha de la página 30 se cruza con la fila Modelo 2025 de la página 54 del mismo catálogo; sus precios y condiciones crediticias no se usan aquí.",
+      "anomalia": "",
+      "valoracion": {
+        "carga": null,
+        "fuente_carga": null,
+        "condicion": "La carga máxima de esta unidad debe constar para contrastarla con el peso real del conductor, acompañante y equipaje; contar dos plazas no acredita por sí solo capacidad para cualquier pareja."
+      },
+      "identidad": true,
+      "foto": "https://www.vento.com/wp-content/uploads/m-nitrox250t3.jpg"
+    },
+    {
+      "id": "585",
+      "nombre": "WORKMAN 250CC",
+      "anio": 2026,
+      "categoria": "TRABAJO",
+      "precio": 27499.0,
+      "ficha": {
+        "nombre": "Workman 250",
+        "anio": 2026,
+        "url": "https://www.vento.com/workman-250-vf25/",
+        "campos": {
+          "Motor": "4 Tiempos, Enfriado por Aire",
+          "Número de Cilindros": "1",
+          "Capacidad del Cilindro": "250 c.c",
+          "Potencia Máxima": "18 HP",
+          "Sistema de Ignición": "CDI Electrónica",
+          "Largo Total": "197 cm",
+          "Ancho Total": "78.3 cm",
+          "Alto Total": "108 cm",
+          "Altura del Asiento": "79.9 cm",
+          "Peso": "115 kg",
+          "Freno Delantero": "Disco Hidráulico",
+          "Freno Trasero": "Tambor",
+          "Rueda Delantera": "3.00 R17",
+          "Rueda Trasera": "110/90 R17",
+          "Transmisión": "Manual con 5 Velocidades",
+          "Tanque de Combustible": "14.5 litros",
+          "Suspensión Delantera": "Horquilla Hidráulica",
+          "Suspensión Trasera": "Amortiguadores con Resorte"
+        },
+        "tipo": "Datos publicados para este modelo y año",
+        "nota": ""
+      },
+      "fuentes": [
+        {
+          "nombre": "Workman 250",
+          "anio": 2026,
+          "url": "https://www.vento.com/workman-250-vf25/",
+          "tipo": "Fuente del producto"
+        }
+      ],
+      "nota": "",
+      "anomalia": "",
+      "valoracion": {
+        "carga": null,
+        "fuente_carga": null,
+        "condicion": "La carga máxima de esta unidad debe constar para contrastarla con el peso real del conductor, acompañante y equipaje; contar dos plazas no acredita por sí solo capacidad para cualquier pareja."
+      },
+      "identidad": true,
+      "foto": "https://www.vento.com/wp-content/uploads/workman250.jpg"
+    },
+    {
+      "id": "708",
+      "nombre": "THRILLER 250CC",
+      "anio": 2027,
+      "categoria": "REBEL",
+      "precio": 27999.0,
+      "ficha": {
+        "nombre": "THRILLER 250",
+        "anio": 2027,
+        "url": "https://www.vento.com/thriller-250/",
+        "campos": {
+          "Motor": "4 Tiempos, Enfriado por Aire",
+          "Número de Cilindros": "1",
+          "Capacidad del Cilindro": "250 c.c.",
+          "Potencia Máxima": "18 HP",
+          "Sistema de Ignición": "CDI Electrónica",
+          "Largo Total": "200 cm",
+          "Ancho Total": "77 cm",
+          "Alto Total": "110 cm",
+          "Altura del Asiento": "77 cm",
+          "Peso": "110 kg",
+          "Freno Delantero": "Disco Hidráulico",
+          "Freno Trasero": "Tambor",
+          "Rueda Delantera": "90/90 R17",
+          "Rueda Trasera": "120/80 R17",
+          "Transmisión": "Manual con 5 Velocidades",
+          "Tanque de Combustible": "10 litros",
+          "Suspensión Delantera": "Horquilla Hidráulica",
+          "Suspensión Trasera": "Amortiguadores con Resorte"
+        },
+        "tipo": "Datos publicados para este modelo y año",
+        "nota": ""
+      },
+      "fuentes": [
+        {
+          "nombre": "THRILLER 250",
+          "anio": 2027,
+          "url": "https://www.vento.com/thriller-250/",
+          "tipo": "Fuente del producto"
+        },
+        {
+          "nombre": "Motocicleta Vento Urban Sport Thriller 250 Negro 2027",
+          "anio": 2027,
+          "url": "https://www.marti.mx/motocicleta-vento-urban-sport-thriller-250-negro-2027-1128000474/p",
+          "tipo": "Fuente del producto"
+        }
+      ],
+      "nota": "",
+      "anomalia": "",
+      "valoracion": {
+        "carga": null,
+        "fuente_carga": null,
+        "condicion": "La carga máxima de esta unidad debe constar para contrastarla con el peso real del conductor, acompañante y equipaje; contar dos plazas no acredita por sí solo capacidad para cualquier pareja."
+      },
+      "identidad": true,
+      "foto": "https://www.vento.com/wp-content/uploads/thriller-250-menu.jpg"
+    },
+    {
+      "id": "712",
+      "nombre": "WORKMAN 250CC",
+      "anio": 2027,
+      "categoria": "TRABAJO",
+      "precio": 27999.0,
+      "ficha": {
+        "nombre": "WORKMAN 250",
+        "anio": 2027,
+        "url": "https://www.vento.com/workman-250/",
+        "campos": {
+          "Motor": "4 Tiempos, Enfriado por Aire",
+          "Número de Cilindros": "1",
+          "Capacidad del Cilindro": "250 c.c.",
+          "Potencia Máxima": "18 HP",
+          "Sistema de Ignición": "CDI Electrónica",
+          "Largo Total": "197 cm",
+          "Ancho Total": "78.3 cm",
+          "Alto Total": "108 cm",
+          "Altura del Asiento": "79.9 cm",
+          "Peso": "115 kg",
+          "Freno Delantero": "Disco Hidráulico",
+          "Freno Trasero": "Tambor",
+          "Rueda Delantera": "3.00 R17",
+          "Rueda Trasera": "110/90 R17",
+          "Transmisión": "Manual con 5 Velocidades",
+          "Tanque de Combustible": "14.5 litros",
+          "Suspensión Delantera": "Horquilla Hidráulica",
+          "Suspensión Trasera": "Amortiguadores con Resorte"
+        },
+        "tipo": "Datos publicados para este modelo y año",
+        "nota": ""
+      },
+      "fuentes": [
+        {
+          "nombre": "WORKMAN 250",
+          "anio": 2027,
+          "url": "https://www.vento.com/workman-250/",
+          "tipo": "Fuente del producto"
+        }
+      ],
+      "nota": "",
+      "anomalia": "",
+      "valoracion": {
+        "carga": null,
+        "fuente_carga": null,
+        "condicion": "La carga máxima de esta unidad debe constar para contrastarla con el peso real del conductor, acompañante y equipaje; contar dos plazas no acredita por sí solo capacidad para cualquier pareja."
+      },
+      "identidad": true,
+      "foto": "https://www.vento.com/wp-content/uploads/workman250.jpg"
+    },
+    {
+      "id": "659",
+      "nombre": "CROSSMAX 250 PRO CC",
+      "anio": 2023,
+      "categoria": "DOBLE PROPOSITO",
+      "precio": 28799.0,
+      "ficha": {
+        "nombre": "CROSSMAX250PROnegro2023",
+        "anio": 2023,
+        "url": "https://www.sears.com.mx/producto/2340995/motocicleta-crossmax250-pro-color-negro-2023",
+        "campos": {
+          "Motor": "Monocilíndrico de4tiempos",
+          "Capacidad del Cilindro": "250cc (nombre comercial)",
+          "Potencia Máxima": "18HP",
+          "Tanque de Combustible": "12L",
+          "Suspensión Delantera": "Invertida",
+          "Suspensión Trasera": "Monoshock",
+          "Freno Delantero": "Disco hidráulico",
+          "Freno Trasero": "Disco hidráulico",
+          "Capacidad de carga": "150kg"
+        },
+        "tipo": "Datos publicados para este modelo y año",
+        "nota": "Título y ficha de atributos dicen2023; la descripción conserva una referencia2022."
+      },
+      "fuentes": [
+        {
+          "nombre": "CROSSMAX250PROnegro2023",
+          "anio": 2023,
+          "url": "https://www.sears.com.mx/producto/2340995/motocicleta-crossmax250-pro-color-negro-2023",
+          "tipo": "Fuente del producto"
+        },
+        {
+          "nombre": "OUTLETCrossmax250PRO2023 fabricante",
+          "anio": 2023,
+          "url": "https://www.vento.com/producto/outlet-crossmax-250-pro-2023/",
+          "tipo": "Fuente del producto"
+        }
+      ],
+      "nota": "Título y ficha de atributos dicen2023; la descripción conserva una referencia2022.",
+      "anomalia": "",
+      "valoracion": {
+        "carga": 150.0,
+        "fuente_carga": "https://www.sears.com.mx/producto/2340995/motocicleta-crossmax250-pro-color-negro-2023",
+        "condicion": "Conductor, acompañante y equipaje deben sumar como máximo 150 kg según la fuente citada. Confirmar que ese límite y la configuración para pasajero corresponden a la unidad entregada."
+      },
+      "identidad": true,
+      "foto": "https://www.vento.com/wp-content/uploads/thunderstar300s-menu.jpg"
+    },
+    {
+      "id": "543",
+      "nombre": "ONYX 250",
+      "anio": 2026,
+      "categoria": "URBAN SPORT",
+      "precio": 28999.0,
+      "ficha": {
+        "nombre": "ONYX 250",
+        "anio": 2026,
+        "url": "https://www.vento.com/onyx250/",
+        "campos": {
+          "Cilindrada": "250 c.c.",
+          "Potencia": "18 HP",
+          "Motor": "4 Tiempos, Enfriado por Aire",
+          "Transmisión": "Manual con 5 Velocidades",
+          "Enfriamiento": "Enfriado por Aire",
+          "Tanque": "18 litros",
+          "Peso": "110 kg",
+          "Altura del asiento": "79.5 cm",
+          "Longitud": "201 cm",
+          "Anchura": "78 cm",
+          "Freno delantero": "Disco Hidráulico",
+          "Freno trasero": "Tambor"
+        },
+        "tipo": "Datos publicados para este modelo y año",
+        "nota": ""
+      },
+      "fuentes": [
+        {
+          "nombre": "ONYX 250",
+          "anio": 2026,
+          "url": "https://www.vento.com/onyx250/",
+          "tipo": "Fuente del producto"
+        }
+      ],
+      "nota": "",
+      "anomalia": "",
+      "valoracion": {
+        "carga": null,
+        "fuente_carga": null,
+        "condicion": "La carga máxima de esta unidad debe constar para contrastarla con el peso real del conductor, acompañante y equipaje; contar dos plazas no acredita por sí solo capacidad para cualquier pareja."
+      },
+      "identidad": true,
+      "foto": "https://www.vento.com/wp-content/uploads/onyx-250-menu-300x200-1.webp"
+    },
+    {
+      "id": "564",
+      "nombre": "CROSSMAX 250CC",
+      "anio": 2025,
+      "categoria": "DOBLE PROPOSITO",
+      "precio": 29599.2,
+      "ficha": {
+        "nombre": "CROSSMAX250rojo2025",
+        "anio": 2025,
+        "url": "https://www.walmart.com.mx/ip/motocicleta-doble-proposito-vento-crossmax-250-rojo-2025-vento/00067591070630",
+        "campos": {
+          "Motor": "4tiempos,enfriado por aire",
+          "Capacidad del Cilindro": "250cc",
+          "Potencia Máxima": "19HP",
+          "Transmisión": "Manual5velocidades",
+          "Tanque de Combustible": "12.5L",
+          "Suspensión Delantera": "Horquilla hidráulica",
+          "Suspensión Trasera": "Monoshock",
+          "Freno Delantero": "Disco hidráulico",
+          "Freno Trasero": "Disco hidráulico"
+        },
+        "tipo": "Datos publicados para este modelo y año",
+        "nota": "Año2025 expreso; fuente vendida porMOTOTRANSP."
+      },
+      "fuentes": [
+        {
+          "nombre": "CROSSMAX250rojo2025",
+          "anio": 2025,
+          "url": "https://www.walmart.com.mx/ip/motocicleta-doble-proposito-vento-crossmax-250-rojo-2025-vento/00067591070630",
+          "tipo": "Fuente del producto"
+        }
+      ],
+      "nota": "Año2025 expreso; fuente vendida porMOTOTRANSP.",
+      "anomalia": "",
+      "valoracion": {
+        "carga": null,
+        "fuente_carga": null,
+        "condicion": "La carga máxima de esta unidad debe constar para contrastarla con el peso real del conductor, acompañante y equipaje; contar dos plazas no acredita por sí solo capacidad para cualquier pareja."
+      },
+      "identidad": true,
+      "foto": "https://www.vento.com/wp-content/uploads/m-vento-crossmax250.jpg"
+    },
+    {
+      "id": "614",
+      "nombre": "FALKON 250CC",
+      "anio": 2026,
+      "categoria": "URBAN SPORT",
+      "precio": 29999.0,
+      "ficha": {
+        "nombre": "FALKON 250",
+        "anio": 2026,
+        "url": "https://www.vento.com/falkon-250/",
+        "campos": {
+          "Cilindrada": "250 c.c.",
+          "Potencia": "18 HP",
+          "Motor": "4 Tiempos, Enfriado por Aire",
+          "Transmisión": "Manual con 5 Velocidades",
+          "Enfriamiento": "Enfriado por Aire",
+          "Tanque": "14 litros",
+          "Peso": "125 kg",
+          "Altura del asiento": "80 cm",
+          "Longitud": "208 cm",
+          "Anchura": "76.5 cm",
+          "Freno delantero": "Disco Hidráulico",
+          "Freno trasero": "Tambor",
+          "Suspensión delantera": "Horquilla Hidráulica"
+        },
+        "tipo": "Datos publicados para este modelo y año",
+        "nota": ""
+      },
+      "fuentes": [
+        {
+          "nombre": "FALKON 250",
+          "anio": 2026,
+          "url": "https://www.vento.com/falkon-250/",
+          "tipo": "Fuente del producto"
+        }
+      ],
+      "nota": "",
+      "anomalia": "",
+      "valoracion": {
+        "carga": null,
+        "fuente_carga": null,
+        "condicion": "La carga máxima de esta unidad debe constar para contrastarla con el peso real del conductor, acompañante y equipaje; contar dos plazas no acredita por sí solo capacidad para cualquier pareja."
+      },
+      "identidad": true,
+      "foto": "https://www.vento.com/wp-content/uploads/vento-falkon-220-01.jpg"
+    },
+    {
+      "id": "698",
+      "nombre": "ONYX 250",
+      "anio": 2027,
+      "categoria": "URBAN SPORT",
+      "precio": 29999.0,
+      "ficha": {
+        "nombre": "ONYX 250",
+        "anio": 2027,
+        "url": "https://www.vento.com/onyx250/",
+        "campos": {
+          "Motor": "4 Tiempos, Enfriado por Aire",
+          "Número de Cilindros": "1",
+          "Capacidad del Cilindro": "250 c.c.",
+          "Potencia Máxima": "18 HP",
+          "Sistema de Ignición": "CDI Electrónica",
+          "Largo Total": "201 cm",
+          "Ancho Total": "78 cm",
+          "Alto Total": "112 cm",
+          "Altura del Asiento": "79.5 cm",
+          "Peso": "110 kg",
+          "Freno Delantero": "Disco Hidráulico",
+          "Freno Trasero": "Tambor",
+          "Rueda Delantera": "90/90 R17",
+          "Rueda Trasera": "120/80 R17",
+          "Transmisión": "Manual con 5 Velocidades",
+          "Tanque de Combustible": "18 litros",
+          "Suspensión Delantera": "Horquilla Hidráulica",
+          "Suspensión Trasera": "Amortiguadores con resorte"
+        },
+        "tipo": "Datos publicados para este modelo y año",
+        "nota": ""
+      },
+      "fuentes": [
+        {
+          "nombre": "ONYX 250",
+          "anio": 2027,
+          "url": "https://www.vento.com/onyx250/",
+          "tipo": "Fuente del producto"
+        }
+      ],
+      "nota": "",
+      "anomalia": "",
+      "valoracion": {
+        "carga": null,
+        "fuente_carga": null,
+        "condicion": "La carga máxima de esta unidad debe constar para contrastarla con el peso real del conductor, acompañante y equipaje; contar dos plazas no acredita por sí solo capacidad para cualquier pareja."
+      },
+      "identidad": true,
+      "foto": "https://www.vento.com/wp-content/uploads/onyx-250-menu-300x200-1.webp"
+    },
+    {
+      "id": "692",
+      "nombre": "FALKON 250CC",
+      "anio": 2027,
+      "categoria": "URBAN SPORT",
+      "precio": 30999.0,
+      "ficha": {
+        "nombre": "FALKON 250",
+        "anio": 2027,
+        "url": "https://www.vento.com/falkon-250/",
+        "campos": {
+          "Motor": "4 Tiempos, Enfriado por Aire",
+          "Número de Cilindros": "1",
+          "Capacidad del Cilindro": "250 c.c.",
+          "Potencia Máxima": "18 HP",
+          "Sistema de Ignición": "CDI Electrónica",
+          "Largo Total": "208 cm",
+          "Ancho Total": "76.5 cm",
+          "Alto Total": "108 cm",
+          "Altura del Asiento": "80 cm",
+          "Peso": "125 kg",
+          "Freno Delantero": "Disco Hidráulico",
+          "Freno Trasero": "Tambor",
+          "Rueda Delantera": "90/90 R17",
+          "Rueda Trasera": "120/80 R17",
+          "Transmisión": "Manual con 5 Velocidades",
+          "Tanque de Combustible": "14 litros",
+          "Suspensión Delantera": "Horquilla Hidráulica",
+          "Suspensión Trasera": "Monoshock"
+        },
+        "tipo": "Datos publicados para este modelo y año",
+        "nota": ""
+      },
+      "fuentes": [
+        {
+          "nombre": "FALKON 250",
+          "anio": 2027,
+          "url": "https://www.vento.com/falkon-250/",
+          "tipo": "Fuente del producto"
+        }
+      ],
+      "nota": "",
+      "anomalia": "",
+      "valoracion": {
+        "carga": null,
+        "fuente_carga": null,
+        "condicion": "La carga máxima de esta unidad debe constar para contrastarla con el peso real del conductor, acompañante y equipaje; contar dos plazas no acredita por sí solo capacidad para cualquier pareja."
+      },
+      "identidad": true,
+      "foto": "https://www.vento.com/wp-content/uploads/vento-falkon-220-01.jpg"
+    },
+    {
+      "id": "602",
+      "nombre": "CROSSMAX 250CC",
+      "anio": 2026,
+      "categoria": "DOBLE PROPOSITO",
+      "precio": 33999.0,
+      "ficha": {
+        "nombre": "CROSSMAX 250",
+        "anio": 2026,
+        "url": "https://www.vento.com/crossmax-250/",
+        "campos": {
+          "Cilindrada": "250 c.c.",
+          "Potencia": "18 HP",
+          "Motor": "4 Tiempos, Enfriado por Aire",
+          "Transmisión": "Manual con 5 Velocidades",
+          "Enfriamiento": "Enfriado por Aire",
+          "Tanque": "12 litros",
+          "Peso": "126 kg",
+          "Altura del asiento": "85 cm",
+          "Longitud": "213 cm",
+          "Anchura": "86 cm",
+          "Freno delantero": "Disco Hidráulico",
+          "Freno trasero": "Disco Hidráulico"
+        },
+        "tipo": "Datos publicados para este modelo y año",
+        "nota": "La página enlazada puede mostrar ahora otra edición; estos datos corresponden a la referencia de octubre."
+      },
+      "fuentes": [
+        {
+          "nombre": "CROSSMAX 250",
+          "anio": 2026,
+          "url": "https://www.vento.com/crossmax-250/",
+          "tipo": "Fuente del producto"
+        }
+      ],
+      "nota": "La página enlazada puede mostrar ahora otra edición; estos datos corresponden a la referencia de octubre.",
+      "anomalia": "",
+      "valoracion": {
+        "carga": null,
+        "fuente_carga": null,
+        "condicion": "La carga máxima de esta unidad debe constar para contrastarla con el peso real del conductor, acompañante y equipaje; contar dos plazas no acredita por sí solo capacidad para cualquier pareja."
+      },
+      "identidad": true,
+      "foto": "https://www.vento.com/wp-content/uploads/m-vento-crossmax250.jpg"
+    },
+    {
+      "id": "621",
+      "nombre": "NITROX 250 T3",
+      "anio": 2026,
+      "categoria": "URBAN SPORT",
+      "precio": 33999.0,
+      "ficha": {
+        "nombre": "NITROX 250 T3",
+        "anio": 2026,
+        "url": "https://www.vento.com/nitrox-250-t3/",
+        "campos": {
+          "Cilindrada": "250 c.c.",
+          "Potencia": "18 HP",
+          "Motor": "4 Tiempos, Enfriado por Aire",
+          "Transmisión": "Manual con 5 Velocidades",
+          "Enfriamiento": "Enfriado por Aire",
+          "Tanque": "13.4 litros",
+          "Peso": "120 kg",
+          "Altura del asiento": "80 cm",
+          "Longitud": "209 cm",
+          "Anchura": "80 cm",
+          "Freno delantero": "Disco Ventilado",
+          "Freno trasero": "Disco Ventilado"
+        },
+        "tipo": "Datos publicados para este modelo y año",
+        "nota": ""
+      },
+      "fuentes": [
+        {
+          "nombre": "NITROX 250 T3",
+          "anio": 2026,
+          "url": "https://www.vento.com/nitrox-250-t3/",
+          "tipo": "Fuente del producto"
+        }
+      ],
+      "nota": "",
+      "anomalia": "",
+      "valoracion": {
+        "carga": null,
+        "fuente_carga": null,
+        "condicion": "La carga máxima de esta unidad debe constar para contrastarla con el peso real del conductor, acompañante y equipaje; contar dos plazas no acredita por sí solo capacidad para cualquier pareja."
+      },
+      "identidad": true,
+      "foto": "https://www.vento.com/wp-content/uploads/m-nitrox250t3.jpg"
+    },
+    {
+      "id": "720",
+      "nombre": "CROSSMAX250 LED",
+      "anio": 2026,
+      "categoria": "DOBLE PROPOSITO",
+      "precio": 34999.0,
+      "ficha": {
+        "nombre": "CROSSMAX 250 LED",
+        "anio": 2026,
+        "url": "https://www.vento.com/crossmax-250-led/",
+        "campos": {
+          "Cilindrada": "250 c.c.",
+          "Potencia": "19 HP",
+          "Motor": "4 Tiempos, Enfriado por Aire",
+          "Transmisión": "Manual con 5 Velocidades",
+          "Enfriamiento": "Enfriado por Aire",
+          "Tanque": "13 litros",
+          "Peso": "126 kg",
+          "Altura del asiento": "86 cm",
+          "Longitud": "205 cm",
+          "Anchura": "87 cm"
+        },
+        "tipo": "Datos publicados para este modelo y año",
+        "nota": "La página enlazada puede mostrar ahora otra edición; estos datos corresponden a la referencia de octubre."
+      },
+      "fuentes": [
+        {
+          "nombre": "CROSSMAX 250 LED",
+          "anio": 2026,
+          "url": "https://www.vento.com/crossmax-250-led/",
+          "tipo": "Fuente del producto"
+        }
+      ],
+      "nota": "La página enlazada puede mostrar ahora otra edición; estos datos corresponden a la referencia de octubre.",
+      "anomalia": "",
+      "valoracion": {
+        "carga": null,
+        "fuente_carga": null,
+        "condicion": "La carga máxima de esta unidad debe constar para contrastarla con el peso real del conductor, acompañante y equipaje; contar dos plazas no acredita por sí solo capacidad para cualquier pareja."
+      },
+      "identidad": true,
+      "foto": "https://www.vento.com/wp-content/uploads/crossmax250led-main-1024x1024.webp"
+    },
+    {
+      "id": "727",
+      "nombre": "STORM 250",
+      "anio": 2027,
+      "categoria": "URBAN SPORT",
+      "precio": 34999.0,
+      "ficha": null,
+      "fuentes": [],
+      "nota": "El catálogo ofrece Storm 250 2027 con imagen Thunderstar 300 S. La ficha pública actual es Storm 300 2.0; no se atribuyen motor, potencia ni caja de 300 a la oferta 250.",
+      "anomalia": "La foto que acompaña esta entrada en el cotizador corresponde a Thunderstar 300 S; no identifica el vehículo ofrecido.",
+      "valoracion": {
+        "carga": null,
+        "fuente_carga": null,
+        "condicion": "La carga máxima de esta unidad debe constar para contrastarla con el peso real del conductor, acompañante y equipaje; contar dos plazas no acredita por sí solo capacidad para cualquier pareja."
+      },
+      "identidad": false,
+      "foto": null
+    },
+    {
+      "id": "721",
+      "nombre": "CROSSMAX 250 LED",
+      "anio": 2027,
+      "categoria": "DOBLE PROPOSITO",
+      "precio": 35999.0,
+      "ficha": {
+        "nombre": "CROSSMAX 250 LED",
+        "anio": 2027,
+        "url": "https://www.vento.com/crossmax-250-led/",
+        "campos": {
+          "Motor": "4 Tiempos, Enfriado por Aire",
+          "Número de Cilindros": "1",
+          "Capacidad del Cilindro": "250 c.c.",
+          "Potencia Máxima": "19 HP",
+          "Sistema de Ignición": "CDI Electrónica",
+          "Largo Total": "205 cm",
+          "Ancho Total": "87 cm",
+          "Alto Total": "117 cm",
+          "Altura del Asiento": "86 cm",
+          "Peso": "126 kg",
+          "Freno Delantero": "Disco Hidráulico",
+          "Freno Trasero": "Disco Hidráulico",
+          "Rueda Delantera": "80/100 R21",
+          "Rueda Trasera": "110/110 R18",
+          "Transmisión": "Manual con 5 Velocidades",
+          "Tanque de Combustible": "13 litros",
+          "Suspensión Delantera": "Horquilla Hidráulica",
+          "Suspensión Trasera": "Monoshock"
+        },
+        "tipo": "Datos publicados para este modelo y año",
+        "nota": "Especificaciones anunciadas por Vento; no son mediciones de desempeño."
+      },
+      "fuentes": [
+        {
+          "nombre": "CROSSMAX 250 LED",
+          "anio": 2027,
+          "url": "https://www.vento.com/crossmax-250-led/",
+          "tipo": "Fuente del producto"
+        }
+      ],
+      "nota": "Especificaciones anunciadas por Vento; no son mediciones de desempeño.",
+      "anomalia": "",
+      "valoracion": {
+        "carga": null,
+        "fuente_carga": null,
+        "condicion": "La carga máxima de esta unidad debe constar para contrastarla con el peso real del conductor, acompañante y equipaje; contar dos plazas no acredita por sí solo capacidad para cualquier pareja."
+      },
+      "identidad": true,
+      "foto": "https://www.vento.com/wp-content/uploads/thunderstar300s-menu.jpg"
+    },
+    {
+      "id": "689",
+      "nombre": "CROSSMAX 250CC",
+      "anio": 2027,
+      "categoria": "DOBLE PROPOSITO",
+      "precio": 35999.0,
+      "ficha": {
+        "nombre": "Motocicleta Vento Doble Propósito Crossmax 250 Negro 2027",
+        "anio": 2027,
+        "url": "https://www.marti.mx/motocicleta-vento-doble-proposito-crossmax-250-negro-2027-1128000457/p",
+        "campos": {
+          "Motor": "4 Tiempos, enfriado por aire",
+          "Número de Cilindros": "1",
+          "Capacidad del Cilindro": "250 c.c",
+          "Potencia Máxima": "19 HP",
+          "Sistema de Ignición": "CDI Electrónica",
+          "Peso": "126 kg",
+          "Largo Total": "205 cm",
+          "Ancho Total": "87 cm",
+          "Alto Total": "115 cm",
+          "Altura del Asiento": "86 cm",
+          "Freno Delantero": "Disco Hidráulico",
+          "Freno Trasero": "Disco Hidráulico",
+          "Rueda Delantera": "80/100 - R21",
+          "Rueda Trasera": "110/100 - R18",
+          "Transmisión": "Manual con 5 velocidades",
+          "Tanque de Combustible": "13 litros",
+          "Suspensión Delantera": "Horquilla Hidráulica",
+          "Suspensión Trasera": "Monoshock"
+        },
+        "tipo": "Datos publicados para este modelo y año",
+        "nota": "TítuloCrossmax250negro2027 y descripciónCrossmax250LED2027 en el mismo anuncio. En crédito existe además una ofertaLED separada: confirmar cuál se entrega."
+      },
+      "fuentes": [
+        {
+          "nombre": "Motocicleta Vento Doble Propósito Crossmax 250 Negro 2027",
+          "anio": 2027,
+          "url": "https://www.marti.mx/motocicleta-vento-doble-proposito-crossmax-250-negro-2027-1128000457/p",
+          "tipo": "Fuente del producto"
+        }
+      ],
+      "nota": "TítuloCrossmax250negro2027 y descripciónCrossmax250LED2027 en el mismo anuncio. En crédito existe además una ofertaLED separada: confirmar cuál se entrega.",
+      "anomalia": "",
+      "valoracion": {
+        "carga": null,
+        "fuente_carga": null,
+        "condicion": "La carga máxima de esta unidad debe constar para contrastarla con el peso real del conductor, acompañante y equipaje; contar dos plazas no acredita por sí solo capacidad para cualquier pareja."
+      },
+      "identidad": true,
+      "foto": "https://www.vento.com/wp-content/uploads/m-vento-crossmax250.jpg"
+    },
+    {
+      "id": "667",
+      "nombre": "NITROX 250 T3",
+      "anio": 2027,
+      "categoria": "URBAN SPORT",
+      "precio": 35999.0,
+      "ficha": {
+        "nombre": "NITROX 250 T3",
+        "anio": 2027,
+        "url": "https://www.vento.com/nitrox-250-t3/",
+        "campos": {
+          "Motor": "4 Tiempos, Enfriado por Aire",
+          "Número de Cilindros": "1",
+          "Capacidad del Cilindro": "250 c.c.",
+          "Potencia Máxima": "18 HP",
+          "Sistema de Ignición": "CDI Electrónica",
+          "Largo Total": "209 cm",
+          "Ancho Total": "80 cm",
+          "Alto Total": "116 cm",
+          "Altura del Asiento": "80 cm",
+          "Peso": "120 kg",
+          "Freno Delantero": "Disco Ventilado",
+          "Freno Trasero": "Disco Ventilado",
+          "Rueda Delantera": "110/80 R17",
+          "Rueda Trasera": "140/70 R17",
+          "Transmisión": "Manual con 5 Velocidades",
+          "Tanque de Combustible": "13.4 litros",
+          "Suspensión Delantera": "Horquilla Hidráulica",
+          "Suspensión Trasera": "Monoshock"
+        },
+        "tipo": "Datos publicados para este modelo y año",
+        "nota": ""
+      },
+      "fuentes": [
+        {
+          "nombre": "NITROX 250 T3",
+          "anio": 2027,
+          "url": "https://www.vento.com/nitrox-250-t3/",
+          "tipo": "Fuente del producto"
+        }
+      ],
+      "nota": "",
+      "anomalia": "",
+      "valoracion": {
+        "carga": null,
+        "fuente_carga": null,
+        "condicion": "La carga máxima de esta unidad debe constar para contrastarla con el peso real del conductor, acompañante y equipaje; contar dos plazas no acredita por sí solo capacidad para cualquier pareja."
+      },
+      "identidad": true,
+      "foto": "https://www.vento.com/wp-content/uploads/m-nitrox250t3.jpg"
+    },
+    {
+      "id": "407",
+      "nombre": "CROSSMAX 250 PRO",
+      "anio": 2024,
+      "categoria": "DOBLE PROPOSITO",
+      "precio": 37999.0,
+      "ficha": {
+        "nombre": "CROSSMAX250PROnegro2024",
+        "anio": 2024,
+        "url": "https://www.sears.com.mx/producto/2485440/motocicleta-vento-crossmax-250-pro-negro-2024",
+        "campos": {
+          "Capacidad del Cilindro": "250cc (nombre comercial)",
+          "Potencia Máxima": "18HP",
+          "Suspensión Delantera": "Invertida",
+          "Suspensión Trasera": "Monoshock",
+          "Frenos": "De disco"
+        },
+        "tipo": "Datos publicados para este modelo y año",
+        "nota": "La página identifica año2024 en el título y describe la configuración; no anuncia más atributos."
+      },
+      "fuentes": [
+        {
+          "nombre": "CROSSMAX250PROnegro2024",
+          "anio": 2024,
+          "url": "https://www.sears.com.mx/producto/2485440/motocicleta-vento-crossmax-250-pro-negro-2024",
+          "tipo": "Fuente del producto"
+        }
+      ],
+      "nota": "La página identifica año2024 en el título y describe la configuración; no anuncia más atributos.",
+      "anomalia": "",
+      "valoracion": {
+        "carga": null,
+        "fuente_carga": null,
+        "condicion": "La carga máxima de esta unidad debe constar para contrastarla con el peso real del conductor, acompañante y equipaje; contar dos plazas no acredita por sí solo capacidad para cualquier pareja."
+      },
+      "identidad": true,
+      "foto": "https://www.vento.com/wp-content/uploads/crossmax250.jpg"
+    },
+    {
+      "id": "617",
+      "nombre": "YUMA 250",
+      "anio": 2026,
+      "categoria": "CUATRIMOTO",
+      "precio": 50999.0,
+      "ficha": {
+        "nombre": "YUMA 250",
+        "anio": 2026,
+        "url": "https://www.vento.com/yuma-250/",
+        "campos": {
+          "Cilindrada": "250 c.c.",
+          "Potencia": "25 HP",
+          "Motor": "4 Tiempos, Enfriado por Aire",
+          "Transmisión": "Automática CVT con Reversa",
+          "Enfriamiento": "Enfriado por Aire",
+          "Tanque": "8 litros",
+          "Peso": "220 kg",
+          "Longitud": "182 cm",
+          "Anchura": "111 cm",
+          "Freno delantero": "Tambor"
+        },
+        "tipo": "Datos publicados para este modelo y año",
+        "nota": "La página enlazada puede mostrar ahora otra edición; estos datos corresponden a la referencia de octubre."
+      },
+      "fuentes": [
+        {
+          "nombre": "YUMA 250",
+          "anio": 2026,
+          "url": "https://www.vento.com/yuma-250/",
+          "tipo": "Fuente del producto"
+        }
+      ],
+      "nota": "La página enlazada puede mostrar ahora otra edición; estos datos corresponden a la referencia de octubre.",
+      "anomalia": "",
+      "valoracion": {
+        "carga": null,
+        "fuente_carga": null,
+        "condicion": "La clasificación de pasajeros y el uso autorizado corresponden a su configuración utilitaria o recreativa; no se prioriza para este perfil de compra."
+      },
+      "identidad": true,
+      "foto": "https://www.vento.com/wp-content/uploads/yuma-menu.jpg"
+    },
+    {
+      "id": "660",
+      "nombre": "YUMA 250",
+      "anio": 2027,
+      "categoria": "CUATRIMOTO",
+      "precio": 53999.0,
+      "ficha": {
+        "nombre": "YUMA 250",
+        "anio": 2027,
+        "url": "https://www.vento.com/yuma-250/",
+        "campos": {
+          "Motor": "4 Tiempos, Enfriado por Aire",
+          "Número de Cilindros": "1",
+          "Capacidad del Cilindro": "250 c.c.",
+          "Potencia Máxima": "25 HP",
+          "Sistema de Ignición": "CDI Electrónica",
+          "Largo Total": "182 cm",
+          "Ancho Total": "111 cm",
+          "Alto Total": "121 cm Altura del Suelo: 13 cm",
+          "Peso": "220 kg",
+          "Freno Delantero": "Tambor",
+          "Freno Trasero": "Disco Hidráulico",
+          "Rueda Delantera": "23×7 R10",
+          "Rueda Trasera": "22×10 R10",
+          "Transmisión": "Automática CVT con Reversa",
+          "Tanque de Combustible": "8 litros",
+          "Suspensión Delantera": "Brazo en A",
+          "Suspensión Trasera": "Mono Amortiguador con Resorte"
+        },
+        "tipo": "Datos publicados para este modelo y año",
+        "nota": "Especificaciones anunciadas por Vento; no son mediciones de desempeño."
+      },
+      "fuentes": [
+        {
+          "nombre": "YUMA 250",
+          "anio": 2027,
+          "url": "https://www.vento.com/yuma-250/",
+          "tipo": "Fuente del producto"
+        }
+      ],
+      "nota": "Especificaciones anunciadas por Vento; no son mediciones de desempeño.",
+      "anomalia": "",
+      "valoracion": {
+        "carga": null,
+        "fuente_carga": null,
+        "condicion": "La clasificación de pasajeros y el uso autorizado corresponden a su configuración utilitaria o recreativa; no se prioriza para este perfil de compra."
+      },
+      "identidad": true,
+      "foto": "https://www.vento.com/wp-content/uploads/yuma-menu.jpg"
+    }
+  ],
+  "cotizaciones": [
+    {
+      "porcentaje": 15.0,
+      "enganche": 3120,
+      "pagos": 26,
+      "semana": 882.0,
+      "mes": 3822.0,
+      "total": 26052.0,
+      "costo_adicional": 5253.0,
+      "cat": "145.9",
+      "id": "594",
+      "clave": "594-26"
+    },
+    {
+      "porcentaje": 15.0,
+      "enganche": 3120,
+      "pagos": 52,
+      "semana": 532.0,
+      "mes": 2305.33,
+      "total": 30784.0,
+      "costo_adicional": 9985.0,
+      "cat": "127.3",
+      "id": "594",
+      "clave": "594-52"
+    },
+    {
+      "porcentaje": 15.0,
+      "enganche": 3120,
+      "pagos": 78,
+      "semana": 453.0,
+      "mes": 1963.0,
+      "total": 38454.0,
+      "costo_adicional": 17655.0,
+      "cat": "145.9",
+      "id": "594",
+      "clave": "594-78"
+    },
+    {
+      "porcentaje": 21.5,
+      "enganche": 4472,
+      "pagos": 104,
+      "semana": 402.0,
+      "mes": 1742.0,
+      "total": 46280.0,
+      "costo_adicional": 25481.0,
+      "cat": "165.9",
+      "id": "594",
+      "clave": "594-104"
+    },
+    {
+      "porcentaje": 15.0,
+      "enganche": 3240,
+      "pagos": 26,
+      "semana": 916.0,
+      "mes": 3969.33,
+      "total": 27056.0,
+      "costo_adicional": 5456.8,
+      "cat": "145.9",
+      "id": "572",
+      "clave": "572-26"
+    },
+    {
+      "porcentaje": 15.0,
+      "enganche": 3240,
+      "pagos": 52,
+      "semana": 553.0,
+      "mes": 2396.33,
+      "total": 31996.0,
+      "costo_adicional": 10396.8,
+      "cat": "127.3",
+      "id": "572",
+      "clave": "572-52"
+    },
+    {
+      "porcentaje": 15.0,
+      "enganche": 3240,
+      "pagos": 78,
+      "semana": 471.0,
+      "mes": 2041.0,
+      "total": 39978.0,
+      "costo_adicional": 18378.8,
+      "cat": "145.9",
+      "id": "572",
+      "clave": "572-78"
+    },
+    {
+      "porcentaje": 21.5,
+      "enganche": 4644,
+      "pagos": 104,
+      "semana": 417.0,
+      "mes": 1807.0,
+      "total": 48012.0,
+      "costo_adicional": 26412.8,
+      "cat": "165.9",
+      "id": "572",
+      "clave": "572-104"
+    },
+    {
+      "porcentaje": 15.0,
+      "enganche": 3360,
+      "pagos": 26,
+      "semana": 950.0,
+      "mes": 4116.67,
+      "total": 28060.0,
+      "costo_adicional": 5660.8,
+      "cat": "145.9",
+      "id": "518",
+      "clave": "518-26"
+    },
+    {
+      "porcentaje": 15.0,
+      "enganche": 3360,
+      "pagos": 52,
+      "semana": 573.0,
+      "mes": 2483.0,
+      "total": 33156.0,
+      "costo_adicional": 10756.8,
+      "cat": "127.3",
+      "id": "518",
+      "clave": "518-52"
+    },
+    {
+      "porcentaje": 15.0,
+      "enganche": 3360,
+      "pagos": 78,
+      "semana": 488.0,
+      "mes": 2114.67,
+      "total": 41424.0,
+      "costo_adicional": 19024.8,
+      "cat": "145.9",
+      "id": "518",
+      "clave": "518-78"
+    },
+    {
+      "porcentaje": 21.5,
+      "enganche": 4816,
+      "pagos": 104,
+      "semana": 433.0,
+      "mes": 1876.33,
+      "total": 49848.0,
+      "costo_adicional": 27448.8,
+      "cat": "165.9",
+      "id": "518",
+      "clave": "518-104"
+    },
+    {
+      "porcentaje": 15.0,
+      "enganche": 3480,
+      "pagos": 26,
+      "semana": 983.0,
+      "mes": 4259.67,
+      "total": 29038.0,
+      "costo_adicional": 5838.8,
+      "cat": "145.9",
+      "id": "595",
+      "clave": "595-26"
+    },
+    {
+      "porcentaje": 15.0,
+      "enganche": 3480,
+      "pagos": 52,
+      "semana": 594.0,
+      "mes": 2574.0,
+      "total": 34368.0,
+      "costo_adicional": 11168.8,
+      "cat": "127.3",
+      "id": "595",
+      "clave": "595-52"
+    },
+    {
+      "porcentaje": 15.0,
+      "enganche": 3480,
+      "pagos": 78,
+      "semana": 505.0,
+      "mes": 2188.33,
+      "total": 42870.0,
+      "costo_adicional": 19670.8,
+      "cat": "145.9",
+      "id": "595",
+      "clave": "595-78"
+    },
+    {
+      "porcentaje": 21.5,
+      "enganche": 4988,
+      "pagos": 104,
+      "semana": 448.0,
+      "mes": 1941.33,
+      "total": 51580.0,
+      "costo_adicional": 28380.8,
+      "cat": "165.9",
+      "id": "595",
+      "clave": "595-104"
+    },
+    {
+      "porcentaje": 15.0,
+      "enganche": 3900,
+      "pagos": 26,
+      "semana": 1102.0,
+      "mes": 4775.33,
+      "total": 32552.0,
+      "costo_adicional": 6553.0,
+      "cat": "145.9",
+      "id": "576",
+      "clave": "576-26"
+    },
+    {
+      "porcentaje": 15.0,
+      "enganche": 3900,
+      "pagos": 52,
+      "semana": 665.0,
+      "mes": 2881.67,
+      "total": 38480.0,
+      "costo_adicional": 12481.0,
+      "cat": "127.3",
+      "id": "576",
+      "clave": "576-52"
+    },
+    {
+      "porcentaje": 15.0,
+      "enganche": 3900,
+      "pagos": 78,
+      "semana": 566.0,
+      "mes": 2452.67,
+      "total": 48048.0,
+      "costo_adicional": 22049.0,
+      "cat": "145.9",
+      "id": "576",
+      "clave": "576-78"
+    },
+    {
+      "porcentaje": 21.5,
+      "enganche": 5590,
+      "pagos": 104,
+      "semana": 502.0,
+      "mes": 2175.33,
+      "total": 57798.0,
+      "costo_adicional": 31799.0,
+      "cat": "165.9",
+      "id": "576",
+      "clave": "576-104"
+    },
+    {
+      "porcentaje": 15.0,
+      "enganche": 3900,
+      "pagos": 26,
+      "semana": 1102.0,
+      "mes": 4775.33,
+      "total": 32552.0,
+      "costo_adicional": 6553.0,
+      "cat": "145.9",
+      "id": "545",
+      "clave": "545-26"
+    },
+    {
+      "porcentaje": 15.0,
+      "enganche": 3900,
+      "pagos": 52,
+      "semana": 665.0,
+      "mes": 2881.67,
+      "total": 38480.0,
+      "costo_adicional": 12481.0,
+      "cat": "127.3",
+      "id": "545",
+      "clave": "545-52"
+    },
+    {
+      "porcentaje": 15.0,
+      "enganche": 3900,
+      "pagos": 78,
+      "semana": 566.0,
+      "mes": 2452.67,
+      "total": 48048.0,
+      "costo_adicional": 22049.0,
+      "cat": "145.9",
+      "id": "545",
+      "clave": "545-78"
+    },
+    {
+      "porcentaje": 21.5,
+      "enganche": 5590,
+      "pagos": 104,
+      "semana": 502.0,
+      "mes": 2175.33,
+      "total": 57798.0,
+      "costo_adicional": 31799.0,
+      "cat": "165.9",
+      "id": "545",
+      "clave": "545-104"
+    },
+    {
+      "porcentaje": 15.0,
+      "enganche": 4050,
+      "pagos": 26,
+      "semana": 1144.0,
+      "mes": 4957.33,
+      "total": 33794.0,
+      "costo_adicional": 6795.0,
+      "cat": "145.9",
+      "id": "683",
+      "clave": "683-26"
+    },
+    {
+      "porcentaje": 15.0,
+      "enganche": 4050,
+      "pagos": 52,
+      "semana": 691.0,
+      "mes": 2994.33,
+      "total": 39982.0,
+      "costo_adicional": 12983.0,
+      "cat": "127.3",
+      "id": "683",
+      "clave": "683-52"
+    },
+    {
+      "porcentaje": 15.0,
+      "enganche": 4050,
+      "pagos": 78,
+      "semana": 588.0,
+      "mes": 2548.0,
+      "total": 49914.0,
+      "costo_adicional": 22915.0,
+      "cat": "145.9",
+      "id": "683",
+      "clave": "683-78"
+    },
+    {
+      "porcentaje": 21.5,
+      "enganche": 5805,
+      "pagos": 104,
+      "semana": 521.0,
+      "mes": 2257.67,
+      "total": 59989.0,
+      "costo_adicional": 32990.0,
+      "cat": "165.9",
+      "id": "683",
+      "clave": "683-104"
+    },
+    {
+      "porcentaje": 15.0,
+      "enganche": 4050,
+      "pagos": 26,
+      "semana": 1144.0,
+      "mes": 4957.33,
+      "total": 33794.0,
+      "costo_adicional": 6795.0,
+      "cat": "145.9",
+      "id": "715",
+      "clave": "715-26"
+    },
+    {
+      "porcentaje": 15.0,
+      "enganche": 4050,
+      "pagos": 52,
+      "semana": 691.0,
+      "mes": 2994.33,
+      "total": 39982.0,
+      "costo_adicional": 12983.0,
+      "cat": "127.3",
+      "id": "715",
+      "clave": "715-52"
+    },
+    {
+      "porcentaje": 15.0,
+      "enganche": 4050,
+      "pagos": 78,
+      "semana": 588.0,
+      "mes": 2548.0,
+      "total": 49914.0,
+      "costo_adicional": 22915.0,
+      "cat": "145.9",
+      "id": "715",
+      "clave": "715-78"
+    },
+    {
+      "porcentaje": 21.5,
+      "enganche": 5805,
+      "pagos": 104,
+      "semana": 521.0,
+      "mes": 2257.67,
+      "total": 59989.0,
+      "costo_adicional": 32990.0,
+      "cat": "165.9",
+      "id": "715",
+      "clave": "715-104"
+    },
+    {
+      "porcentaje": 16.0,
+      "enganche": 4352,
+      "pagos": 26,
+      "semana": 1146.0,
+      "mes": 4966.0,
+      "total": 34148.0,
+      "costo_adicional": 6948.8,
+      "cat": "150.8",
+      "id": "486",
+      "clave": "486-26"
+    },
+    {
+      "porcentaje": 24.0,
+      "enganche": 6528,
+      "pagos": 52,
+      "semana": 647.0,
+      "mes": 2803.67,
+      "total": 40172.0,
+      "costo_adicional": 12972.8,
+      "cat": "145.9",
+      "id": "486",
+      "clave": "486-52"
+    },
+    {
+      "porcentaje": 16.0,
+      "enganche": 4352,
+      "pagos": 78,
+      "semana": 593.0,
+      "mes": 2569.67,
+      "total": 50606.0,
+      "costo_adicional": 23406.8,
+      "cat": "150.8",
+      "id": "486",
+      "clave": "486-78"
+    },
+    {
+      "porcentaje": 22.0,
+      "enganche": 5984,
+      "pagos": 104,
+      "semana": 526.0,
+      "mes": 2279.33,
+      "total": 60688.0,
+      "costo_adicional": 33488.8,
+      "cat": "168.5",
+      "id": "486",
+      "clave": "486-104"
+    },
+    {
+      "porcentaje": 15.0,
+      "enganche": 4125,
+      "pagos": 26,
+      "semana": 1166.0,
+      "mes": 5052.67,
+      "total": 34441.0,
+      "costo_adicional": 6942.0,
+      "cat": "145.9",
+      "id": "585",
+      "clave": "585-26"
+    },
+    {
+      "porcentaje": 15.0,
+      "enganche": 4125,
+      "pagos": 52,
+      "semana": 704.0,
+      "mes": 3050.67,
+      "total": 40733.0,
+      "costo_adicional": 13234.0,
+      "cat": "127.3",
+      "id": "585",
+      "clave": "585-52"
+    },
+    {
+      "porcentaje": 15.0,
+      "enganche": 4125,
+      "pagos": 78,
+      "semana": 599.0,
+      "mes": 2595.67,
+      "total": 50847.0,
+      "costo_adicional": 23348.0,
+      "cat": "145.9",
+      "id": "585",
+      "clave": "585-78"
+    },
+    {
+      "porcentaje": 21.5,
+      "enganche": 5912,
+      "pagos": 104,
+      "semana": 531.0,
+      "mes": 2301.0,
+      "total": 61136.0,
+      "costo_adicional": 33637.0,
+      "cat": "165.9",
+      "id": "585",
+      "clave": "585-104"
+    },
+    {
+      "porcentaje": 15.0,
+      "enganche": 4200,
+      "pagos": 26,
+      "semana": 1187.0,
+      "mes": 5143.67,
+      "total": 35062.0,
+      "costo_adicional": 7063.0,
+      "cat": "145.9",
+      "id": "708",
+      "clave": "708-26"
+    },
+    {
+      "porcentaje": 15.0,
+      "enganche": 4200,
+      "pagos": 52,
+      "semana": 716.0,
+      "mes": 3102.67,
+      "total": 41432.0,
+      "costo_adicional": 13433.0,
+      "cat": "127.3",
+      "id": "708",
+      "clave": "708-52"
+    },
+    {
+      "porcentaje": 15.0,
+      "enganche": 4200,
+      "pagos": 78,
+      "semana": 610.0,
+      "mes": 2643.33,
+      "total": 51780.0,
+      "costo_adicional": 23781.0,
+      "cat": "145.9",
+      "id": "708",
+      "clave": "708-78"
+    },
+    {
+      "porcentaje": 21.5,
+      "enganche": 6020,
+      "pagos": 104,
+      "semana": 541.0,
+      "mes": 2344.33,
+      "total": 62284.0,
+      "costo_adicional": 34285.0,
+      "cat": "165.9",
+      "id": "708",
+      "clave": "708-104"
+    },
+    {
+      "porcentaje": 15.0,
+      "enganche": 4200,
+      "pagos": 26,
+      "semana": 1187.0,
+      "mes": 5143.67,
+      "total": 35062.0,
+      "costo_adicional": 7063.0,
+      "cat": "145.9",
+      "id": "712",
+      "clave": "712-26"
+    },
+    {
+      "porcentaje": 15.0,
+      "enganche": 4200,
+      "pagos": 52,
+      "semana": 716.0,
+      "mes": 3102.67,
+      "total": 41432.0,
+      "costo_adicional": 13433.0,
+      "cat": "127.3",
+      "id": "712",
+      "clave": "712-52"
+    },
+    {
+      "porcentaje": 15.0,
+      "enganche": 4200,
+      "pagos": 78,
+      "semana": 610.0,
+      "mes": 2643.33,
+      "total": 51780.0,
+      "costo_adicional": 23781.0,
+      "cat": "145.9",
+      "id": "712",
+      "clave": "712-78"
+    },
+    {
+      "porcentaje": 21.5,
+      "enganche": 6020,
+      "pagos": 104,
+      "semana": 541.0,
+      "mes": 2344.33,
+      "total": 62284.0,
+      "costo_adicional": 34285.0,
+      "cat": "165.9",
+      "id": "712",
+      "clave": "712-104"
+    },
+    {
+      "porcentaje": 15.0,
+      "enganche": 4320,
+      "pagos": 26,
+      "semana": 1221.0,
+      "mes": 5291.0,
+      "total": 36066.0,
+      "costo_adicional": 7267.0,
+      "cat": "145.9",
+      "id": "659",
+      "clave": "659-26"
+    },
+    {
+      "porcentaje": 15.0,
+      "enganche": 4320,
+      "pagos": 52,
+      "semana": 737.0,
+      "mes": 3193.67,
+      "total": 42644.0,
+      "costo_adicional": 13845.0,
+      "cat": "127.3",
+      "id": "659",
+      "clave": "659-52"
+    },
+    {
+      "porcentaje": 15.0,
+      "enganche": 4320,
+      "pagos": 78,
+      "semana": 627.0,
+      "mes": 2717.0,
+      "total": 53226.0,
+      "costo_adicional": 24427.0,
+      "cat": "145.9",
+      "id": "659",
+      "clave": "659-78"
+    },
+    {
+      "porcentaje": 21.5,
+      "enganche": 6192,
+      "pagos": 104,
+      "semana": 556.0,
+      "mes": 2409.33,
+      "total": 64016.0,
+      "costo_adicional": 35217.0,
+      "cat": "165.9",
+      "id": "659",
+      "clave": "659-104"
+    },
+    {
+      "porcentaje": 15.0,
+      "enganche": 4350,
+      "pagos": 26,
+      "semana": 1229.0,
+      "mes": 5325.67,
+      "total": 36304.0,
+      "costo_adicional": 7305.0,
+      "cat": "145.9",
+      "id": "543",
+      "clave": "543-26"
+    },
+    {
+      "porcentaje": 15.0,
+      "enganche": 4350,
+      "pagos": 52,
+      "semana": 742.0,
+      "mes": 3215.33,
+      "total": 42934.0,
+      "costo_adicional": 13935.0,
+      "cat": "127.3",
+      "id": "543",
+      "clave": "543-52"
+    },
+    {
+      "porcentaje": 15.0,
+      "enganche": 4350,
+      "pagos": 78,
+      "semana": 632.0,
+      "mes": 2738.67,
+      "total": 53646.0,
+      "costo_adicional": 24647.0,
+      "cat": "145.9",
+      "id": "543",
+      "clave": "543-78"
+    },
+    {
+      "porcentaje": 21.5,
+      "enganche": 6235,
+      "pagos": 104,
+      "semana": 560.0,
+      "mes": 2426.67,
+      "total": 64475.0,
+      "costo_adicional": 35476.0,
+      "cat": "165.9",
+      "id": "543",
+      "clave": "543-104"
+    },
+    {
+      "porcentaje": 15.0,
+      "enganche": 4440,
+      "pagos": 26,
+      "semana": 1255.0,
+      "mes": 5438.33,
+      "total": 37070.0,
+      "costo_adicional": 7470.8,
+      "cat": "145.9",
+      "id": "564",
+      "clave": "564-26"
+    },
+    {
+      "porcentaje": 15.0,
+      "enganche": 4440,
+      "pagos": 52,
+      "semana": 757.0,
+      "mes": 3280.33,
+      "total": 43804.0,
+      "costo_adicional": 14204.8,
+      "cat": "127.3",
+      "id": "564",
+      "clave": "564-52"
+    },
+    {
+      "porcentaje": 15.0,
+      "enganche": 4440,
+      "pagos": 78,
+      "semana": 645.0,
+      "mes": 2795.0,
+      "total": 54750.0,
+      "costo_adicional": 25150.8,
+      "cat": "145.9",
+      "id": "564",
+      "clave": "564-78"
+    },
+    {
+      "porcentaje": 21.5,
+      "enganche": 6364,
+      "pagos": 104,
+      "semana": 571.0,
+      "mes": 2474.33,
+      "total": 65748.0,
+      "costo_adicional": 36148.8,
+      "cat": "165.9",
+      "id": "564",
+      "clave": "564-104"
+    },
+    {
+      "porcentaje": 16.0,
+      "enganche": 4800,
+      "pagos": 26,
+      "semana": 1263.0,
+      "mes": 5473.0,
+      "total": 37638.0,
+      "costo_adicional": 7639.0,
+      "cat": "150.7",
+      "id": "614",
+      "clave": "614-26"
+    },
+    {
+      "porcentaje": 24.0,
+      "enganche": 7200,
+      "pagos": 52,
+      "semana": 714.0,
+      "mes": 3094.0,
+      "total": 44328.0,
+      "costo_adicional": 14329.0,
+      "cat": "145.9",
+      "id": "614",
+      "clave": "614-52"
+    },
+    {
+      "porcentaje": 16.0,
+      "enganche": 4800,
+      "pagos": 78,
+      "semana": 654.0,
+      "mes": 2834.0,
+      "total": 55812.0,
+      "costo_adicional": 25813.0,
+      "cat": "150.7",
+      "id": "614",
+      "clave": "614-78"
+    },
+    {
+      "porcentaje": 22.0,
+      "enganche": 6600,
+      "pagos": 104,
+      "semana": 580.0,
+      "mes": 2513.33,
+      "total": 66920.0,
+      "costo_adicional": 36921.0,
+      "cat": "168.5",
+      "id": "614",
+      "clave": "614-104"
+    },
+    {
+      "porcentaje": 15.0,
+      "enganche": 4500,
+      "pagos": 26,
+      "semana": 1272.0,
+      "mes": 5512.0,
+      "total": 37572.0,
+      "costo_adicional": 7573.0,
+      "cat": "145.9",
+      "id": "698",
+      "clave": "698-26"
+    },
+    {
+      "porcentaje": 15.0,
+      "enganche": 4500,
+      "pagos": 52,
+      "semana": 768.0,
+      "mes": 3328.0,
+      "total": 44436.0,
+      "costo_adicional": 14437.0,
+      "cat": "127.3",
+      "id": "698",
+      "clave": "698-52"
+    },
+    {
+      "porcentaje": 15.0,
+      "enganche": 4500,
+      "pagos": 78,
+      "semana": 653.0,
+      "mes": 2829.67,
+      "total": 55434.0,
+      "costo_adicional": 25435.0,
+      "cat": "145.9",
+      "id": "698",
+      "clave": "698-78"
+    },
+    {
+      "porcentaje": 21.5,
+      "enganche": 6450,
+      "pagos": 104,
+      "semana": 579.0,
+      "mes": 2509.0,
+      "total": 66666.0,
+      "costo_adicional": 36667.0,
+      "cat": "165.9",
+      "id": "698",
+      "clave": "698-104"
+    },
+    {
+      "porcentaje": 16.0,
+      "enganche": 4960,
+      "pagos": 26,
+      "semana": 1305.0,
+      "mes": 5655.0,
+      "total": 38890.0,
+      "costo_adicional": 7891.0,
+      "cat": "150.7",
+      "id": "692",
+      "clave": "692-26"
+    },
+    {
+      "porcentaje": 24.0,
+      "enganche": 7440,
+      "pagos": 52,
+      "semana": 737.0,
+      "mes": 3193.67,
+      "total": 45764.0,
+      "costo_adicional": 14765.0,
+      "cat": "145.9",
+      "id": "692",
+      "clave": "692-52"
+    },
+    {
+      "porcentaje": 16.0,
+      "enganche": 4960,
+      "pagos": 78,
+      "semana": 676.0,
+      "mes": 2929.33,
+      "total": 57688.0,
+      "costo_adicional": 26689.0,
+      "cat": "150.7",
+      "id": "692",
+      "clave": "692-78"
+    },
+    {
+      "porcentaje": 22.0,
+      "enganche": 6820,
+      "pagos": 104,
+      "semana": 599.0,
+      "mes": 2595.67,
+      "total": 69116.0,
+      "costo_adicional": 38117.0,
+      "cat": "168.5",
+      "id": "692",
+      "clave": "692-104"
+    },
+    {
+      "porcentaje": 15.0,
+      "enganche": 5100,
+      "pagos": 26,
+      "semana": 1441.0,
+      "mes": 6244.33,
+      "total": 42566.0,
+      "costo_adicional": 8567.0,
+      "cat": "145.9",
+      "id": "602",
+      "clave": "602-26"
+    },
+    {
+      "porcentaje": 15.0,
+      "enganche": 5100,
+      "pagos": 52,
+      "semana": 870.0,
+      "mes": 3770.0,
+      "total": 50340.0,
+      "costo_adicional": 16341.0,
+      "cat": "127.3",
+      "id": "602",
+      "clave": "602-52"
+    },
+    {
+      "porcentaje": 15.0,
+      "enganche": 5100,
+      "pagos": 78,
+      "semana": 741.0,
+      "mes": 3211.0,
+      "total": 62898.0,
+      "costo_adicional": 28899.0,
+      "cat": "145.9",
+      "id": "602",
+      "clave": "602-78"
+    },
+    {
+      "porcentaje": 21.5,
+      "enganche": 7310,
+      "pagos": 104,
+      "semana": 656.0,
+      "mes": 2842.67,
+      "total": 75534.0,
+      "costo_adicional": 41535.0,
+      "cat": "165.9",
+      "id": "602",
+      "clave": "602-104"
+    },
+    {
+      "porcentaje": 16.0,
+      "enganche": 5440,
+      "pagos": 26,
+      "semana": 1432.0,
+      "mes": 6205.33,
+      "total": 42672.0,
+      "costo_adicional": 8673.0,
+      "cat": "150.7",
+      "id": "621",
+      "clave": "621-26"
+    },
+    {
+      "porcentaje": 24.0,
+      "enganche": 8160,
+      "pagos": 52,
+      "semana": 809.0,
+      "mes": 3505.67,
+      "total": 50228.0,
+      "costo_adicional": 16229.0,
+      "cat": "145.9",
+      "id": "621",
+      "clave": "621-52"
+    },
+    {
+      "porcentaje": 16.0,
+      "enganche": 5440,
+      "pagos": 78,
+      "semana": 741.0,
+      "mes": 3211.0,
+      "total": 63238.0,
+      "costo_adicional": 29239.0,
+      "cat": "150.7",
+      "id": "621",
+      "clave": "621-78"
+    },
+    {
+      "porcentaje": 22.0,
+      "enganche": 7480,
+      "pagos": 104,
+      "semana": 657.0,
+      "mes": 2847.0,
+      "total": 75808.0,
+      "costo_adicional": 41809.0,
+      "cat": "168.5",
+      "id": "621",
+      "clave": "621-104"
+    },
+    {
+      "porcentaje": 15.0,
+      "enganche": 5250,
+      "pagos": 26,
+      "semana": 1483.0,
+      "mes": 6426.33,
+      "total": 43808.0,
+      "costo_adicional": 8809.0,
+      "cat": "145.9",
+      "id": "720",
+      "clave": "720-26"
+    },
+    {
+      "porcentaje": 15.0,
+      "enganche": 5250,
+      "pagos": 52,
+      "semana": 895.0,
+      "mes": 3878.33,
+      "total": 51790.0,
+      "costo_adicional": 16791.0,
+      "cat": "127.3",
+      "id": "720",
+      "clave": "720-52"
+    },
+    {
+      "porcentaje": 15.0,
+      "enganche": 5250,
+      "pagos": 78,
+      "semana": 762.0,
+      "mes": 3302.0,
+      "total": 64686.0,
+      "costo_adicional": 29687.0,
+      "cat": "145.9",
+      "id": "720",
+      "clave": "720-78"
+    },
+    {
+      "porcentaje": 21.5,
+      "enganche": 7525,
+      "pagos": 104,
+      "semana": 676.0,
+      "mes": 2929.33,
+      "total": 77829.0,
+      "costo_adicional": 42830.0,
+      "cat": "165.9",
+      "id": "720",
+      "clave": "720-104"
+    },
+    {
+      "porcentaje": 15.0,
+      "enganche": 5250,
+      "pagos": 26,
+      "semana": 1483.0,
+      "mes": 6426.33,
+      "total": 43808.0,
+      "costo_adicional": 8809.0,
+      "cat": "145.9",
+      "id": "727",
+      "clave": "727-26"
+    },
+    {
+      "porcentaje": 15.0,
+      "enganche": 5250,
+      "pagos": 52,
+      "semana": 895.0,
+      "mes": 3878.33,
+      "total": 51790.0,
+      "costo_adicional": 16791.0,
+      "cat": "127.3",
+      "id": "727",
+      "clave": "727-52"
+    },
+    {
+      "porcentaje": 15.0,
+      "enganche": 5250,
+      "pagos": 78,
+      "semana": 762.0,
+      "mes": 3302.0,
+      "total": 64686.0,
+      "costo_adicional": 29687.0,
+      "cat": "145.9",
+      "id": "727",
+      "clave": "727-78"
+    },
+    {
+      "porcentaje": 21.5,
+      "enganche": 7525,
+      "pagos": 104,
+      "semana": 676.0,
+      "mes": 2929.33,
+      "total": 77829.0,
+      "costo_adicional": 42830.0,
+      "cat": "165.9",
+      "id": "727",
+      "clave": "727-104"
+    },
+    {
+      "porcentaje": 15.0,
+      "enganche": 5400,
+      "pagos": 26,
+      "semana": 1526.0,
+      "mes": 6612.67,
+      "total": 45076.0,
+      "costo_adicional": 9077.0,
+      "cat": "145.9",
+      "id": "721",
+      "clave": "721-26"
+    },
+    {
+      "porcentaje": 15.0,
+      "enganche": 5400,
+      "pagos": 52,
+      "semana": 921.0,
+      "mes": 3991.0,
+      "total": 53292.0,
+      "costo_adicional": 17293.0,
+      "cat": "127.3",
+      "id": "721",
+      "clave": "721-52"
+    },
+    {
+      "porcentaje": 15.0,
+      "enganche": 5400,
+      "pagos": 78,
+      "semana": 784.0,
+      "mes": 3397.33,
+      "total": 66552.0,
+      "costo_adicional": 30553.0,
+      "cat": "145.9",
+      "id": "721",
+      "clave": "721-78"
+    },
+    {
+      "porcentaje": 21.5,
+      "enganche": 7740,
+      "pagos": 104,
+      "semana": 695.0,
+      "mes": 3011.67,
+      "total": 80020.0,
+      "costo_adicional": 44021.0,
+      "cat": "165.9",
+      "id": "721",
+      "clave": "721-104"
+    },
+    {
+      "porcentaje": 15.0,
+      "enganche": 5400,
+      "pagos": 26,
+      "semana": 1526.0,
+      "mes": 6612.67,
+      "total": 45076.0,
+      "costo_adicional": 9077.0,
+      "cat": "145.9",
+      "id": "689",
+      "clave": "689-26"
+    },
+    {
+      "porcentaje": 15.0,
+      "enganche": 5400,
+      "pagos": 52,
+      "semana": 921.0,
+      "mes": 3991.0,
+      "total": 53292.0,
+      "costo_adicional": 17293.0,
+      "cat": "127.3",
+      "id": "689",
+      "clave": "689-52"
+    },
+    {
+      "porcentaje": 15.0,
+      "enganche": 5400,
+      "pagos": 78,
+      "semana": 784.0,
+      "mes": 3397.33,
+      "total": 66552.0,
+      "costo_adicional": 30553.0,
+      "cat": "145.9",
+      "id": "689",
+      "clave": "689-78"
+    },
+    {
+      "porcentaje": 21.5,
+      "enganche": 7740,
+      "pagos": 104,
+      "semana": 695.0,
+      "mes": 3011.67,
+      "total": 80020.0,
+      "costo_adicional": 44021.0,
+      "cat": "165.9",
+      "id": "689",
+      "clave": "689-104"
+    },
+    {
+      "porcentaje": 16.0,
+      "enganche": 5760,
+      "pagos": 26,
+      "semana": 1516.0,
+      "mes": 6569.33,
+      "total": 45176.0,
+      "costo_adicional": 9177.0,
+      "cat": "150.7",
+      "id": "667",
+      "clave": "667-26"
+    },
+    {
+      "porcentaje": 24.0,
+      "enganche": 8640,
+      "pagos": 52,
+      "semana": 856.0,
+      "mes": 3709.33,
+      "total": 53152.0,
+      "costo_adicional": 17153.0,
+      "cat": "145.9",
+      "id": "667",
+      "clave": "667-52"
+    },
+    {
+      "porcentaje": 16.0,
+      "enganche": 5760,
+      "pagos": 78,
+      "semana": 785.0,
+      "mes": 3401.67,
+      "total": 66990.0,
+      "costo_adicional": 30991.0,
+      "cat": "150.7",
+      "id": "667",
+      "clave": "667-78"
+    },
+    {
+      "porcentaje": 22.0,
+      "enganche": 7920,
+      "pagos": 104,
+      "semana": 696.0,
+      "mes": 3016.0,
+      "total": 80304.0,
+      "costo_adicional": 44305.0,
+      "cat": "168.5",
+      "id": "667",
+      "clave": "667-104"
+    },
+    {
+      "porcentaje": 15.0,
+      "enganche": 5700,
+      "pagos": 26,
+      "semana": 1611.0,
+      "mes": 6981.0,
+      "total": 47586.0,
+      "costo_adicional": 9587.0,
+      "cat": "145.9",
+      "id": "407",
+      "clave": "407-26"
+    },
+    {
+      "porcentaje": 15.0,
+      "enganche": 5700,
+      "pagos": 52,
+      "semana": 972.0,
+      "mes": 4212.0,
+      "total": 56244.0,
+      "costo_adicional": 18245.0,
+      "cat": "127.3",
+      "id": "407",
+      "clave": "407-52"
+    },
+    {
+      "porcentaje": 15.0,
+      "enganche": 5700,
+      "pagos": 78,
+      "semana": 828.0,
+      "mes": 3588.0,
+      "total": 70284.0,
+      "costo_adicional": 32285.0,
+      "cat": "145.9",
+      "id": "407",
+      "clave": "407-78"
+    },
+    {
+      "porcentaje": 21.5,
+      "enganche": 8170,
+      "pagos": 104,
+      "semana": 734.0,
+      "mes": 3180.67,
+      "total": 84506.0,
+      "costo_adicional": 46507.0,
+      "cat": "165.9",
+      "id": "407",
+      "clave": "407-104"
+    },
+    {
+      "porcentaje": 15.0,
+      "enganche": 7650,
+      "pagos": 26,
+      "semana": 2161.0,
+      "mes": 9364.33,
+      "total": 63836.0,
+      "costo_adicional": 12837.0,
+      "cat": "145.9",
+      "id": "617",
+      "clave": "617-26"
+    },
+    {
+      "porcentaje": 15.0,
+      "enganche": 7650,
+      "pagos": 52,
+      "semana": 1305.0,
+      "mes": 5655.0,
+      "total": 75510.0,
+      "costo_adicional": 24511.0,
+      "cat": "127.3",
+      "id": "617",
+      "clave": "617-52"
+    },
+    {
+      "porcentaje": 15.0,
+      "enganche": 7650,
+      "pagos": 78,
+      "semana": 1111.0,
+      "mes": 4814.33,
+      "total": 94308.0,
+      "costo_adicional": 43309.0,
+      "cat": "145.9",
+      "id": "617",
+      "clave": "617-78"
+    },
+    {
+      "porcentaje": 21.5,
+      "enganche": 10965,
+      "pagos": 104,
+      "semana": 984.0,
+      "mes": 4264.0,
+      "total": 113301.0,
+      "costo_adicional": 62302.0,
+      "cat": "165.9",
+      "id": "617",
+      "clave": "617-104"
+    },
+    {
+      "porcentaje": 15.0,
+      "enganche": 8100,
+      "pagos": 26,
+      "semana": 2288.0,
+      "mes": 9914.67,
+      "total": 67588.0,
+      "costo_adicional": 13589.0,
+      "cat": "145.9",
+      "id": "660",
+      "clave": "660-26"
+    },
+    {
+      "porcentaje": 15.0,
+      "enganche": 8100,
+      "pagos": 52,
+      "semana": 1381.0,
+      "mes": 5984.33,
+      "total": 79912.0,
+      "costo_adicional": 25913.0,
+      "cat": "127.3",
+      "id": "660",
+      "clave": "660-52"
+    },
+    {
+      "porcentaje": 15.0,
+      "enganche": 8100,
+      "pagos": 78,
+      "semana": 1176.0,
+      "mes": 5096.0,
+      "total": 99828.0,
+      "costo_adicional": 45829.0,
+      "cat": "145.9",
+      "id": "660",
+      "clave": "660-78"
+    },
+    {
+      "porcentaje": 21.5,
+      "enganche": 11610,
+      "pagos": 104,
+      "semana": 1042.0,
+      "mes": 4515.33,
+      "total": 119978.0,
+      "costo_adicional": 65979.0,
+      "cat": "165.9",
+      "id": "660",
+      "clave": "660-104"
+    }
+  ]
+}
