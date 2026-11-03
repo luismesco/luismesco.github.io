@@ -1,6 +1,6 @@
 {
   "autor": "Luis Montañez Escobar",
-  "fecha": "2026-11-02",
+  "fecha": "2026-11-03",
   "modelos": [
     {
       "id": "594",
@@ -45,7 +45,8 @@
       "identidad": true,
       "foto": "imagenes/42dd46edd906.png",
       "nota_foto": "Imagen de referencia; confirmar edición y color.",
-      "pdf": "fichas/thriller-250cc-2025.pdf"
+      "pdf": "fichas/thriller-250cc-2025.pdf",
+      "favorita": true
     },
     {
       "id": "572",
@@ -104,7 +105,8 @@
       "foto": "imagenes/22ea2bec506c.png",
       "nota_foto": "Imagen de referencia; confirmar edición y color.",
       "pdf": "fichas/cougar-250-cc-2025.pdf",
-      "pdf_original": "fichas/cougar-2025-catalogo.pdf"
+      "pdf_original": "fichas/cougar-2025-catalogo.pdf",
+      "favorita": true
     },
     {
       "id": "518",
@@ -166,7 +168,8 @@
       "foto": "imagenes/d6ba90ef571f.png",
       "nota_foto": "Imagen de referencia; confirmar edición y color.",
       "pdf": "fichas/workman-250cc-2025.pdf",
-      "pdf_original": "fichas/workman-2025-catalogo.pdf"
+      "pdf_original": "fichas/workman-2025-catalogo.pdf",
+      "favorita": true
     },
     {
       "id": "595",
@@ -219,7 +222,8 @@
       "identidad": true,
       "foto": "imagenes/ffc7fec8c118.png",
       "nota_foto": "Imagen de referencia; confirmar edición y color.",
-      "pdf": "fichas/onyx-250-2025.pdf"
+      "pdf": "fichas/onyx-250-2025.pdf",
+      "favorita": true
     },
     {
       "id": "576",
@@ -265,7 +269,8 @@
       "identidad": true,
       "foto": "imagenes/22ea2bec506c.png",
       "nota_foto": "Imagen de referencia; confirmar edición y color.",
-      "pdf": "fichas/cougar-250-cc-2026.pdf"
+      "pdf": "fichas/cougar-250-cc-2026.pdf",
+      "favorita": true
     },
     {
       "id": "545",
@@ -313,7 +318,8 @@
       "identidad": true,
       "foto": "imagenes/42dd46edd906.png",
       "nota_foto": "Imagen de referencia; confirmar edición y color.",
-      "pdf": "fichas/thriller-250cc-2026.pdf"
+      "pdf": "fichas/thriller-250cc-2026.pdf",
+      "favorita": true
     },
     {
       "id": "683",
@@ -372,7 +378,8 @@
       "identidad": true,
       "foto": "imagenes/22ea2bec506c.png",
       "nota_foto": "Imagen de referencia; confirmar edición y color.",
-      "pdf": "fichas/cougar-250-cc-2027.pdf"
+      "pdf": "fichas/cougar-250-cc-2027.pdf",
+      "favorita": true
     },
     {
       "id": "715",
@@ -560,7 +567,8 @@
       "identidad": true,
       "foto": "imagenes/42dd46edd906.png",
       "nota_foto": "Imagen de referencia; confirmar edición y color.",
-      "pdf": "fichas/thriller-250cc-2027.pdf"
+      "pdf": "fichas/thriller-250cc-2027.pdf",
+      "favorita": true
     },
     {
       "id": "712",
@@ -709,7 +717,8 @@
       "identidad": true,
       "foto": "imagenes/ffc7fec8c118.png",
       "nota_foto": "Imagen de referencia; confirmar edición y color.",
-      "pdf": "fichas/onyx-250-2026.pdf"
+      "pdf": "fichas/onyx-250-2026.pdf",
+      "favorita": true
     },
     {
       "id": "564",
@@ -852,7 +861,8 @@
       "identidad": true,
       "foto": "imagenes/ffc7fec8c118.png",
       "nota_foto": "Imagen de referencia; confirmar edición y color.",
-      "pdf": "fichas/onyx-250-2027.pdf"
+      "pdf": "fichas/onyx-250-2027.pdf",
+      "favorita": true
     },
     {
       "id": "692",
@@ -1350,347 +1360,575 @@
       "identidad": true,
       "foto": "imagenes/30bf0c2f08fc.png",
       "nota_foto": "Imagen de referencia; confirmar edición y color."
+    },
+    {
+      "id": "511",
+      "nombre": "ROCKETMAN 300CC",
+      "anio": 2025,
+      "precio": 24799.2,
+      "categoria": "REBEL",
+      "ficha": {
+        "nombre": "Rocketman 300 Gris 2025",
+        "anio": 2025,
+        "url": "https://www.walmart.com.mx/ip/motocicleta-vento-rocketman-300-gris-2025/00067591070594",
+        "campos": {
+          "Motor": "4 tiempos, enfriado por aceite",
+          "Número de Cilindros": "1",
+          "Capacidad del Cilindro": "300 cc",
+          "Transmisión": "Manual, 6 velocidades",
+          "Freno Delantero": "Disco hidráulico",
+          "Freno Trasero": "Disco hidráulico",
+          "Tanque de Combustible": "20 litros",
+          "Altura del Asiento": "79.5 cm",
+          "Peso en seco": "115 kg",
+          "Suspensión Delantera": "Horquilla hidráulica",
+          "Suspensión Trasera": "Amortiguadores con resorte",
+          "Rueda Delantera": "90/90 R17",
+          "Rueda Trasera": "130/70 R17",
+          "Largo Total": "196 cm",
+          "Ancho Total": "73.5 cm",
+          "Alto Total": "108 cm",
+          "Potencia Máxima": "25 HP"
+        },
+        "tipo": "Datos publicados para este modelo y año",
+        "nota": ""
+      },
+      "fuentes": [
+        {
+          "nombre": "Rocketman 300 Gris 2025",
+          "anio": 2025,
+          "url": "https://www.walmart.com.mx/ip/motocicleta-vento-rocketman-300-gris-2025/00067591070594",
+          "tipo": "Fuente del producto"
+        },
+        {
+          "nombre": "ROCKETMAN RACING 300 · ficha fabricante carpeta 2025",
+          "anio": 2025,
+          "url": "https://ayuda.vento.com/support/solutions/articles/73000647985-rocketman-racing-300",
+          "tipo": "Fuente del producto"
+        },
+        {
+          "nombre": "Nombre comercial y modelo 2025",
+          "anio": 2025,
+          "url": "https://lanamovil.net/wp-content/uploads/2025/08/catalogo_vento_tby_2025-2.pdf#page=54",
+          "tipo": "Fuente del producto"
+        }
+      ],
+      "nota": "",
+      "valoracion": {
+        "condicion": "La carga máxima de esta unidad debe constar para contrastarla con el peso real del conductor, acompañante y equipaje; contar dos plazas no acredita por sí solo capacidad para cualquier pareja."
+      },
+      "identidad": true,
+      "foto": "imagenes/b3462b87a178.png",
+      "nota_foto": "Imagen de referencia; confirmar año y color.",
+      "favorita": true
+    },
+    {
+      "id": "565",
+      "nombre": "ROCKETMAN 300CC",
+      "anio": 2026,
+      "precio": 30999.0,
+      "categoria": "REBEL",
+      "ficha": {
+        "nombre": "Rocketman Racing 300",
+        "anio": 2026,
+        "url": "https://www.vento.com/rocketman-racing-300-hw26/",
+        "campos": {
+          "Motor": "4 Tiempos, Enfriado por Aceite",
+          "Número de Cilindros": "1",
+          "Capacidad del Cilindro": "300 c.c",
+          "Potencia Máxima": "24 HP",
+          "Sistema de Ignición": "CDI Electrónica",
+          "Largo Total": "196 cm",
+          "Ancho Total": "73.5 cm",
+          "Alto Total": "108 cm",
+          "Altura del Asiento": "79.5 cm",
+          "Peso": "115 kg",
+          "Freno Delantero": "Disco Hidráulico",
+          "Freno Trasero": "Disco Hidráulico",
+          "Rueda Delantera": "90/90 R17",
+          "Rueda Trasera": "130/70 R17",
+          "Transmisión": "Manual con 6 Velocidades",
+          "Tanque de Combustible": "20 litros",
+          "Suspensión Delantera": "Horquilla Hidráulica",
+          "Suspensión Trasera": "Amortiguadores con Resorte"
+        },
+        "tipo": "Datos publicados para este modelo y año",
+        "nota": ""
+      },
+      "fuentes": [
+        {
+          "nombre": "Rocketman Racing 300",
+          "anio": 2026,
+          "url": "https://www.vento.com/rocketman-racing-300-hw26/",
+          "tipo": "Fuente del producto"
+        }
+      ],
+      "nota": "",
+      "valoracion": {
+        "condicion": "La carga máxima de esta unidad debe constar para contrastarla con el peso real del conductor, acompañante y equipaje; contar dos plazas no acredita por sí solo capacidad para cualquier pareja."
+      },
+      "identidad": true,
+      "foto": "imagenes/b3462b87a178.png",
+      "nota_foto": "Imagen de referencia; confirmar año y color.",
+      "favorita": true
+    },
+    {
+      "id": "702",
+      "nombre": "ROCKETMAN 300CC",
+      "anio": 2027,
+      "precio": 31999.0,
+      "categoria": "REBEL",
+      "ficha": null,
+      "fuentes": [],
+      "nota": "El cotizador ofrece Rocketman 300 2027; las fichas de Racing localizadas declaran 2026 y la ficha pública actual declara Platinum 300 2027. Son denominaciones distintas y no se igualan sin identificación de la unidad.",
+      "valoracion": {
+        "condicion": "La carga máxima de esta unidad debe constar para contrastarla con el peso real del conductor, acompañante y equipaje; contar dos plazas no acredita por sí solo capacidad para cualquier pareja."
+      },
+      "identidad": false,
+      "foto": "imagenes/b3462b87a178.png",
+      "nota_foto": "Imagen de referencia; confirmar año y color.",
+      "favorita": true
+    },
+    {
+      "id": "575",
+      "nombre": "ROCKETMAN CARRERA 300CC",
+      "anio": 2025,
+      "precio": 31999.0,
+      "categoria": "REBEL",
+      "ficha": {
+        "nombre": "ROCKETMAN CARRERA 300",
+        "anio": 2025,
+        "url": "https://ayuda.vento.com/support/solutions/articles/73000647986-rocketman-carrera-300",
+        "campos": {
+          "Motor": "4 tiempos, enfriado por aceite",
+          "Número de Cilindros": "1",
+          "Capacidad del Cilindro": "300 cc",
+          "Transmisión": "Manual con 6 velocidades",
+          "Freno Delantero": "Disco hidráulico",
+          "Freno Trasero": "Disco hidráulico",
+          "Tanque de Combustible": "20 litros",
+          "Altura del Asiento": "79.5 cm",
+          "Peso en seco": "115 kg",
+          "Suspensión Delantera": "Horquilla hidráulica invertida",
+          "Suspensión Trasera": "Amortiguadores de aire comprimido",
+          "Rueda Delantera": "90/90 R17",
+          "Rueda Trasera": "130/70 R17",
+          "Largo Total": "196 cm",
+          "Ancho Total": "73.5 cm",
+          "Alto Total": "108 cm"
+        },
+        "tipo": "Datos publicados para este modelo y año",
+        "nota": ""
+      },
+      "fuentes": [
+        {
+          "nombre": "ROCKETMAN CARRERA 300",
+          "anio": 2025,
+          "url": "https://ayuda.vento.com/support/solutions/articles/73000647986-rocketman-carrera-300",
+          "tipo": "Fuente del producto"
+        }
+      ],
+      "nota": "",
+      "valoracion": {
+        "condicion": "La carga máxima de esta unidad debe constar para contrastarla con el peso real del conductor, acompañante y equipaje; contar dos plazas no acredita por sí solo capacidad para cualquier pareja."
+      },
+      "identidad": true,
+      "foto": "imagenes/3d54cc7d86c1.png",
+      "nota_foto": "Imagen de referencia; confirmar año y color.",
+      "favorita": true
+    },
+    {
+      "id": "658",
+      "nombre": "ROCKETMAN PLATINO 300  2026",
+      "anio": 2026,
+      "precio": 31999.0,
+      "categoria": "REBEL",
+      "ficha": {
+        "nombre": "ROCKETMAN PLATINUM 300",
+        "anio": 2026,
+        "url": "https://www.vento.com/rocketman-platinum-300/",
+        "campos": {
+          "Cilindrada": "300 c.c.",
+          "Potencia": "24 HP",
+          "Motor": "4 Tiempos, Enfriado por Aceite",
+          "Transmisión": "Manual con 6 Velocidades",
+          "Enfriamiento": "Enfriado por Aceite",
+          "Tanque": "20 litros",
+          "Peso": "115 kg",
+          "Altura del asiento": "79.5 cm",
+          "Longitud": "196 cm",
+          "Anchura": "73.5 cm",
+          "Freno delantero": "Disco Hidráulico",
+          "Freno trasero": "Disco Hidráulico",
+          "Suspensión delantera": "Horquilla Hidráulica",
+          "Suspensión trasera": "Amortiguadores con Resorte"
+        },
+        "tipo": "Datos publicados para este modelo y año",
+        "nota": ""
+      },
+      "fuentes": [
+        {
+          "nombre": "ROCKETMAN PLATINUM 300",
+          "anio": 2026,
+          "url": "https://www.vento.com/rocketman-platinum-300/",
+          "tipo": "Fuente del producto"
+        }
+      ],
+      "nota": "",
+      "valoracion": {
+        "condicion": "La carga máxima de esta unidad debe constar para contrastarla con el peso real del conductor, acompañante y equipaje; contar dos plazas no acredita por sí solo capacidad para cualquier pareja."
+      },
+      "identidad": true,
+      "foto": "imagenes/40d0a0458ea6.png",
+      "nota_foto": "Imagen de referencia; confirmar año y color.",
+      "favorita": true
+    },
+    {
+      "id": "703",
+      "nombre": "ROCKETMAN PLATINO 300 2027",
+      "anio": 2027,
+      "precio": 32999.0,
+      "categoria": "REBEL",
+      "ficha": {
+        "nombre": "ROCKETMAN PLATINUM 300",
+        "anio": 2027,
+        "url": "https://www.vento.com/rocketman-platinum-300/",
+        "campos": {
+          "Motor": "4 Tiempos, Enfriado por Aceite",
+          "Número de Cilindros": "1",
+          "Capacidad del Cilindro": "300 c.c.",
+          "Potencia Máxima": "24 HP",
+          "Sistema de Ignición": "CDI Electrónica",
+          "Largo Total": "196 cm",
+          "Ancho Total": "73.5 cm",
+          "Alto Total": "108 cm",
+          "Altura del Asiento": "79.5 cm",
+          "Peso": "115 kg",
+          "Freno Delantero": "Disco Hidráulico",
+          "Freno Trasero": "Disco Hidráulico",
+          "Rueda Delantera": "90/90 R17",
+          "Rueda Trasera": "130/70 R17",
+          "Transmisión": "Manual con 6 Velocidades",
+          "Tanque de Combustible": "20 litros",
+          "Suspensión Delantera": "Horquilla Hidráulica",
+          "Suspensión Trasera": "Amortiguadores con Resorte"
+        },
+        "tipo": "Datos publicados para este modelo y año",
+        "nota": ""
+      },
+      "fuentes": [
+        {
+          "nombre": "ROCKETMAN PLATINUM 300",
+          "anio": 2027,
+          "url": "https://www.vento.com/rocketman-platinum-300/",
+          "tipo": "Fuente del producto"
+        },
+        {
+          "nombre": "Motocicleta Vento Urban Sport Rocketman 300 Platinum 2027",
+          "anio": 2027,
+          "url": "https://www.marti.mx/motocicleta-vento-urban-sport-rocketman-300-platinum-2027-1128000471/p",
+          "tipo": "Fuente del producto"
+        }
+      ],
+      "nota": "",
+      "valoracion": {
+        "condicion": "La carga máxima de esta unidad debe constar para contrastarla con el peso real del conductor, acompañante y equipaje; contar dos plazas no acredita por sí solo capacidad para cualquier pareja."
+      },
+      "identidad": true,
+      "foto": "imagenes/40d0a0458ea6.png",
+      "nota_foto": "Imagen de referencia; confirmar año y color.",
+      "favorita": true
+    },
+    {
+      "id": "512",
+      "nombre": "SCREAMER 300CC",
+      "anio": 2025,
+      "precio": 31199.0,
+      "categoria": "REBEL",
+      "ficha": {
+        "nombre": "SCREAMER 300",
+        "anio": 2025,
+        "url": "https://ayuda.vento.com/support/solutions/articles/73000647988-screamer-300",
+        "campos": {
+          "Motor": "4 tiempos, enfriado por aceite",
+          "Número de Cilindros": "1",
+          "Capacidad del Cilindro": "300 cc",
+          "Transmisión": "Manual con 6 velocidades",
+          "Freno Delantero": "Disco hidráulico",
+          "Freno Trasero": "Disco hidráulico",
+          "Potencia Máxima": "24 HP",
+          "Tanque de Combustible": "20 litros",
+          "Altura del Asiento": "80 cm",
+          "Peso en seco": "135 kg",
+          "Suspensión Delantera": "Horquilla hidráulica",
+          "Suspensión Trasera": "Monoshock",
+          "Rueda Delantera": "100/80 R17",
+          "Rueda Trasera": "130/80 R17",
+          "Largo Total": "200 cm",
+          "Ancho Total": "76 cm",
+          "Alto Total": "115 cm"
+        },
+        "tipo": "Datos publicados para este modelo y año",
+        "nota": ""
+      },
+      "fuentes": [
+        {
+          "nombre": "SCREAMER 300",
+          "anio": 2025,
+          "url": "https://ayuda.vento.com/support/solutions/articles/73000647988-screamer-300",
+          "tipo": "Fuente del producto"
+        }
+      ],
+      "nota": "",
+      "valoracion": {
+        "condicion": "La carga máxima de esta unidad debe constar para contrastarla con el peso real del conductor, acompañante y equipaje; contar dos plazas no acredita por sí solo capacidad para cualquier pareja."
+      },
+      "identidad": true,
+      "foto": "imagenes/20b3feb1a61e.png",
+      "nota_foto": "Imagen de referencia; confirmar año y color.",
+      "favorita": true
+    },
+    {
+      "id": "624",
+      "nombre": "SCREAMER 300CC",
+      "anio": 2026,
+      "precio": 35999.0,
+      "categoria": "REBEL",
+      "ficha": {
+        "nombre": "SCREAMER 300",
+        "anio": 2026,
+        "url": "https://www.vento.com/screamer-300/",
+        "campos": {
+          "Cilindrada": "300 c.c.",
+          "Potencia": "24 HP",
+          "Motor": "4 Tiempos, Enfriado por Aceite",
+          "Transmisión": "Manual con 6 Velocidades",
+          "Enfriamiento": "Enfriado por Aceite",
+          "Tanque": "20 litros",
+          "Peso": "135 kg",
+          "Altura del asiento": "80 cm",
+          "Longitud": "200 cm",
+          "Anchura": "76 cm",
+          "Freno delantero": "Disco Hidráulico",
+          "Freno trasero": "Disco Hidráulico"
+        },
+        "tipo": "Datos publicados para este modelo y año",
+        "nota": ""
+      },
+      "fuentes": [
+        {
+          "nombre": "SCREAMER 300",
+          "anio": 2026,
+          "url": "https://www.vento.com/screamer-300/",
+          "tipo": "Fuente del producto"
+        }
+      ],
+      "nota": "",
+      "valoracion": {
+        "condicion": "La carga máxima de esta unidad debe constar para contrastarla con el peso real del conductor, acompañante y equipaje; contar dos plazas no acredita por sí solo capacidad para cualquier pareja."
+      },
+      "identidad": true,
+      "foto": "imagenes/20b3feb1a61e.png",
+      "nota_foto": "Imagen de referencia; confirmar año y color.",
+      "favorita": true
+    },
+    {
+      "id": "704",
+      "nombre": "SCREAMER 300CC",
+      "anio": 2027,
+      "precio": 36999.0,
+      "categoria": "REBEL",
+      "ficha": {
+        "nombre": "SCREAMER 300",
+        "anio": 2027,
+        "url": "https://www.vento.com/screamer-300/",
+        "campos": {
+          "Motor": "4 Tiempos, Enfriado por Aceite",
+          "Número de Cilindros": "1",
+          "Capacidad del Cilindro": "300 c.c.",
+          "Potencia Máxima": "24 HP",
+          "Sistema de Ignición": "CDI Electrónica",
+          "Largo Total": "200 cm",
+          "Ancho Total": "76 cm",
+          "Alto Total": "115 cm",
+          "Altura del Asiento": "80 cm",
+          "Peso": "135 kg",
+          "Freno Delantero": "Disco Hidráulico",
+          "Freno Trasero": "Disco Hidráulico",
+          "Rueda Delantera": "100/80 R17",
+          "Rueda Trasera": "130/80 R17",
+          "Transmisión": "Manual con 6 Velocidades",
+          "Tanque de Combustible": "20 litros",
+          "Suspensión Delantera": "Horquilla Hidráulica",
+          "Suspensión Trasera": "Monoshock"
+        },
+        "tipo": "Datos publicados para este modelo y año",
+        "nota": ""
+      },
+      "fuentes": [
+        {
+          "nombre": "SCREAMER 300",
+          "anio": 2027,
+          "url": "https://www.vento.com/screamer-300/",
+          "tipo": "Fuente del producto"
+        }
+      ],
+      "nota": "",
+      "valoracion": {
+        "condicion": "La carga máxima de esta unidad debe constar para contrastarla con el peso real del conductor, acompañante y equipaje; contar dos plazas no acredita por sí solo capacidad para cualquier pareja."
+      },
+      "identidad": true,
+      "foto": "imagenes/20b3feb1a61e.png",
+      "nota_foto": "Imagen de referencia; confirmar año y color.",
+      "favorita": true
+    },
+    {
+      "id": "513",
+      "nombre": "SCREAMER SPORTIVO 300CC",
+      "anio": 2025,
+      "precio": 31199.0,
+      "categoria": "REBEL",
+      "ficha": {
+        "nombre": "SCREAMER SPORTIVO 300",
+        "anio": 2025,
+        "url": "https://ayuda.vento.com/support/solutions/articles/73000647989-screamer-sportivo-300",
+        "campos": {
+          "Motor": "4 tiempos, enfriado por aceite",
+          "Número de Cilindros": "1",
+          "Capacidad del Cilindro": "300 cc",
+          "Transmisión": "Manual con 6 velocidades",
+          "Freno Delantero": "Disco hidráulico",
+          "Freno Trasero": "Disco hidráulico",
+          "Potencia Máxima": "24 HP",
+          "Tanque de Combustible": "20 litros",
+          "Altura del Asiento": "80 cm",
+          "Peso en seco": "135 kg",
+          "Suspensión Delantera": "Horquilla hidráulica",
+          "Suspensión Trasera": "Monoshock",
+          "Rueda Delantera": "100/80 R17",
+          "Rueda Trasera": "130/80 R17",
+          "Largo Total": "200 cm",
+          "Ancho Total": "76 cm",
+          "Alto Total": "115 cm"
+        },
+        "tipo": "Datos publicados para este modelo y año",
+        "nota": ""
+      },
+      "fuentes": [
+        {
+          "nombre": "SCREAMER SPORTIVO 300",
+          "anio": 2025,
+          "url": "https://ayuda.vento.com/support/solutions/articles/73000647989-screamer-sportivo-300",
+          "tipo": "Fuente del producto"
+        }
+      ],
+      "nota": "",
+      "valoracion": {
+        "condicion": "La carga máxima de esta unidad debe constar para contrastarla con el peso real del conductor, acompañante y equipaje; contar dos plazas no acredita por sí solo capacidad para cualquier pareja."
+      },
+      "identidad": true,
+      "foto": "imagenes/a07151fcaa42.png",
+      "nota_foto": "Imagen de referencia; confirmar año y color.",
+      "favorita": true
+    },
+    {
+      "id": "625",
+      "nombre": "SCREAMER SPORTIVO 300CC",
+      "anio": 2026,
+      "precio": 38999.0,
+      "categoria": "REBEL",
+      "ficha": {
+        "nombre": "SCREAMER SPORTIVO 300",
+        "anio": 2026,
+        "url": "https://www.vento.com/screamer-sportivo-300/",
+        "campos": {
+          "Cilindrada": "300 c.c.",
+          "Potencia": "24 HP",
+          "Motor": "4 Tiempos, Enfriado por Aceite",
+          "Transmisión": "Manual con 6 Velocidades",
+          "Enfriamiento": "Enfriado por Aceite",
+          "Tanque": "20 litros",
+          "Peso": "135 kg",
+          "Altura del asiento": "80 cm",
+          "Longitud": "200 cm",
+          "Anchura": "76 cm",
+          "Freno delantero": "Disco Hidráulico",
+          "Freno trasero": "Disco Hidráulico"
+        },
+        "tipo": "Datos publicados para este modelo y año",
+        "nota": ""
+      },
+      "fuentes": [
+        {
+          "nombre": "SCREAMER SPORTIVO 300",
+          "anio": 2026,
+          "url": "https://www.vento.com/screamer-sportivo-300/",
+          "tipo": "Fuente del producto"
+        }
+      ],
+      "nota": "",
+      "valoracion": {
+        "condicion": "La carga máxima de esta unidad debe constar para contrastarla con el peso real del conductor, acompañante y equipaje; contar dos plazas no acredita por sí solo capacidad para cualquier pareja."
+      },
+      "identidad": true,
+      "foto": "imagenes/a07151fcaa42.png",
+      "nota_foto": "Imagen de referencia; confirmar año y color.",
+      "favorita": true
+    },
+    {
+      "id": "705",
+      "nombre": "SCREAMER SPORTIVO 300CC",
+      "anio": 2027,
+      "precio": 39999.0,
+      "categoria": "REBEL",
+      "ficha": {
+        "nombre": "SCREAMER SPORTIVO 300",
+        "anio": 2027,
+        "url": "https://www.vento.com/screamer-sportivo-300/",
+        "campos": {
+          "Motor": "4 Tiempos, Enfriado por Aceite",
+          "Número de Cilindros": "1",
+          "Capacidad del Cilindro": "300 c.c.",
+          "Potencia Máxima": "24 HP",
+          "Sistema de Ignición": "CDI Electrónica",
+          "Largo Total": "200 cm",
+          "Ancho Total": "76 cm",
+          "Alto Total": "115 cm",
+          "Altura del Asiento": "80 cm",
+          "Peso": "135 kg",
+          "Freno Delantero": "Disco Hidráulico",
+          "Freno Trasero": "Disco Hidráulico",
+          "Rueda Delantera": "100/80 R17",
+          "Rueda Trasera": "130/80 R17",
+          "Transmisión": "Manual con 6 Velocidades",
+          "Tanque de Combustible": "20 litros",
+          "Suspensión Delantera": "Horquilla Hidráulica",
+          "Suspensión Trasera": "Monoshock"
+        },
+        "tipo": "Datos publicados para este modelo y año",
+        "nota": ""
+      },
+      "fuentes": [
+        {
+          "nombre": "SCREAMER SPORTIVO 300",
+          "anio": 2027,
+          "url": "https://www.vento.com/screamer-sportivo-300/",
+          "tipo": "Fuente del producto"
+        }
+      ],
+      "nota": "",
+      "valoracion": {
+        "condicion": "La carga máxima de esta unidad debe constar para contrastarla con el peso real del conductor, acompañante y equipaje; contar dos plazas no acredita por sí solo capacidad para cualquier pareja."
+      },
+      "identidad": true,
+      "foto": "imagenes/a07151fcaa42.png",
+      "nota_foto": "Imagen de referencia; confirmar año y color.",
+      "favorita": true
     }
   ],
   "cotizaciones": [
     {
       "porcentaje": 15.0,
-      "enganche": 3120,
-      "pagos": 26,
-      "semana": 882.0,
-      "mes": 3822.0,
-      "total": 26052.0,
-      "costo_adicional": 5253.0,
-      "cat": "145.9",
-      "id": "594",
-      "clave": "594-26"
-    },
-    {
-      "porcentaje": 15.0,
-      "enganche": 3120,
-      "pagos": 52,
-      "semana": 532.0,
-      "mes": 2305.33,
-      "total": 30784.0,
-      "costo_adicional": 9985.0,
-      "cat": "127.3",
-      "id": "594",
-      "clave": "594-52"
-    },
-    {
-      "porcentaje": 15.0,
-      "enganche": 3120,
-      "pagos": 78,
-      "semana": 453.0,
-      "mes": 1963.0,
-      "total": 38454.0,
-      "costo_adicional": 17655.0,
-      "cat": "145.9",
-      "id": "594",
-      "clave": "594-78"
-    },
-    {
-      "porcentaje": 21.5,
-      "enganche": 4472,
-      "pagos": 104,
-      "semana": 402.0,
-      "mes": 1742.0,
-      "total": 46280.0,
-      "costo_adicional": 25481.0,
-      "cat": "165.9",
-      "id": "594",
-      "clave": "594-104"
-    },
-    {
-      "porcentaje": 15.0,
-      "enganche": 3240,
-      "pagos": 26,
-      "semana": 916.0,
-      "mes": 3969.33,
-      "total": 27056.0,
-      "costo_adicional": 5456.8,
-      "cat": "145.9",
-      "id": "572",
-      "clave": "572-26"
-    },
-    {
-      "porcentaje": 15.0,
-      "enganche": 3240,
-      "pagos": 52,
-      "semana": 553.0,
-      "mes": 2396.33,
-      "total": 31996.0,
-      "costo_adicional": 10396.8,
-      "cat": "127.3",
-      "id": "572",
-      "clave": "572-52"
-    },
-    {
-      "porcentaje": 15.0,
-      "enganche": 3240,
-      "pagos": 78,
-      "semana": 471.0,
-      "mes": 2041.0,
-      "total": 39978.0,
-      "costo_adicional": 18378.8,
-      "cat": "145.9",
-      "id": "572",
-      "clave": "572-78"
-    },
-    {
-      "porcentaje": 21.5,
-      "enganche": 4644,
-      "pagos": 104,
-      "semana": 417.0,
-      "mes": 1807.0,
-      "total": 48012.0,
-      "costo_adicional": 26412.8,
-      "cat": "165.9",
-      "id": "572",
-      "clave": "572-104"
-    },
-    {
-      "porcentaje": 15.0,
-      "enganche": 3360,
-      "pagos": 26,
-      "semana": 950.0,
-      "mes": 4116.67,
-      "total": 28060.0,
-      "costo_adicional": 5660.8,
-      "cat": "145.9",
-      "id": "518",
-      "clave": "518-26"
-    },
-    {
-      "porcentaje": 15.0,
-      "enganche": 3360,
-      "pagos": 52,
-      "semana": 573.0,
-      "mes": 2483.0,
-      "total": 33156.0,
-      "costo_adicional": 10756.8,
-      "cat": "127.3",
-      "id": "518",
-      "clave": "518-52"
-    },
-    {
-      "porcentaje": 15.0,
-      "enganche": 3360,
-      "pagos": 78,
-      "semana": 488.0,
-      "mes": 2114.67,
-      "total": 41424.0,
-      "costo_adicional": 19024.8,
-      "cat": "145.9",
-      "id": "518",
-      "clave": "518-78"
-    },
-    {
-      "porcentaje": 21.5,
-      "enganche": 4816,
-      "pagos": 104,
-      "semana": 433.0,
-      "mes": 1876.33,
-      "total": 49848.0,
-      "costo_adicional": 27448.8,
-      "cat": "165.9",
-      "id": "518",
-      "clave": "518-104"
-    },
-    {
-      "porcentaje": 15.0,
-      "enganche": 3480,
-      "pagos": 26,
-      "semana": 983.0,
-      "mes": 4259.67,
-      "total": 29038.0,
-      "costo_adicional": 5838.8,
-      "cat": "145.9",
-      "id": "595",
-      "clave": "595-26"
-    },
-    {
-      "porcentaje": 15.0,
-      "enganche": 3480,
-      "pagos": 52,
-      "semana": 594.0,
-      "mes": 2574.0,
-      "total": 34368.0,
-      "costo_adicional": 11168.8,
-      "cat": "127.3",
-      "id": "595",
-      "clave": "595-52"
-    },
-    {
-      "porcentaje": 15.0,
-      "enganche": 3480,
-      "pagos": 78,
-      "semana": 505.0,
-      "mes": 2188.33,
-      "total": 42870.0,
-      "costo_adicional": 19670.8,
-      "cat": "145.9",
-      "id": "595",
-      "clave": "595-78"
-    },
-    {
-      "porcentaje": 21.5,
-      "enganche": 4988,
-      "pagos": 104,
-      "semana": 448.0,
-      "mes": 1941.33,
-      "total": 51580.0,
-      "costo_adicional": 28380.8,
-      "cat": "165.9",
-      "id": "595",
-      "clave": "595-104"
-    },
-    {
-      "porcentaje": 15.0,
-      "enganche": 3900,
-      "pagos": 26,
-      "semana": 1102.0,
-      "mes": 4775.33,
-      "total": 32552.0,
-      "costo_adicional": 6553.0,
-      "cat": "145.9",
-      "id": "576",
-      "clave": "576-26"
-    },
-    {
-      "porcentaje": 15.0,
-      "enganche": 3900,
-      "pagos": 52,
-      "semana": 665.0,
-      "mes": 2881.67,
-      "total": 38480.0,
-      "costo_adicional": 12481.0,
-      "cat": "127.3",
-      "id": "576",
-      "clave": "576-52"
-    },
-    {
-      "porcentaje": 15.0,
-      "enganche": 3900,
-      "pagos": 78,
-      "semana": 566.0,
-      "mes": 2452.67,
-      "total": 48048.0,
-      "costo_adicional": 22049.0,
-      "cat": "145.9",
-      "id": "576",
-      "clave": "576-78"
-    },
-    {
-      "porcentaje": 21.5,
-      "enganche": 5590,
-      "pagos": 104,
-      "semana": 502.0,
-      "mes": 2175.33,
-      "total": 57798.0,
-      "costo_adicional": 31799.0,
-      "cat": "165.9",
-      "id": "576",
-      "clave": "576-104"
-    },
-    {
-      "porcentaje": 15.0,
-      "enganche": 3900,
-      "pagos": 26,
-      "semana": 1102.0,
-      "mes": 4775.33,
-      "total": 32552.0,
-      "costo_adicional": 6553.0,
-      "cat": "145.9",
-      "id": "545",
-      "clave": "545-26"
-    },
-    {
-      "porcentaje": 15.0,
-      "enganche": 3900,
-      "pagos": 52,
-      "semana": 665.0,
-      "mes": 2881.67,
-      "total": 38480.0,
-      "costo_adicional": 12481.0,
-      "cat": "127.3",
-      "id": "545",
-      "clave": "545-52"
-    },
-    {
-      "porcentaje": 15.0,
-      "enganche": 3900,
-      "pagos": 78,
-      "semana": 566.0,
-      "mes": 2452.67,
-      "total": 48048.0,
-      "costo_adicional": 22049.0,
-      "cat": "145.9",
-      "id": "545",
-      "clave": "545-78"
-    },
-    {
-      "porcentaje": 21.5,
-      "enganche": 5590,
-      "pagos": 104,
-      "semana": 502.0,
-      "mes": 2175.33,
-      "total": 57798.0,
-      "costo_adicional": 31799.0,
-      "cat": "165.9",
-      "id": "545",
-      "clave": "545-104"
-    },
-    {
-      "porcentaje": 15.0,
-      "enganche": 4050,
-      "pagos": 26,
-      "semana": 1144.0,
-      "mes": 4957.33,
-      "total": 33794.0,
-      "costo_adicional": 6795.0,
-      "cat": "145.9",
-      "id": "683",
-      "clave": "683-26"
-    },
-    {
-      "porcentaje": 15.0,
-      "enganche": 4050,
-      "pagos": 52,
-      "semana": 691.0,
-      "mes": 2994.33,
-      "total": 39982.0,
-      "costo_adicional": 12983.0,
-      "cat": "127.3",
-      "id": "683",
-      "clave": "683-52"
-    },
-    {
-      "porcentaje": 15.0,
-      "enganche": 4050,
-      "pagos": 78,
-      "semana": 588.0,
-      "mes": 2548.0,
-      "total": 49914.0,
-      "costo_adicional": 22915.0,
-      "cat": "145.9",
-      "id": "683",
-      "clave": "683-78"
-    },
-    {
-      "porcentaje": 21.5,
-      "enganche": 5805,
-      "pagos": 104,
-      "semana": 521.0,
-      "mes": 2257.67,
-      "total": 59989.0,
-      "costo_adicional": 32990.0,
-      "cat": "165.9",
-      "id": "683",
-      "clave": "683-104"
-    },
-    {
-      "porcentaje": 15.0,
       "enganche": 4050,
       "pagos": 26,
       "semana": 1144.0,
@@ -1699,7 +1937,9 @@
       "costo_adicional": 6795.0,
       "cat": "145.9",
       "id": "715",
-      "clave": "715-26"
+      "clave": "715-26",
+      "nombre": "Mínimo",
+      "fecha": "2026-11-02"
     },
     {
       "porcentaje": 15.0,
@@ -1711,7 +1951,9 @@
       "costo_adicional": 12983.0,
       "cat": "127.3",
       "id": "715",
-      "clave": "715-52"
+      "clave": "715-52",
+      "nombre": "Mínimo",
+      "fecha": "2026-11-02"
     },
     {
       "porcentaje": 15.0,
@@ -1723,7 +1965,9 @@
       "costo_adicional": 22915.0,
       "cat": "145.9",
       "id": "715",
-      "clave": "715-78"
+      "clave": "715-78",
+      "nombre": "Mínimo",
+      "fecha": "2026-11-02"
     },
     {
       "porcentaje": 21.5,
@@ -1735,7 +1979,9 @@
       "costo_adicional": 32990.0,
       "cat": "165.9",
       "id": "715",
-      "clave": "715-104"
+      "clave": "715-104",
+      "nombre": "Mínimo",
+      "fecha": "2026-11-02"
     },
     {
       "porcentaje": 16.0,
@@ -1747,7 +1993,9 @@
       "costo_adicional": 6948.8,
       "cat": "150.8",
       "id": "486",
-      "clave": "486-26"
+      "clave": "486-26",
+      "nombre": "Mínimo",
+      "fecha": "2026-11-02"
     },
     {
       "porcentaje": 24.0,
@@ -1759,7 +2007,9 @@
       "costo_adicional": 12972.8,
       "cat": "145.9",
       "id": "486",
-      "clave": "486-52"
+      "clave": "486-52",
+      "nombre": "Mínimo",
+      "fecha": "2026-11-02"
     },
     {
       "porcentaje": 16.0,
@@ -1771,7 +2021,9 @@
       "costo_adicional": 23406.8,
       "cat": "150.8",
       "id": "486",
-      "clave": "486-78"
+      "clave": "486-78",
+      "nombre": "Mínimo",
+      "fecha": "2026-11-02"
     },
     {
       "porcentaje": 22.0,
@@ -1783,7 +2035,9 @@
       "costo_adicional": 33488.8,
       "cat": "168.5",
       "id": "486",
-      "clave": "486-104"
+      "clave": "486-104",
+      "nombre": "Mínimo",
+      "fecha": "2026-11-02"
     },
     {
       "porcentaje": 15.0,
@@ -1795,7 +2049,9 @@
       "costo_adicional": 6942.0,
       "cat": "145.9",
       "id": "585",
-      "clave": "585-26"
+      "clave": "585-26",
+      "nombre": "Mínimo",
+      "fecha": "2026-11-02"
     },
     {
       "porcentaje": 15.0,
@@ -1807,7 +2063,9 @@
       "costo_adicional": 13234.0,
       "cat": "127.3",
       "id": "585",
-      "clave": "585-52"
+      "clave": "585-52",
+      "nombre": "Mínimo",
+      "fecha": "2026-11-02"
     },
     {
       "porcentaje": 15.0,
@@ -1819,7 +2077,9 @@
       "costo_adicional": 23348.0,
       "cat": "145.9",
       "id": "585",
-      "clave": "585-78"
+      "clave": "585-78",
+      "nombre": "Mínimo",
+      "fecha": "2026-11-02"
     },
     {
       "porcentaje": 21.5,
@@ -1831,55 +2091,9 @@
       "costo_adicional": 33637.0,
       "cat": "165.9",
       "id": "585",
-      "clave": "585-104"
-    },
-    {
-      "porcentaje": 15.0,
-      "enganche": 4200,
-      "pagos": 26,
-      "semana": 1187.0,
-      "mes": 5143.67,
-      "total": 35062.0,
-      "costo_adicional": 7063.0,
-      "cat": "145.9",
-      "id": "708",
-      "clave": "708-26"
-    },
-    {
-      "porcentaje": 15.0,
-      "enganche": 4200,
-      "pagos": 52,
-      "semana": 716.0,
-      "mes": 3102.67,
-      "total": 41432.0,
-      "costo_adicional": 13433.0,
-      "cat": "127.3",
-      "id": "708",
-      "clave": "708-52"
-    },
-    {
-      "porcentaje": 15.0,
-      "enganche": 4200,
-      "pagos": 78,
-      "semana": 610.0,
-      "mes": 2643.33,
-      "total": 51780.0,
-      "costo_adicional": 23781.0,
-      "cat": "145.9",
-      "id": "708",
-      "clave": "708-78"
-    },
-    {
-      "porcentaje": 21.5,
-      "enganche": 6020,
-      "pagos": 104,
-      "semana": 541.0,
-      "mes": 2344.33,
-      "total": 62284.0,
-      "costo_adicional": 34285.0,
-      "cat": "165.9",
-      "id": "708",
-      "clave": "708-104"
+      "clave": "585-104",
+      "nombre": "Mínimo",
+      "fecha": "2026-11-02"
     },
     {
       "porcentaje": 15.0,
@@ -1891,7 +2105,9 @@
       "costo_adicional": 7063.0,
       "cat": "145.9",
       "id": "712",
-      "clave": "712-26"
+      "clave": "712-26",
+      "nombre": "Mínimo",
+      "fecha": "2026-11-02"
     },
     {
       "porcentaje": 15.0,
@@ -1903,7 +2119,9 @@
       "costo_adicional": 13433.0,
       "cat": "127.3",
       "id": "712",
-      "clave": "712-52"
+      "clave": "712-52",
+      "nombre": "Mínimo",
+      "fecha": "2026-11-02"
     },
     {
       "porcentaje": 15.0,
@@ -1915,7 +2133,9 @@
       "costo_adicional": 23781.0,
       "cat": "145.9",
       "id": "712",
-      "clave": "712-78"
+      "clave": "712-78",
+      "nombre": "Mínimo",
+      "fecha": "2026-11-02"
     },
     {
       "porcentaje": 21.5,
@@ -1927,7 +2147,9 @@
       "costo_adicional": 34285.0,
       "cat": "165.9",
       "id": "712",
-      "clave": "712-104"
+      "clave": "712-104",
+      "nombre": "Mínimo",
+      "fecha": "2026-11-02"
     },
     {
       "porcentaje": 15.0,
@@ -1939,7 +2161,9 @@
       "costo_adicional": 7267.0,
       "cat": "145.9",
       "id": "659",
-      "clave": "659-26"
+      "clave": "659-26",
+      "nombre": "Mínimo",
+      "fecha": "2026-11-02"
     },
     {
       "porcentaje": 15.0,
@@ -1951,7 +2175,9 @@
       "costo_adicional": 13845.0,
       "cat": "127.3",
       "id": "659",
-      "clave": "659-52"
+      "clave": "659-52",
+      "nombre": "Mínimo",
+      "fecha": "2026-11-02"
     },
     {
       "porcentaje": 15.0,
@@ -1963,7 +2189,9 @@
       "costo_adicional": 24427.0,
       "cat": "145.9",
       "id": "659",
-      "clave": "659-78"
+      "clave": "659-78",
+      "nombre": "Mínimo",
+      "fecha": "2026-11-02"
     },
     {
       "porcentaje": 21.5,
@@ -1975,55 +2203,9 @@
       "costo_adicional": 35217.0,
       "cat": "165.9",
       "id": "659",
-      "clave": "659-104"
-    },
-    {
-      "porcentaje": 15.0,
-      "enganche": 4350,
-      "pagos": 26,
-      "semana": 1229.0,
-      "mes": 5325.67,
-      "total": 36304.0,
-      "costo_adicional": 7305.0,
-      "cat": "145.9",
-      "id": "543",
-      "clave": "543-26"
-    },
-    {
-      "porcentaje": 15.0,
-      "enganche": 4350,
-      "pagos": 52,
-      "semana": 742.0,
-      "mes": 3215.33,
-      "total": 42934.0,
-      "costo_adicional": 13935.0,
-      "cat": "127.3",
-      "id": "543",
-      "clave": "543-52"
-    },
-    {
-      "porcentaje": 15.0,
-      "enganche": 4350,
-      "pagos": 78,
-      "semana": 632.0,
-      "mes": 2738.67,
-      "total": 53646.0,
-      "costo_adicional": 24647.0,
-      "cat": "145.9",
-      "id": "543",
-      "clave": "543-78"
-    },
-    {
-      "porcentaje": 21.5,
-      "enganche": 6235,
-      "pagos": 104,
-      "semana": 560.0,
-      "mes": 2426.67,
-      "total": 64475.0,
-      "costo_adicional": 35476.0,
-      "cat": "165.9",
-      "id": "543",
-      "clave": "543-104"
+      "clave": "659-104",
+      "nombre": "Mínimo",
+      "fecha": "2026-11-02"
     },
     {
       "porcentaje": 15.0,
@@ -2035,7 +2217,9 @@
       "costo_adicional": 7470.8,
       "cat": "145.9",
       "id": "564",
-      "clave": "564-26"
+      "clave": "564-26",
+      "nombre": "Mínimo",
+      "fecha": "2026-11-02"
     },
     {
       "porcentaje": 15.0,
@@ -2047,7 +2231,9 @@
       "costo_adicional": 14204.8,
       "cat": "127.3",
       "id": "564",
-      "clave": "564-52"
+      "clave": "564-52",
+      "nombre": "Mínimo",
+      "fecha": "2026-11-02"
     },
     {
       "porcentaje": 15.0,
@@ -2059,7 +2245,9 @@
       "costo_adicional": 25150.8,
       "cat": "145.9",
       "id": "564",
-      "clave": "564-78"
+      "clave": "564-78",
+      "nombre": "Mínimo",
+      "fecha": "2026-11-02"
     },
     {
       "porcentaje": 21.5,
@@ -2071,7 +2259,9 @@
       "costo_adicional": 36148.8,
       "cat": "165.9",
       "id": "564",
-      "clave": "564-104"
+      "clave": "564-104",
+      "nombre": "Mínimo",
+      "fecha": "2026-11-02"
     },
     {
       "porcentaje": 16.0,
@@ -2083,7 +2273,9 @@
       "costo_adicional": 7639.0,
       "cat": "150.7",
       "id": "614",
-      "clave": "614-26"
+      "clave": "614-26",
+      "nombre": "Mínimo",
+      "fecha": "2026-11-02"
     },
     {
       "porcentaje": 24.0,
@@ -2095,7 +2287,9 @@
       "costo_adicional": 14329.0,
       "cat": "145.9",
       "id": "614",
-      "clave": "614-52"
+      "clave": "614-52",
+      "nombre": "Mínimo",
+      "fecha": "2026-11-02"
     },
     {
       "porcentaje": 16.0,
@@ -2107,7 +2301,9 @@
       "costo_adicional": 25813.0,
       "cat": "150.7",
       "id": "614",
-      "clave": "614-78"
+      "clave": "614-78",
+      "nombre": "Mínimo",
+      "fecha": "2026-11-02"
     },
     {
       "porcentaje": 22.0,
@@ -2119,55 +2315,9 @@
       "costo_adicional": 36921.0,
       "cat": "168.5",
       "id": "614",
-      "clave": "614-104"
-    },
-    {
-      "porcentaje": 15.0,
-      "enganche": 4500,
-      "pagos": 26,
-      "semana": 1272.0,
-      "mes": 5512.0,
-      "total": 37572.0,
-      "costo_adicional": 7573.0,
-      "cat": "145.9",
-      "id": "698",
-      "clave": "698-26"
-    },
-    {
-      "porcentaje": 15.0,
-      "enganche": 4500,
-      "pagos": 52,
-      "semana": 768.0,
-      "mes": 3328.0,
-      "total": 44436.0,
-      "costo_adicional": 14437.0,
-      "cat": "127.3",
-      "id": "698",
-      "clave": "698-52"
-    },
-    {
-      "porcentaje": 15.0,
-      "enganche": 4500,
-      "pagos": 78,
-      "semana": 653.0,
-      "mes": 2829.67,
-      "total": 55434.0,
-      "costo_adicional": 25435.0,
-      "cat": "145.9",
-      "id": "698",
-      "clave": "698-78"
-    },
-    {
-      "porcentaje": 21.5,
-      "enganche": 6450,
-      "pagos": 104,
-      "semana": 579.0,
-      "mes": 2509.0,
-      "total": 66666.0,
-      "costo_adicional": 36667.0,
-      "cat": "165.9",
-      "id": "698",
-      "clave": "698-104"
+      "clave": "614-104",
+      "nombre": "Mínimo",
+      "fecha": "2026-11-02"
     },
     {
       "porcentaje": 16.0,
@@ -2179,7 +2329,9 @@
       "costo_adicional": 7891.0,
       "cat": "150.7",
       "id": "692",
-      "clave": "692-26"
+      "clave": "692-26",
+      "nombre": "Mínimo",
+      "fecha": "2026-11-02"
     },
     {
       "porcentaje": 24.0,
@@ -2191,7 +2343,9 @@
       "costo_adicional": 14765.0,
       "cat": "145.9",
       "id": "692",
-      "clave": "692-52"
+      "clave": "692-52",
+      "nombre": "Mínimo",
+      "fecha": "2026-11-02"
     },
     {
       "porcentaje": 16.0,
@@ -2203,7 +2357,9 @@
       "costo_adicional": 26689.0,
       "cat": "150.7",
       "id": "692",
-      "clave": "692-78"
+      "clave": "692-78",
+      "nombre": "Mínimo",
+      "fecha": "2026-11-02"
     },
     {
       "porcentaje": 22.0,
@@ -2215,7 +2371,9 @@
       "costo_adicional": 38117.0,
       "cat": "168.5",
       "id": "692",
-      "clave": "692-104"
+      "clave": "692-104",
+      "nombre": "Mínimo",
+      "fecha": "2026-11-02"
     },
     {
       "porcentaje": 15.0,
@@ -2227,7 +2385,9 @@
       "costo_adicional": 8567.0,
       "cat": "145.9",
       "id": "602",
-      "clave": "602-26"
+      "clave": "602-26",
+      "nombre": "Mínimo",
+      "fecha": "2026-11-02"
     },
     {
       "porcentaje": 15.0,
@@ -2239,7 +2399,9 @@
       "costo_adicional": 16341.0,
       "cat": "127.3",
       "id": "602",
-      "clave": "602-52"
+      "clave": "602-52",
+      "nombre": "Mínimo",
+      "fecha": "2026-11-02"
     },
     {
       "porcentaje": 15.0,
@@ -2251,7 +2413,9 @@
       "costo_adicional": 28899.0,
       "cat": "145.9",
       "id": "602",
-      "clave": "602-78"
+      "clave": "602-78",
+      "nombre": "Mínimo",
+      "fecha": "2026-11-02"
     },
     {
       "porcentaje": 21.5,
@@ -2263,7 +2427,9 @@
       "costo_adicional": 41535.0,
       "cat": "165.9",
       "id": "602",
-      "clave": "602-104"
+      "clave": "602-104",
+      "nombre": "Mínimo",
+      "fecha": "2026-11-02"
     },
     {
       "porcentaje": 16.0,
@@ -2275,7 +2441,9 @@
       "costo_adicional": 8673.0,
       "cat": "150.7",
       "id": "621",
-      "clave": "621-26"
+      "clave": "621-26",
+      "nombre": "Mínimo",
+      "fecha": "2026-11-02"
     },
     {
       "porcentaje": 24.0,
@@ -2287,7 +2455,9 @@
       "costo_adicional": 16229.0,
       "cat": "145.9",
       "id": "621",
-      "clave": "621-52"
+      "clave": "621-52",
+      "nombre": "Mínimo",
+      "fecha": "2026-11-02"
     },
     {
       "porcentaje": 16.0,
@@ -2299,7 +2469,9 @@
       "costo_adicional": 29239.0,
       "cat": "150.7",
       "id": "621",
-      "clave": "621-78"
+      "clave": "621-78",
+      "nombre": "Mínimo",
+      "fecha": "2026-11-02"
     },
     {
       "porcentaje": 22.0,
@@ -2311,7 +2483,9 @@
       "costo_adicional": 41809.0,
       "cat": "168.5",
       "id": "621",
-      "clave": "621-104"
+      "clave": "621-104",
+      "nombre": "Mínimo",
+      "fecha": "2026-11-02"
     },
     {
       "porcentaje": 15.0,
@@ -2323,7 +2497,9 @@
       "costo_adicional": 8809.0,
       "cat": "145.9",
       "id": "720",
-      "clave": "720-26"
+      "clave": "720-26",
+      "nombre": "Mínimo",
+      "fecha": "2026-11-02"
     },
     {
       "porcentaje": 15.0,
@@ -2335,7 +2511,9 @@
       "costo_adicional": 16791.0,
       "cat": "127.3",
       "id": "720",
-      "clave": "720-52"
+      "clave": "720-52",
+      "nombre": "Mínimo",
+      "fecha": "2026-11-02"
     },
     {
       "porcentaje": 15.0,
@@ -2347,7 +2525,9 @@
       "costo_adicional": 29687.0,
       "cat": "145.9",
       "id": "720",
-      "clave": "720-78"
+      "clave": "720-78",
+      "nombre": "Mínimo",
+      "fecha": "2026-11-02"
     },
     {
       "porcentaje": 21.5,
@@ -2359,7 +2539,9 @@
       "costo_adicional": 42830.0,
       "cat": "165.9",
       "id": "720",
-      "clave": "720-104"
+      "clave": "720-104",
+      "nombre": "Mínimo",
+      "fecha": "2026-11-02"
     },
     {
       "porcentaje": 15.0,
@@ -2371,7 +2553,9 @@
       "costo_adicional": 8809.0,
       "cat": "145.9",
       "id": "727",
-      "clave": "727-26"
+      "clave": "727-26",
+      "nombre": "Mínimo",
+      "fecha": "2026-11-02"
     },
     {
       "porcentaje": 15.0,
@@ -2383,7 +2567,9 @@
       "costo_adicional": 16791.0,
       "cat": "127.3",
       "id": "727",
-      "clave": "727-52"
+      "clave": "727-52",
+      "nombre": "Mínimo",
+      "fecha": "2026-11-02"
     },
     {
       "porcentaje": 15.0,
@@ -2395,7 +2581,9 @@
       "costo_adicional": 29687.0,
       "cat": "145.9",
       "id": "727",
-      "clave": "727-78"
+      "clave": "727-78",
+      "nombre": "Mínimo",
+      "fecha": "2026-11-02"
     },
     {
       "porcentaje": 21.5,
@@ -2407,7 +2595,9 @@
       "costo_adicional": 42830.0,
       "cat": "165.9",
       "id": "727",
-      "clave": "727-104"
+      "clave": "727-104",
+      "nombre": "Mínimo",
+      "fecha": "2026-11-02"
     },
     {
       "porcentaje": 15.0,
@@ -2419,7 +2609,9 @@
       "costo_adicional": 9077.0,
       "cat": "145.9",
       "id": "721",
-      "clave": "721-26"
+      "clave": "721-26",
+      "nombre": "Mínimo",
+      "fecha": "2026-11-02"
     },
     {
       "porcentaje": 15.0,
@@ -2431,7 +2623,9 @@
       "costo_adicional": 17293.0,
       "cat": "127.3",
       "id": "721",
-      "clave": "721-52"
+      "clave": "721-52",
+      "nombre": "Mínimo",
+      "fecha": "2026-11-02"
     },
     {
       "porcentaje": 15.0,
@@ -2443,7 +2637,9 @@
       "costo_adicional": 30553.0,
       "cat": "145.9",
       "id": "721",
-      "clave": "721-78"
+      "clave": "721-78",
+      "nombre": "Mínimo",
+      "fecha": "2026-11-02"
     },
     {
       "porcentaje": 21.5,
@@ -2455,7 +2651,9 @@
       "costo_adicional": 44021.0,
       "cat": "165.9",
       "id": "721",
-      "clave": "721-104"
+      "clave": "721-104",
+      "nombre": "Mínimo",
+      "fecha": "2026-11-02"
     },
     {
       "porcentaje": 15.0,
@@ -2467,7 +2665,9 @@
       "costo_adicional": 9077.0,
       "cat": "145.9",
       "id": "689",
-      "clave": "689-26"
+      "clave": "689-26",
+      "nombre": "Mínimo",
+      "fecha": "2026-11-02"
     },
     {
       "porcentaje": 15.0,
@@ -2479,7 +2679,9 @@
       "costo_adicional": 17293.0,
       "cat": "127.3",
       "id": "689",
-      "clave": "689-52"
+      "clave": "689-52",
+      "nombre": "Mínimo",
+      "fecha": "2026-11-02"
     },
     {
       "porcentaje": 15.0,
@@ -2491,7 +2693,9 @@
       "costo_adicional": 30553.0,
       "cat": "145.9",
       "id": "689",
-      "clave": "689-78"
+      "clave": "689-78",
+      "nombre": "Mínimo",
+      "fecha": "2026-11-02"
     },
     {
       "porcentaje": 21.5,
@@ -2503,7 +2707,9 @@
       "costo_adicional": 44021.0,
       "cat": "165.9",
       "id": "689",
-      "clave": "689-104"
+      "clave": "689-104",
+      "nombre": "Mínimo",
+      "fecha": "2026-11-02"
     },
     {
       "porcentaje": 16.0,
@@ -2515,7 +2721,9 @@
       "costo_adicional": 9177.0,
       "cat": "150.7",
       "id": "667",
-      "clave": "667-26"
+      "clave": "667-26",
+      "nombre": "Mínimo",
+      "fecha": "2026-11-02"
     },
     {
       "porcentaje": 24.0,
@@ -2527,7 +2735,9 @@
       "costo_adicional": 17153.0,
       "cat": "145.9",
       "id": "667",
-      "clave": "667-52"
+      "clave": "667-52",
+      "nombre": "Mínimo",
+      "fecha": "2026-11-02"
     },
     {
       "porcentaje": 16.0,
@@ -2539,7 +2749,9 @@
       "costo_adicional": 30991.0,
       "cat": "150.7",
       "id": "667",
-      "clave": "667-78"
+      "clave": "667-78",
+      "nombre": "Mínimo",
+      "fecha": "2026-11-02"
     },
     {
       "porcentaje": 22.0,
@@ -2551,7 +2763,9 @@
       "costo_adicional": 44305.0,
       "cat": "168.5",
       "id": "667",
-      "clave": "667-104"
+      "clave": "667-104",
+      "nombre": "Mínimo",
+      "fecha": "2026-11-02"
     },
     {
       "porcentaje": 15.0,
@@ -2563,7 +2777,9 @@
       "costo_adicional": 9587.0,
       "cat": "145.9",
       "id": "407",
-      "clave": "407-26"
+      "clave": "407-26",
+      "nombre": "Mínimo",
+      "fecha": "2026-11-02"
     },
     {
       "porcentaje": 15.0,
@@ -2575,7 +2791,9 @@
       "costo_adicional": 18245.0,
       "cat": "127.3",
       "id": "407",
-      "clave": "407-52"
+      "clave": "407-52",
+      "nombre": "Mínimo",
+      "fecha": "2026-11-02"
     },
     {
       "porcentaje": 15.0,
@@ -2587,7 +2805,9 @@
       "costo_adicional": 32285.0,
       "cat": "145.9",
       "id": "407",
-      "clave": "407-78"
+      "clave": "407-78",
+      "nombre": "Mínimo",
+      "fecha": "2026-11-02"
     },
     {
       "porcentaje": 21.5,
@@ -2599,7 +2819,9 @@
       "costo_adicional": 46507.0,
       "cat": "165.9",
       "id": "407",
-      "clave": "407-104"
+      "clave": "407-104",
+      "nombre": "Mínimo",
+      "fecha": "2026-11-02"
     },
     {
       "porcentaje": 15.0,
@@ -2611,7 +2833,9 @@
       "costo_adicional": 12837.0,
       "cat": "145.9",
       "id": "617",
-      "clave": "617-26"
+      "clave": "617-26",
+      "nombre": "Mínimo",
+      "fecha": "2026-11-02"
     },
     {
       "porcentaje": 15.0,
@@ -2623,7 +2847,9 @@
       "costo_adicional": 24511.0,
       "cat": "127.3",
       "id": "617",
-      "clave": "617-52"
+      "clave": "617-52",
+      "nombre": "Mínimo",
+      "fecha": "2026-11-02"
     },
     {
       "porcentaje": 15.0,
@@ -2635,7 +2861,9 @@
       "costo_adicional": 43309.0,
       "cat": "145.9",
       "id": "617",
-      "clave": "617-78"
+      "clave": "617-78",
+      "nombre": "Mínimo",
+      "fecha": "2026-11-02"
     },
     {
       "porcentaje": 21.5,
@@ -2647,7 +2875,9 @@
       "costo_adicional": 62302.0,
       "cat": "165.9",
       "id": "617",
-      "clave": "617-104"
+      "clave": "617-104",
+      "nombre": "Mínimo",
+      "fecha": "2026-11-02"
     },
     {
       "porcentaje": 15.0,
@@ -2659,7 +2889,9 @@
       "costo_adicional": 13589.0,
       "cat": "145.9",
       "id": "660",
-      "clave": "660-26"
+      "clave": "660-26",
+      "nombre": "Mínimo",
+      "fecha": "2026-11-02"
     },
     {
       "porcentaje": 15.0,
@@ -2671,7 +2903,9 @@
       "costo_adicional": 25913.0,
       "cat": "127.3",
       "id": "660",
-      "clave": "660-52"
+      "clave": "660-52",
+      "nombre": "Mínimo",
+      "fecha": "2026-11-02"
     },
     {
       "porcentaje": 15.0,
@@ -2683,7 +2917,9 @@
       "costo_adicional": 45829.0,
       "cat": "145.9",
       "id": "660",
-      "clave": "660-78"
+      "clave": "660-78",
+      "nombre": "Mínimo",
+      "fecha": "2026-11-02"
     },
     {
       "porcentaje": 21.5,
@@ -2695,7 +2931,3441 @@
       "costo_adicional": 65979.0,
       "cat": "165.9",
       "id": "660",
-      "clave": "660-104"
+      "clave": "660-104",
+      "nombre": "Mínimo",
+      "fecha": "2026-11-02"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 15.0,
+      "enganche": 3240,
+      "pagos": 26,
+      "semana": 915.14,
+      "mes": 3965.61,
+      "total": 27033.64,
+      "costo_adicional": 5434.44,
+      "id": "572",
+      "fecha": "2026-11-03",
+      "clave": "572-26-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 25,
+      "enganche": 5400,
+      "pagos": 26,
+      "semana": 807.48,
+      "mes": 3499.08,
+      "total": 26394.48,
+      "costo_adicional": 4795.28,
+      "id": "572",
+      "fecha": "2026-11-03",
+      "clave": "572-26-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 30,
+      "enganche": 6480,
+      "pagos": 26,
+      "semana": 753.64,
+      "mes": 3265.77,
+      "total": 26074.64,
+      "costo_adicional": 4475.44,
+      "id": "572",
+      "fecha": "2026-11-03",
+      "clave": "572-26-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 15.0,
+      "enganche": 3240,
+      "pagos": 52,
+      "semana": 552.29,
+      "mes": 2393.26,
+      "total": 31959.08,
+      "costo_adicional": 10359.88,
+      "id": "572",
+      "fecha": "2026-11-03",
+      "clave": "572-52-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 25,
+      "enganche": 5400,
+      "pagos": 52,
+      "semana": 487.31,
+      "mes": 2111.68,
+      "total": 30740.12,
+      "costo_adicional": 9140.92,
+      "id": "572",
+      "fecha": "2026-11-03",
+      "clave": "572-52-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 30,
+      "enganche": 6480,
+      "pagos": 52,
+      "semana": 454.83,
+      "mes": 1970.93,
+      "total": 30131.16,
+      "costo_adicional": 8531.96,
+      "id": "572",
+      "fecha": "2026-11-03",
+      "clave": "572-52-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 15.0,
+      "enganche": 3240,
+      "pagos": 78,
+      "semana": 470.13,
+      "mes": 2037.23,
+      "total": 39910.14,
+      "costo_adicional": 18310.94,
+      "id": "572",
+      "fecha": "2026-11-03",
+      "clave": "572-78-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 25,
+      "enganche": 5400,
+      "pagos": 78,
+      "semana": 414.82,
+      "mes": 1797.55,
+      "total": 37755.96,
+      "costo_adicional": 16156.76,
+      "id": "572",
+      "fecha": "2026-11-03",
+      "clave": "572-78-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 30,
+      "enganche": 6480,
+      "pagos": 78,
+      "semana": 387.17,
+      "mes": 1677.74,
+      "total": 36679.26,
+      "costo_adicional": 15080.06,
+      "id": "572",
+      "fecha": "2026-11-03",
+      "clave": "572-78-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 21.5,
+      "enganche": 4644,
+      "pagos": 104,
+      "semana": 416.66,
+      "mes": 1805.53,
+      "total": 47976.64,
+      "costo_adicional": 26377.44,
+      "id": "572",
+      "fecha": "2026-11-03",
+      "clave": "572-104-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 26.5,
+      "enganche": 5724,
+      "pagos": 104,
+      "semana": 390.12,
+      "mes": 1690.52,
+      "total": 46296.48,
+      "costo_adicional": 24697.28,
+      "id": "572",
+      "fecha": "2026-11-03",
+      "clave": "572-104-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 31.5,
+      "enganche": 6804,
+      "pagos": 104,
+      "semana": 363.58,
+      "mes": 1575.51,
+      "total": 44616.32,
+      "costo_adicional": 23017.12,
+      "id": "572",
+      "fecha": "2026-11-03",
+      "clave": "572-104-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 15.0,
+      "enganche": 3900,
+      "pagos": 26,
+      "semana": 1101.56,
+      "mes": 4773.43,
+      "total": 32540.56,
+      "costo_adicional": 6541.56,
+      "id": "576",
+      "fecha": "2026-11-03",
+      "clave": "576-26-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 25,
+      "enganche": 6500,
+      "pagos": 26,
+      "semana": 971.96,
+      "mes": 4211.83,
+      "total": 31770.96,
+      "costo_adicional": 5771.96,
+      "id": "576",
+      "fecha": "2026-11-03",
+      "clave": "576-26-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 30,
+      "enganche": 7800,
+      "pagos": 26,
+      "semana": 907.16,
+      "mes": 3931.03,
+      "total": 31386.16,
+      "costo_adicional": 5387.16,
+      "id": "576",
+      "fecha": "2026-11-03",
+      "clave": "576-26-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 15.0,
+      "enganche": 3900,
+      "pagos": 52,
+      "semana": 664.8,
+      "mes": 2880.8,
+      "total": 38469.6,
+      "costo_adicional": 12470.6,
+      "id": "576",
+      "fecha": "2026-11-03",
+      "clave": "576-52-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 25,
+      "enganche": 6500,
+      "pagos": 52,
+      "semana": 586.58,
+      "mes": 2541.85,
+      "total": 37002.16,
+      "costo_adicional": 11003.16,
+      "id": "576",
+      "fecha": "2026-11-03",
+      "clave": "576-52-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 30,
+      "enganche": 7800,
+      "pagos": 52,
+      "semana": 547.47,
+      "mes": 2372.37,
+      "total": 36268.44,
+      "costo_adicional": 10269.44,
+      "id": "576",
+      "fecha": "2026-11-03",
+      "clave": "576-52-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 15.0,
+      "enganche": 3900,
+      "pagos": 78,
+      "semana": 565.9,
+      "mes": 2452.23,
+      "total": 48040.2,
+      "costo_adicional": 22041.2,
+      "id": "576",
+      "fecha": "2026-11-03",
+      "clave": "576-78-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 25,
+      "enganche": 6500,
+      "pagos": 78,
+      "semana": 499.32,
+      "mes": 2163.72,
+      "total": 45446.96,
+      "costo_adicional": 19447.96,
+      "id": "576",
+      "fecha": "2026-11-03",
+      "clave": "576-78-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 30,
+      "enganche": 7800,
+      "pagos": 78,
+      "semana": 466.03,
+      "mes": 2019.46,
+      "total": 44150.34,
+      "costo_adicional": 18151.34,
+      "id": "576",
+      "fecha": "2026-11-03",
+      "clave": "576-78-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 21.5,
+      "enganche": 5590,
+      "pagos": 104,
+      "semana": 501.53,
+      "mes": 2173.3,
+      "total": 57749.12,
+      "costo_adicional": 31750.12,
+      "id": "576",
+      "fecha": "2026-11-03",
+      "clave": "576-104-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 26.5,
+      "enganche": 6890,
+      "pagos": 104,
+      "semana": 469.58,
+      "mes": 2034.85,
+      "total": 55726.32,
+      "costo_adicional": 29727.32,
+      "id": "576",
+      "fecha": "2026-11-03",
+      "clave": "576-104-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 31.5,
+      "enganche": 8190,
+      "pagos": 104,
+      "semana": 437.64,
+      "mes": 1896.44,
+      "total": 53704.56,
+      "costo_adicional": 27705.56,
+      "id": "576",
+      "fecha": "2026-11-03",
+      "clave": "576-104-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 15.0,
+      "enganche": 4050,
+      "pagos": 26,
+      "semana": 1143.93,
+      "mes": 4957.03,
+      "total": 33792.18,
+      "costo_adicional": 6793.18,
+      "id": "683",
+      "fecha": "2026-11-03",
+      "clave": "683-26-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 25,
+      "enganche": 6750,
+      "pagos": 26,
+      "semana": 1009.35,
+      "mes": 4373.85,
+      "total": 32993.1,
+      "costo_adicional": 5994.1,
+      "id": "683",
+      "fecha": "2026-11-03",
+      "clave": "683-26-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 30,
+      "enganche": 8100,
+      "pagos": 26,
+      "semana": 942.05,
+      "mes": 4082.22,
+      "total": 32593.3,
+      "costo_adicional": 5594.3,
+      "id": "683",
+      "fecha": "2026-11-03",
+      "clave": "683-26-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 15.0,
+      "enganche": 4050,
+      "pagos": 52,
+      "semana": 690.37,
+      "mes": 2991.6,
+      "total": 39949.24,
+      "costo_adicional": 12950.24,
+      "id": "683",
+      "fecha": "2026-11-03",
+      "clave": "683-52-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 25,
+      "enganche": 6750,
+      "pagos": 52,
+      "semana": 609.14,
+      "mes": 2639.61,
+      "total": 38425.28,
+      "costo_adicional": 11426.28,
+      "id": "683",
+      "fecha": "2026-11-03",
+      "clave": "683-52-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 30,
+      "enganche": 8100,
+      "pagos": 52,
+      "semana": 568.53,
+      "mes": 2463.63,
+      "total": 37663.56,
+      "costo_adicional": 10664.56,
+      "id": "683",
+      "fecha": "2026-11-03",
+      "clave": "683-52-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 15.0,
+      "enganche": 4050,
+      "pagos": 78,
+      "semana": 587.67,
+      "mes": 2546.57,
+      "total": 49888.26,
+      "costo_adicional": 22889.26,
+      "id": "683",
+      "fecha": "2026-11-03",
+      "clave": "683-78-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 25,
+      "enganche": 6750,
+      "pagos": 78,
+      "semana": 518.53,
+      "mes": 2246.96,
+      "total": 47195.34,
+      "costo_adicional": 20196.34,
+      "id": "683",
+      "fecha": "2026-11-03",
+      "clave": "683-78-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 30,
+      "enganche": 8100,
+      "pagos": 78,
+      "semana": 483.96,
+      "mes": 2097.16,
+      "total": 45848.88,
+      "costo_adicional": 18849.88,
+      "id": "683",
+      "fecha": "2026-11-03",
+      "clave": "683-78-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 21.5,
+      "enganche": 5805,
+      "pagos": 104,
+      "semana": 520.82,
+      "mes": 2256.89,
+      "total": 59970.28,
+      "costo_adicional": 32971.28,
+      "id": "683",
+      "fecha": "2026-11-03",
+      "clave": "683-104-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 26.5,
+      "enganche": 7155,
+      "pagos": 104,
+      "semana": 487.64,
+      "mes": 2113.11,
+      "total": 57869.56,
+      "costo_adicional": 30870.56,
+      "id": "683",
+      "fecha": "2026-11-03",
+      "clave": "683-104-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 31.5,
+      "enganche": 8505,
+      "pagos": 104,
+      "semana": 454.47,
+      "mes": 1969.37,
+      "total": 55769.88,
+      "costo_adicional": 28770.88,
+      "id": "683",
+      "fecha": "2026-11-03",
+      "clave": "683-104-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 15.0,
+      "enganche": 3480,
+      "pagos": 26,
+      "semana": 982.94,
+      "mes": 4259.41,
+      "total": 29036.44,
+      "costo_adicional": 5837.24,
+      "id": "595",
+      "fecha": "2026-11-03",
+      "clave": "595-26-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 25,
+      "enganche": 5800,
+      "pagos": 26,
+      "semana": 867.29,
+      "mes": 3758.26,
+      "total": 28349.54,
+      "costo_adicional": 5150.34,
+      "id": "595",
+      "fecha": "2026-11-03",
+      "clave": "595-26-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 30,
+      "enganche": 6960,
+      "pagos": 26,
+      "semana": 809.47,
+      "mes": 3507.7,
+      "total": 28006.22,
+      "costo_adicional": 4807.02,
+      "id": "595",
+      "fecha": "2026-11-03",
+      "clave": "595-26-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 15.0,
+      "enganche": 3480,
+      "pagos": 52,
+      "semana": 593.21,
+      "mes": 2570.58,
+      "total": 34326.92,
+      "costo_adicional": 11127.72,
+      "id": "595",
+      "fecha": "2026-11-03",
+      "clave": "595-52-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 25,
+      "enganche": 5800,
+      "pagos": 52,
+      "semana": 523.41,
+      "mes": 2268.11,
+      "total": 33017.32,
+      "costo_adicional": 9818.12,
+      "id": "595",
+      "fecha": "2026-11-03",
+      "clave": "595-52-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 30,
+      "enganche": 6960,
+      "pagos": 52,
+      "semana": 488.52,
+      "mes": 2116.92,
+      "total": 32363.04,
+      "costo_adicional": 9163.84,
+      "id": "595",
+      "fecha": "2026-11-03",
+      "clave": "595-52-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 15.0,
+      "enganche": 3480,
+      "pagos": 78,
+      "semana": 504.96,
+      "mes": 2188.16,
+      "total": 42866.88,
+      "costo_adicional": 19667.68,
+      "id": "595",
+      "fecha": "2026-11-03",
+      "clave": "595-78-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 25,
+      "enganche": 5800,
+      "pagos": 78,
+      "semana": 445.55,
+      "mes": 1930.72,
+      "total": 40552.9,
+      "costo_adicional": 17353.7,
+      "id": "595",
+      "fecha": "2026-11-03",
+      "clave": "595-78-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 30,
+      "enganche": 6960,
+      "pagos": 78,
+      "semana": 415.85,
+      "mes": 1802.02,
+      "total": 39396.3,
+      "costo_adicional": 16197.1,
+      "id": "595",
+      "fecha": "2026-11-03",
+      "clave": "595-78-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 21.5,
+      "enganche": 4988,
+      "pagos": 104,
+      "semana": 447.52,
+      "mes": 1939.25,
+      "total": 51530.08,
+      "costo_adicional": 28330.88,
+      "id": "595",
+      "fecha": "2026-11-03",
+      "clave": "595-104-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 26.5,
+      "enganche": 6148,
+      "pagos": 104,
+      "semana": 419.01,
+      "mes": 1815.71,
+      "total": 49725.04,
+      "costo_adicional": 26525.84,
+      "id": "595",
+      "fecha": "2026-11-03",
+      "clave": "595-104-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 31.5,
+      "enganche": 7308,
+      "pagos": 104,
+      "semana": 390.51,
+      "mes": 1692.21,
+      "total": 47921.04,
+      "costo_adicional": 24721.84,
+      "id": "595",
+      "fecha": "2026-11-03",
+      "clave": "595-104-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 15.0,
+      "enganche": 4350,
+      "pagos": 26,
+      "semana": 1228.67,
+      "mes": 5324.24,
+      "total": 36295.42,
+      "costo_adicional": 7296.42,
+      "id": "543",
+      "fecha": "2026-11-03",
+      "clave": "543-26-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 25,
+      "enganche": 7250,
+      "pagos": 26,
+      "semana": 1084.12,
+      "mes": 4697.85,
+      "total": 35437.12,
+      "costo_adicional": 6438.12,
+      "id": "543",
+      "fecha": "2026-11-03",
+      "clave": "543-26-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 30,
+      "enganche": 8700,
+      "pagos": 26,
+      "semana": 1011.84,
+      "mes": 4384.64,
+      "total": 35007.84,
+      "costo_adicional": 6008.84,
+      "id": "543",
+      "fecha": "2026-11-03",
+      "clave": "543-26-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 15.0,
+      "enganche": 4350,
+      "pagos": 52,
+      "semana": 741.51,
+      "mes": 3213.21,
+      "total": 42908.52,
+      "costo_adicional": 13909.52,
+      "id": "543",
+      "fecha": "2026-11-03",
+      "clave": "543-52-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 25,
+      "enganche": 7250,
+      "pagos": 52,
+      "semana": 654.27,
+      "mes": 2835.17,
+      "total": 41272.04,
+      "costo_adicional": 12273.04,
+      "id": "543",
+      "fecha": "2026-11-03",
+      "clave": "543-52-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 30,
+      "enganche": 8700,
+      "pagos": 52,
+      "semana": 610.65,
+      "mes": 2646.15,
+      "total": 40453.8,
+      "costo_adicional": 11454.8,
+      "id": "543",
+      "fecha": "2026-11-03",
+      "clave": "543-52-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 15.0,
+      "enganche": 4350,
+      "pagos": 78,
+      "semana": 631.2,
+      "mes": 2735.2,
+      "total": 53583.6,
+      "costo_adicional": 24584.6,
+      "id": "543",
+      "fecha": "2026-11-03",
+      "clave": "543-78-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 25,
+      "enganche": 7250,
+      "pagos": 78,
+      "semana": 556.94,
+      "mes": 2413.41,
+      "total": 50691.32,
+      "costo_adicional": 21692.32,
+      "id": "543",
+      "fecha": "2026-11-03",
+      "clave": "543-78-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 30,
+      "enganche": 8700,
+      "pagos": 78,
+      "semana": 519.81,
+      "mes": 2252.51,
+      "total": 49245.18,
+      "costo_adicional": 20246.18,
+      "id": "543",
+      "fecha": "2026-11-03",
+      "clave": "543-78-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 21.5,
+      "enganche": 6235,
+      "pagos": 104,
+      "semana": 559.4,
+      "mes": 2424.07,
+      "total": 64412.6,
+      "costo_adicional": 35413.6,
+      "id": "543",
+      "fecha": "2026-11-03",
+      "clave": "543-104-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 26.5,
+      "enganche": 7685,
+      "pagos": 104,
+      "semana": 523.77,
+      "mes": 2269.67,
+      "total": 62157.08,
+      "costo_adicional": 33158.08,
+      "id": "543",
+      "fecha": "2026-11-03",
+      "clave": "543-104-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 31.5,
+      "enganche": 9135,
+      "pagos": 104,
+      "semana": 488.14,
+      "mes": 2115.27,
+      "total": 59901.56,
+      "costo_adicional": 30902.56,
+      "id": "543",
+      "fecha": "2026-11-03",
+      "clave": "543-104-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 15.0,
+      "enganche": 4500,
+      "pagos": 26,
+      "semana": 1271.04,
+      "mes": 5507.84,
+      "total": 37547.04,
+      "costo_adicional": 7548.04,
+      "id": "698",
+      "fecha": "2026-11-03",
+      "clave": "698-26-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 25,
+      "enganche": 7500,
+      "pagos": 26,
+      "semana": 1121.5,
+      "mes": 4859.83,
+      "total": 36659.0,
+      "costo_adicional": 6660.0,
+      "id": "698",
+      "fecha": "2026-11-03",
+      "clave": "698-26-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 30,
+      "enganche": 9000,
+      "pagos": 26,
+      "semana": 1046.73,
+      "mes": 4535.83,
+      "total": 36214.98,
+      "costo_adicional": 6215.98,
+      "id": "698",
+      "fecha": "2026-11-03",
+      "clave": "698-26-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 15.0,
+      "enganche": 4500,
+      "pagos": 52,
+      "semana": 767.08,
+      "mes": 3324.01,
+      "total": 44388.16,
+      "costo_adicional": 14389.16,
+      "id": "698",
+      "fecha": "2026-11-03",
+      "clave": "698-52-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 25,
+      "enganche": 7500,
+      "pagos": 52,
+      "semana": 676.83,
+      "mes": 2932.93,
+      "total": 42695.16,
+      "costo_adicional": 12696.16,
+      "id": "698",
+      "fecha": "2026-11-03",
+      "clave": "698-52-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 30,
+      "enganche": 9000,
+      "pagos": 52,
+      "semana": 631.71,
+      "mes": 2737.41,
+      "total": 41848.92,
+      "costo_adicional": 11849.92,
+      "id": "698",
+      "fecha": "2026-11-03",
+      "clave": "698-52-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 15.0,
+      "enganche": 4500,
+      "pagos": 78,
+      "semana": 652.97,
+      "mes": 2829.54,
+      "total": 55431.66,
+      "costo_adicional": 25432.66,
+      "id": "698",
+      "fecha": "2026-11-03",
+      "clave": "698-78-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 25,
+      "enganche": 7500,
+      "pagos": 78,
+      "semana": 576.14,
+      "mes": 2496.61,
+      "total": 52438.92,
+      "costo_adicional": 22439.92,
+      "id": "698",
+      "fecha": "2026-11-03",
+      "clave": "698-78-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 30,
+      "enganche": 9000,
+      "pagos": 78,
+      "semana": 537.73,
+      "mes": 2330.16,
+      "total": 50942.94,
+      "costo_adicional": 20943.94,
+      "id": "698",
+      "fecha": "2026-11-03",
+      "clave": "698-78-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 21.5,
+      "enganche": 6450,
+      "pagos": 104,
+      "semana": 578.69,
+      "mes": 2507.66,
+      "total": 66633.76,
+      "costo_adicional": 36634.76,
+      "id": "698",
+      "fecha": "2026-11-03",
+      "clave": "698-104-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 26.5,
+      "enganche": 7950,
+      "pagos": 104,
+      "semana": 541.83,
+      "mes": 2347.93,
+      "total": 64300.32,
+      "costo_adicional": 34301.32,
+      "id": "698",
+      "fecha": "2026-11-03",
+      "clave": "698-104-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 31.5,
+      "enganche": 9450,
+      "pagos": 104,
+      "semana": 504.97,
+      "mes": 2188.2,
+      "total": 61966.88,
+      "costo_adicional": 31967.88,
+      "id": "698",
+      "fecha": "2026-11-03",
+      "clave": "698-104-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 15.0,
+      "enganche": 3720,
+      "pagos": 26,
+      "semana": 1050.73,
+      "mes": 4553.16,
+      "total": 31038.98,
+      "costo_adicional": 6239.78,
+      "id": "511",
+      "fecha": "2026-11-03",
+      "clave": "511-26-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 25,
+      "enganche": 6200,
+      "pagos": 26,
+      "semana": 927.11,
+      "mes": 4017.48,
+      "total": 30304.86,
+      "costo_adicional": 5505.66,
+      "id": "511",
+      "fecha": "2026-11-03",
+      "clave": "511-26-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 30,
+      "enganche": 7440,
+      "pagos": 26,
+      "semana": 865.3,
+      "mes": 3749.63,
+      "total": 29937.8,
+      "costo_adicional": 5138.6,
+      "id": "511",
+      "fecha": "2026-11-03",
+      "clave": "511-26-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 15.0,
+      "enganche": 3720,
+      "pagos": 52,
+      "semana": 634.12,
+      "mes": 2747.85,
+      "total": 36694.24,
+      "costo_adicional": 11895.04,
+      "id": "511",
+      "fecha": "2026-11-03",
+      "clave": "511-52-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 25,
+      "enganche": 6200,
+      "pagos": 52,
+      "semana": 559.51,
+      "mes": 2424.54,
+      "total": 35294.52,
+      "costo_adicional": 10495.32,
+      "id": "511",
+      "fecha": "2026-11-03",
+      "clave": "511-52-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 30,
+      "enganche": 7440,
+      "pagos": 52,
+      "semana": 522.21,
+      "mes": 2262.91,
+      "total": 34594.92,
+      "costo_adicional": 9795.72,
+      "id": "511",
+      "fecha": "2026-11-03",
+      "clave": "511-52-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 15.0,
+      "enganche": 3720,
+      "pagos": 78,
+      "semana": 539.79,
+      "mes": 2339.09,
+      "total": 45823.62,
+      "costo_adicional": 21024.42,
+      "id": "511",
+      "fecha": "2026-11-03",
+      "clave": "511-78-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 25,
+      "enganche": 6200,
+      "pagos": 78,
+      "semana": 476.28,
+      "mes": 2063.88,
+      "total": 43349.84,
+      "costo_adicional": 18550.64,
+      "id": "511",
+      "fecha": "2026-11-03",
+      "clave": "511-78-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 30,
+      "enganche": 7440,
+      "pagos": 78,
+      "semana": 444.53,
+      "mes": 1926.3,
+      "total": 42113.34,
+      "costo_adicional": 17314.14,
+      "id": "511",
+      "fecha": "2026-11-03",
+      "clave": "511-78-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 21.5,
+      "enganche": 5332,
+      "pagos": 104,
+      "semana": 478.38,
+      "mes": 2072.98,
+      "total": 55083.52,
+      "costo_adicional": 30284.32,
+      "id": "511",
+      "fecha": "2026-11-03",
+      "clave": "511-104-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 26.5,
+      "enganche": 6572,
+      "pagos": 104,
+      "semana": 447.91,
+      "mes": 1940.94,
+      "total": 53154.64,
+      "costo_adicional": 28355.44,
+      "id": "511",
+      "fecha": "2026-11-03",
+      "clave": "511-104-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 31.5,
+      "enganche": 7812,
+      "pagos": 104,
+      "semana": 417.44,
+      "mes": 1808.91,
+      "total": 51225.76,
+      "costo_adicional": 26426.56,
+      "id": "511",
+      "fecha": "2026-11-03",
+      "clave": "511-104-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 15.0,
+      "enganche": 4650,
+      "pagos": 26,
+      "semana": 1313.41,
+      "mes": 5691.44,
+      "total": 38798.66,
+      "costo_adicional": 7799.66,
+      "id": "565",
+      "fecha": "2026-11-03",
+      "clave": "565-26-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 25,
+      "enganche": 7750,
+      "pagos": 26,
+      "semana": 1158.89,
+      "mes": 5021.86,
+      "total": 37881.14,
+      "costo_adicional": 6882.14,
+      "id": "565",
+      "fecha": "2026-11-03",
+      "clave": "565-26-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 30,
+      "enganche": 9300,
+      "pagos": 26,
+      "semana": 1081.62,
+      "mes": 4687.02,
+      "total": 37422.12,
+      "costo_adicional": 6423.12,
+      "id": "565",
+      "fecha": "2026-11-03",
+      "clave": "565-26-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 15.0,
+      "enganche": 4650,
+      "pagos": 52,
+      "semana": 792.65,
+      "mes": 3434.82,
+      "total": 45867.8,
+      "costo_adicional": 14868.8,
+      "id": "565",
+      "fecha": "2026-11-03",
+      "clave": "565-52-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 25,
+      "enganche": 7750,
+      "pagos": 52,
+      "semana": 699.39,
+      "mes": 3030.69,
+      "total": 44118.28,
+      "costo_adicional": 13119.28,
+      "id": "565",
+      "fecha": "2026-11-03",
+      "clave": "565-52-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 30,
+      "enganche": 9300,
+      "pagos": 52,
+      "semana": 652.76,
+      "mes": 2828.63,
+      "total": 43243.52,
+      "costo_adicional": 12244.52,
+      "id": "565",
+      "fecha": "2026-11-03",
+      "clave": "565-52-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 15.0,
+      "enganche": 4650,
+      "pagos": 78,
+      "semana": 674.73,
+      "mes": 2923.83,
+      "total": 57278.94,
+      "costo_adicional": 26279.94,
+      "id": "565",
+      "fecha": "2026-11-03",
+      "clave": "565-78-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 25,
+      "enganche": 7750,
+      "pagos": 78,
+      "semana": 595.35,
+      "mes": 2579.85,
+      "total": 54187.3,
+      "costo_adicional": 23188.3,
+      "id": "565",
+      "fecha": "2026-11-03",
+      "clave": "565-78-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 30,
+      "enganche": 9300,
+      "pagos": 78,
+      "semana": 555.66,
+      "mes": 2407.86,
+      "total": 52641.48,
+      "costo_adicional": 21642.48,
+      "id": "565",
+      "fecha": "2026-11-03",
+      "clave": "565-78-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 21.5,
+      "enganche": 6665,
+      "pagos": 104,
+      "semana": 597.98,
+      "mes": 2591.25,
+      "total": 68854.92,
+      "costo_adicional": 37855.92,
+      "id": "565",
+      "fecha": "2026-11-03",
+      "clave": "565-104-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 26.5,
+      "enganche": 8215,
+      "pagos": 104,
+      "semana": 559.89,
+      "mes": 2426.19,
+      "total": 66443.56,
+      "costo_adicional": 35444.56,
+      "id": "565",
+      "fecha": "2026-11-03",
+      "clave": "565-104-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 31.5,
+      "enganche": 9765,
+      "pagos": 104,
+      "semana": 521.8,
+      "mes": 2261.13,
+      "total": 64032.2,
+      "costo_adicional": 33033.2,
+      "id": "565",
+      "fecha": "2026-11-03",
+      "clave": "565-104-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 15.0,
+      "enganche": 4800,
+      "pagos": 26,
+      "semana": 1355.78,
+      "mes": 5875.05,
+      "total": 40050.28,
+      "costo_adicional": 8051.28,
+      "id": "702",
+      "fecha": "2026-11-03",
+      "clave": "702-26-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 25,
+      "enganche": 8000,
+      "pagos": 26,
+      "semana": 1196.27,
+      "mes": 5183.84,
+      "total": 39103.02,
+      "costo_adicional": 7104.02,
+      "id": "702",
+      "fecha": "2026-11-03",
+      "clave": "702-26-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 30,
+      "enganche": 9600,
+      "pagos": 26,
+      "semana": 1116.52,
+      "mes": 4838.25,
+      "total": 38629.52,
+      "costo_adicional": 6630.52,
+      "id": "702",
+      "fecha": "2026-11-03",
+      "clave": "702-26-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 15.0,
+      "enganche": 4800,
+      "pagos": 52,
+      "semana": 818.22,
+      "mes": 3545.62,
+      "total": 47347.44,
+      "costo_adicional": 15348.44,
+      "id": "702",
+      "fecha": "2026-11-03",
+      "clave": "702-52-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 25,
+      "enganche": 8000,
+      "pagos": 52,
+      "semana": 721.95,
+      "mes": 3128.45,
+      "total": 45541.4,
+      "costo_adicional": 13542.4,
+      "id": "702",
+      "fecha": "2026-11-03",
+      "clave": "702-52-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 30,
+      "enganche": 9600,
+      "pagos": 52,
+      "semana": 673.82,
+      "mes": 2919.89,
+      "total": 44638.64,
+      "costo_adicional": 12639.64,
+      "id": "702",
+      "fecha": "2026-11-03",
+      "clave": "702-52-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 15.0,
+      "enganche": 4800,
+      "pagos": 78,
+      "semana": 696.5,
+      "mes": 3018.17,
+      "total": 59127.0,
+      "costo_adicional": 27128.0,
+      "id": "702",
+      "fecha": "2026-11-03",
+      "clave": "702-78-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 25,
+      "enganche": 8000,
+      "pagos": 78,
+      "semana": 614.56,
+      "mes": 2663.09,
+      "total": 55935.68,
+      "costo_adicional": 23936.68,
+      "id": "702",
+      "fecha": "2026-11-03",
+      "clave": "702-78-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 30,
+      "enganche": 9600,
+      "pagos": 78,
+      "semana": 573.58,
+      "mes": 2485.51,
+      "total": 54339.24,
+      "costo_adicional": 22340.24,
+      "id": "702",
+      "fecha": "2026-11-03",
+      "clave": "702-78-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 21.5,
+      "enganche": 6880,
+      "pagos": 104,
+      "semana": 617.27,
+      "mes": 2674.84,
+      "total": 71076.08,
+      "costo_adicional": 39077.08,
+      "id": "702",
+      "fecha": "2026-11-03",
+      "clave": "702-104-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 26.5,
+      "enganche": 8480,
+      "pagos": 104,
+      "semana": 577.95,
+      "mes": 2504.45,
+      "total": 68586.8,
+      "costo_adicional": 36587.8,
+      "id": "702",
+      "fecha": "2026-11-03",
+      "clave": "702-104-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 31.5,
+      "enganche": 10080,
+      "pagos": 104,
+      "semana": 538.63,
+      "mes": 2334.06,
+      "total": 66097.52,
+      "costo_adicional": 34098.52,
+      "id": "702",
+      "fecha": "2026-11-03",
+      "clave": "702-104-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 15.0,
+      "enganche": 4800,
+      "pagos": 26,
+      "semana": 1355.78,
+      "mes": 5875.05,
+      "total": 40050.28,
+      "costo_adicional": 8051.28,
+      "id": "575",
+      "fecha": "2026-11-03",
+      "clave": "575-26-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 25,
+      "enganche": 8000,
+      "pagos": 26,
+      "semana": 1196.27,
+      "mes": 5183.84,
+      "total": 39103.02,
+      "costo_adicional": 7104.02,
+      "id": "575",
+      "fecha": "2026-11-03",
+      "clave": "575-26-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 30,
+      "enganche": 9600,
+      "pagos": 26,
+      "semana": 1116.52,
+      "mes": 4838.25,
+      "total": 38629.52,
+      "costo_adicional": 6630.52,
+      "id": "575",
+      "fecha": "2026-11-03",
+      "clave": "575-26-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 15.0,
+      "enganche": 4800,
+      "pagos": 52,
+      "semana": 818.22,
+      "mes": 3545.62,
+      "total": 47347.44,
+      "costo_adicional": 15348.44,
+      "id": "575",
+      "fecha": "2026-11-03",
+      "clave": "575-52-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 25,
+      "enganche": 8000,
+      "pagos": 52,
+      "semana": 721.95,
+      "mes": 3128.45,
+      "total": 45541.4,
+      "costo_adicional": 13542.4,
+      "id": "575",
+      "fecha": "2026-11-03",
+      "clave": "575-52-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 30,
+      "enganche": 9600,
+      "pagos": 52,
+      "semana": 673.82,
+      "mes": 2919.89,
+      "total": 44638.64,
+      "costo_adicional": 12639.64,
+      "id": "575",
+      "fecha": "2026-11-03",
+      "clave": "575-52-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 15.0,
+      "enganche": 4800,
+      "pagos": 78,
+      "semana": 696.5,
+      "mes": 3018.17,
+      "total": 59127.0,
+      "costo_adicional": 27128.0,
+      "id": "575",
+      "fecha": "2026-11-03",
+      "clave": "575-78-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 25,
+      "enganche": 8000,
+      "pagos": 78,
+      "semana": 614.56,
+      "mes": 2663.09,
+      "total": 55935.68,
+      "costo_adicional": 23936.68,
+      "id": "575",
+      "fecha": "2026-11-03",
+      "clave": "575-78-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 30,
+      "enganche": 9600,
+      "pagos": 78,
+      "semana": 573.58,
+      "mes": 2485.51,
+      "total": 54339.24,
+      "costo_adicional": 22340.24,
+      "id": "575",
+      "fecha": "2026-11-03",
+      "clave": "575-78-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 21.5,
+      "enganche": 6880,
+      "pagos": 104,
+      "semana": 617.27,
+      "mes": 2674.84,
+      "total": 71076.08,
+      "costo_adicional": 39077.08,
+      "id": "575",
+      "fecha": "2026-11-03",
+      "clave": "575-104-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 26.5,
+      "enganche": 8480,
+      "pagos": 104,
+      "semana": 577.95,
+      "mes": 2504.45,
+      "total": 68586.8,
+      "costo_adicional": 36587.8,
+      "id": "575",
+      "fecha": "2026-11-03",
+      "clave": "575-104-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 31.5,
+      "enganche": 10080,
+      "pagos": 104,
+      "semana": 538.63,
+      "mes": 2334.06,
+      "total": 66097.52,
+      "costo_adicional": 34098.52,
+      "id": "575",
+      "fecha": "2026-11-03",
+      "clave": "575-104-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 15.0,
+      "enganche": 4800,
+      "pagos": 26,
+      "semana": 1355.78,
+      "mes": 5875.05,
+      "total": 40050.28,
+      "costo_adicional": 8051.28,
+      "id": "658",
+      "fecha": "2026-11-03",
+      "clave": "658-26-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 25,
+      "enganche": 8000,
+      "pagos": 26,
+      "semana": 1196.27,
+      "mes": 5183.84,
+      "total": 39103.02,
+      "costo_adicional": 7104.02,
+      "id": "658",
+      "fecha": "2026-11-03",
+      "clave": "658-26-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 30,
+      "enganche": 9600,
+      "pagos": 26,
+      "semana": 1116.52,
+      "mes": 4838.25,
+      "total": 38629.52,
+      "costo_adicional": 6630.52,
+      "id": "658",
+      "fecha": "2026-11-03",
+      "clave": "658-26-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 15.0,
+      "enganche": 4800,
+      "pagos": 52,
+      "semana": 818.22,
+      "mes": 3545.62,
+      "total": 47347.44,
+      "costo_adicional": 15348.44,
+      "id": "658",
+      "fecha": "2026-11-03",
+      "clave": "658-52-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 25,
+      "enganche": 8000,
+      "pagos": 52,
+      "semana": 721.95,
+      "mes": 3128.45,
+      "total": 45541.4,
+      "costo_adicional": 13542.4,
+      "id": "658",
+      "fecha": "2026-11-03",
+      "clave": "658-52-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 30,
+      "enganche": 9600,
+      "pagos": 52,
+      "semana": 673.82,
+      "mes": 2919.89,
+      "total": 44638.64,
+      "costo_adicional": 12639.64,
+      "id": "658",
+      "fecha": "2026-11-03",
+      "clave": "658-52-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 15.0,
+      "enganche": 4800,
+      "pagos": 78,
+      "semana": 696.5,
+      "mes": 3018.17,
+      "total": 59127.0,
+      "costo_adicional": 27128.0,
+      "id": "658",
+      "fecha": "2026-11-03",
+      "clave": "658-78-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 25,
+      "enganche": 8000,
+      "pagos": 78,
+      "semana": 614.56,
+      "mes": 2663.09,
+      "total": 55935.68,
+      "costo_adicional": 23936.68,
+      "id": "658",
+      "fecha": "2026-11-03",
+      "clave": "658-78-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 30,
+      "enganche": 9600,
+      "pagos": 78,
+      "semana": 573.58,
+      "mes": 2485.51,
+      "total": 54339.24,
+      "costo_adicional": 22340.24,
+      "id": "658",
+      "fecha": "2026-11-03",
+      "clave": "658-78-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 21.5,
+      "enganche": 6880,
+      "pagos": 104,
+      "semana": 617.27,
+      "mes": 2674.84,
+      "total": 71076.08,
+      "costo_adicional": 39077.08,
+      "id": "658",
+      "fecha": "2026-11-03",
+      "clave": "658-104-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 26.5,
+      "enganche": 8480,
+      "pagos": 104,
+      "semana": 577.95,
+      "mes": 2504.45,
+      "total": 68586.8,
+      "costo_adicional": 36587.8,
+      "id": "658",
+      "fecha": "2026-11-03",
+      "clave": "658-104-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 31.5,
+      "enganche": 10080,
+      "pagos": 104,
+      "semana": 538.63,
+      "mes": 2334.06,
+      "total": 66097.52,
+      "costo_adicional": 34098.52,
+      "id": "658",
+      "fecha": "2026-11-03",
+      "clave": "658-104-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 15.0,
+      "enganche": 4950,
+      "pagos": 26,
+      "semana": 1398.15,
+      "mes": 6058.65,
+      "total": 41301.9,
+      "costo_adicional": 8302.9,
+      "id": "703",
+      "fecha": "2026-11-03",
+      "clave": "703-26-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 25,
+      "enganche": 8250,
+      "pagos": 26,
+      "semana": 1233.66,
+      "mes": 5345.86,
+      "total": 40325.16,
+      "costo_adicional": 7326.16,
+      "id": "703",
+      "fecha": "2026-11-03",
+      "clave": "703-26-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 30,
+      "enganche": 9900,
+      "pagos": 26,
+      "semana": 1151.41,
+      "mes": 4989.44,
+      "total": 39836.66,
+      "costo_adicional": 6837.66,
+      "id": "703",
+      "fecha": "2026-11-03",
+      "clave": "703-26-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 15.0,
+      "enganche": 4950,
+      "pagos": 52,
+      "semana": 843.79,
+      "mes": 3656.42,
+      "total": 48827.08,
+      "costo_adicional": 15828.08,
+      "id": "703",
+      "fecha": "2026-11-03",
+      "clave": "703-52-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 25,
+      "enganche": 8250,
+      "pagos": 52,
+      "semana": 744.52,
+      "mes": 3226.25,
+      "total": 46965.04,
+      "costo_adicional": 13966.04,
+      "id": "703",
+      "fecha": "2026-11-03",
+      "clave": "703-52-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 30,
+      "enganche": 9900,
+      "pagos": 52,
+      "semana": 694.88,
+      "mes": 3011.15,
+      "total": 46033.76,
+      "costo_adicional": 13034.76,
+      "id": "703",
+      "fecha": "2026-11-03",
+      "clave": "703-52-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 15.0,
+      "enganche": 4950,
+      "pagos": 78,
+      "semana": 718.27,
+      "mes": 3112.5,
+      "total": 60975.06,
+      "costo_adicional": 27976.06,
+      "id": "703",
+      "fecha": "2026-11-03",
+      "clave": "703-78-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 25,
+      "enganche": 8250,
+      "pagos": 78,
+      "semana": 633.76,
+      "mes": 2746.29,
+      "total": 57683.28,
+      "costo_adicional": 24684.28,
+      "id": "703",
+      "fecha": "2026-11-03",
+      "clave": "703-78-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 30,
+      "enganche": 9900,
+      "pagos": 78,
+      "semana": 591.51,
+      "mes": 2563.21,
+      "total": 56037.78,
+      "costo_adicional": 23038.78,
+      "id": "703",
+      "fecha": "2026-11-03",
+      "clave": "703-78-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 21.5,
+      "enganche": 7095,
+      "pagos": 104,
+      "semana": 636.56,
+      "mes": 2758.43,
+      "total": 73297.24,
+      "costo_adicional": 40298.24,
+      "id": "703",
+      "fecha": "2026-11-03",
+      "clave": "703-104-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 26.5,
+      "enganche": 8745,
+      "pagos": 104,
+      "semana": 596.01,
+      "mes": 2582.71,
+      "total": 70730.04,
+      "costo_adicional": 37731.04,
+      "id": "703",
+      "fecha": "2026-11-03",
+      "clave": "703-104-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 31.5,
+      "enganche": 10395,
+      "pagos": 104,
+      "semana": 555.47,
+      "mes": 2407.04,
+      "total": 68163.88,
+      "costo_adicional": 35164.88,
+      "id": "703",
+      "fecha": "2026-11-03",
+      "clave": "703-104-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 15.0,
+      "enganche": 4680,
+      "pagos": 26,
+      "semana": 1321.88,
+      "mes": 5728.15,
+      "total": 39048.88,
+      "costo_adicional": 7849.88,
+      "id": "512",
+      "fecha": "2026-11-03",
+      "clave": "512-26-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 25,
+      "enganche": 7800,
+      "pagos": 26,
+      "semana": 1166.36,
+      "mes": 5054.23,
+      "total": 38125.36,
+      "costo_adicional": 6926.36,
+      "id": "512",
+      "fecha": "2026-11-03",
+      "clave": "512-26-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 30,
+      "enganche": 9360,
+      "pagos": 26,
+      "semana": 1088.6,
+      "mes": 4717.27,
+      "total": 37663.6,
+      "costo_adicional": 6464.6,
+      "id": "512",
+      "fecha": "2026-11-03",
+      "clave": "512-26-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 15.0,
+      "enganche": 4680,
+      "pagos": 52,
+      "semana": 797.76,
+      "mes": 3456.96,
+      "total": 46163.52,
+      "costo_adicional": 14964.52,
+      "id": "512",
+      "fecha": "2026-11-03",
+      "clave": "512-52-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 25,
+      "enganche": 7800,
+      "pagos": 52,
+      "semana": 703.9,
+      "mes": 3050.23,
+      "total": 44402.8,
+      "costo_adicional": 13203.8,
+      "id": "512",
+      "fecha": "2026-11-03",
+      "clave": "512-52-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 30,
+      "enganche": 9360,
+      "pagos": 52,
+      "semana": 656.98,
+      "mes": 2846.91,
+      "total": 43522.96,
+      "costo_adicional": 12323.96,
+      "id": "512",
+      "fecha": "2026-11-03",
+      "clave": "512-52-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 15.0,
+      "enganche": 4680,
+      "pagos": 78,
+      "semana": 679.09,
+      "mes": 2942.72,
+      "total": 57649.02,
+      "costo_adicional": 26450.02,
+      "id": "512",
+      "fecha": "2026-11-03",
+      "clave": "512-78-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 25,
+      "enganche": 7800,
+      "pagos": 78,
+      "semana": 599.19,
+      "mes": 2596.49,
+      "total": 54536.82,
+      "costo_adicional": 23337.82,
+      "id": "512",
+      "fecha": "2026-11-03",
+      "clave": "512-78-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 30,
+      "enganche": 9360,
+      "pagos": 78,
+      "semana": 559.24,
+      "mes": 2423.37,
+      "total": 52980.72,
+      "costo_adicional": 21781.72,
+      "id": "512",
+      "fecha": "2026-11-03",
+      "clave": "512-78-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 21.5,
+      "enganche": 6708,
+      "pagos": 104,
+      "semana": 601.84,
+      "mes": 2607.97,
+      "total": 69299.36,
+      "costo_adicional": 38100.36,
+      "id": "512",
+      "fecha": "2026-11-03",
+      "clave": "512-104-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 26.5,
+      "enganche": 8268,
+      "pagos": 104,
+      "semana": 563.5,
+      "mes": 2441.83,
+      "total": 66872.0,
+      "costo_adicional": 35673.0,
+      "id": "512",
+      "fecha": "2026-11-03",
+      "clave": "512-104-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 31.5,
+      "enganche": 9828,
+      "pagos": 104,
+      "semana": 525.17,
+      "mes": 2275.74,
+      "total": 64445.68,
+      "costo_adicional": 33246.68,
+      "id": "512",
+      "fecha": "2026-11-03",
+      "clave": "512-104-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 15.0,
+      "enganche": 5400,
+      "pagos": 26,
+      "semana": 1525.26,
+      "mes": 6609.46,
+      "total": 45056.76,
+      "costo_adicional": 9057.76,
+      "id": "624",
+      "fecha": "2026-11-03",
+      "clave": "624-26-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 25,
+      "enganche": 9000,
+      "pagos": 26,
+      "semana": 1345.81,
+      "mes": 5831.84,
+      "total": 43991.06,
+      "costo_adicional": 7992.06,
+      "id": "624",
+      "fecha": "2026-11-03",
+      "clave": "624-26-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 30,
+      "enganche": 10800,
+      "pagos": 26,
+      "semana": 1256.09,
+      "mes": 5443.06,
+      "total": 43458.34,
+      "costo_adicional": 7459.34,
+      "id": "624",
+      "fecha": "2026-11-03",
+      "clave": "624-26-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 15.0,
+      "enganche": 5400,
+      "pagos": 52,
+      "semana": 920.5,
+      "mes": 3988.83,
+      "total": 53266.0,
+      "costo_adicional": 17267.0,
+      "id": "624",
+      "fecha": "2026-11-03",
+      "clave": "624-52-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 25,
+      "enganche": 9000,
+      "pagos": 52,
+      "semana": 812.2,
+      "mes": 3519.53,
+      "total": 51234.4,
+      "costo_adicional": 15235.4,
+      "id": "624",
+      "fecha": "2026-11-03",
+      "clave": "624-52-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 30,
+      "enganche": 10800,
+      "pagos": 52,
+      "semana": 758.05,
+      "mes": 3284.88,
+      "total": 50218.6,
+      "costo_adicional": 14219.6,
+      "id": "624",
+      "fecha": "2026-11-03",
+      "clave": "624-52-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 15.0,
+      "enganche": 5400,
+      "pagos": 78,
+      "semana": 783.57,
+      "mes": 3395.47,
+      "total": 66518.46,
+      "costo_adicional": 30519.46,
+      "id": "624",
+      "fecha": "2026-11-03",
+      "clave": "624-78-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 25,
+      "enganche": 9000,
+      "pagos": 78,
+      "semana": 691.38,
+      "mes": 2995.98,
+      "total": 62927.64,
+      "costo_adicional": 26928.64,
+      "id": "624",
+      "fecha": "2026-11-03",
+      "clave": "624-78-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 30,
+      "enganche": 10800,
+      "pagos": 78,
+      "semana": 645.28,
+      "mes": 2796.21,
+      "total": 61131.84,
+      "costo_adicional": 25132.84,
+      "id": "624",
+      "fecha": "2026-11-03",
+      "clave": "624-78-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 21.5,
+      "enganche": 7740,
+      "pagos": 104,
+      "semana": 694.43,
+      "mes": 3009.2,
+      "total": 79960.72,
+      "costo_adicional": 43961.72,
+      "id": "624",
+      "fecha": "2026-11-03",
+      "clave": "624-104-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 26.5,
+      "enganche": 9540,
+      "pagos": 104,
+      "semana": 650.2,
+      "mes": 2817.53,
+      "total": 77160.8,
+      "costo_adicional": 41161.8,
+      "id": "624",
+      "fecha": "2026-11-03",
+      "clave": "624-104-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 31.5,
+      "enganche": 11340,
+      "pagos": 104,
+      "semana": 605.97,
+      "mes": 2625.87,
+      "total": 74360.88,
+      "costo_adicional": 38361.88,
+      "id": "624",
+      "fecha": "2026-11-03",
+      "clave": "624-104-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 15.0,
+      "enganche": 5550,
+      "pagos": 26,
+      "semana": 1567.63,
+      "mes": 6793.06,
+      "total": 46308.38,
+      "costo_adicional": 9309.38,
+      "id": "704",
+      "fecha": "2026-11-03",
+      "clave": "704-26-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 25,
+      "enganche": 9250,
+      "pagos": 26,
+      "semana": 1383.2,
+      "mes": 5993.87,
+      "total": 45213.2,
+      "costo_adicional": 8214.2,
+      "id": "704",
+      "fecha": "2026-11-03",
+      "clave": "704-26-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 30,
+      "enganche": 11100,
+      "pagos": 26,
+      "semana": 1290.98,
+      "mes": 5594.25,
+      "total": 44665.48,
+      "costo_adicional": 7666.48,
+      "id": "704",
+      "fecha": "2026-11-03",
+      "clave": "704-26-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 15.0,
+      "enganche": 5550,
+      "pagos": 52,
+      "semana": 946.07,
+      "mes": 4099.64,
+      "total": 54745.64,
+      "costo_adicional": 17746.64,
+      "id": "704",
+      "fecha": "2026-11-03",
+      "clave": "704-52-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 25,
+      "enganche": 9250,
+      "pagos": 52,
+      "semana": 834.76,
+      "mes": 3617.29,
+      "total": 52657.52,
+      "costo_adicional": 15658.52,
+      "id": "704",
+      "fecha": "2026-11-03",
+      "clave": "704-52-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 30,
+      "enganche": 11100,
+      "pagos": 52,
+      "semana": 779.11,
+      "mes": 3376.14,
+      "total": 51613.72,
+      "costo_adicional": 14614.72,
+      "id": "704",
+      "fecha": "2026-11-03",
+      "clave": "704-52-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 15.0,
+      "enganche": 5550,
+      "pagos": 78,
+      "semana": 805.33,
+      "mes": 3489.76,
+      "total": 68365.74,
+      "costo_adicional": 31366.74,
+      "id": "704",
+      "fecha": "2026-11-03",
+      "clave": "704-78-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 25,
+      "enganche": 9250,
+      "pagos": 78,
+      "semana": 710.58,
+      "mes": 3079.18,
+      "total": 64675.24,
+      "costo_adicional": 27676.24,
+      "id": "704",
+      "fecha": "2026-11-03",
+      "clave": "704-78-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 30,
+      "enganche": 11100,
+      "pagos": 78,
+      "semana": 663.21,
+      "mes": 2873.91,
+      "total": 62830.38,
+      "costo_adicional": 25831.38,
+      "id": "704",
+      "fecha": "2026-11-03",
+      "clave": "704-78-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 21.5,
+      "enganche": 7955,
+      "pagos": 104,
+      "semana": 713.72,
+      "mes": 3092.79,
+      "total": 82181.88,
+      "costo_adicional": 45182.88,
+      "id": "704",
+      "fecha": "2026-11-03",
+      "clave": "704-104-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 26.5,
+      "enganche": 9805,
+      "pagos": 104,
+      "semana": 668.26,
+      "mes": 2895.79,
+      "total": 79304.04,
+      "costo_adicional": 42305.04,
+      "id": "704",
+      "fecha": "2026-11-03",
+      "clave": "704-104-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 31.5,
+      "enganche": 11655,
+      "pagos": 104,
+      "semana": 622.8,
+      "mes": 2698.8,
+      "total": 76426.2,
+      "costo_adicional": 39427.2,
+      "id": "704",
+      "fecha": "2026-11-03",
+      "clave": "704-104-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 15.0,
+      "enganche": 4680,
+      "pagos": 26,
+      "semana": 1321.88,
+      "mes": 5728.15,
+      "total": 39048.88,
+      "costo_adicional": 7849.88,
+      "id": "513",
+      "fecha": "2026-11-03",
+      "clave": "513-26-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 25,
+      "enganche": 7800,
+      "pagos": 26,
+      "semana": 1166.36,
+      "mes": 5054.23,
+      "total": 38125.36,
+      "costo_adicional": 6926.36,
+      "id": "513",
+      "fecha": "2026-11-03",
+      "clave": "513-26-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 30,
+      "enganche": 9360,
+      "pagos": 26,
+      "semana": 1088.6,
+      "mes": 4717.27,
+      "total": 37663.6,
+      "costo_adicional": 6464.6,
+      "id": "513",
+      "fecha": "2026-11-03",
+      "clave": "513-26-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 15.0,
+      "enganche": 4680,
+      "pagos": 52,
+      "semana": 797.76,
+      "mes": 3456.96,
+      "total": 46163.52,
+      "costo_adicional": 14964.52,
+      "id": "513",
+      "fecha": "2026-11-03",
+      "clave": "513-52-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 25,
+      "enganche": 7800,
+      "pagos": 52,
+      "semana": 703.9,
+      "mes": 3050.23,
+      "total": 44402.8,
+      "costo_adicional": 13203.8,
+      "id": "513",
+      "fecha": "2026-11-03",
+      "clave": "513-52-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 30,
+      "enganche": 9360,
+      "pagos": 52,
+      "semana": 656.98,
+      "mes": 2846.91,
+      "total": 43522.96,
+      "costo_adicional": 12323.96,
+      "id": "513",
+      "fecha": "2026-11-03",
+      "clave": "513-52-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 15.0,
+      "enganche": 4680,
+      "pagos": 78,
+      "semana": 679.09,
+      "mes": 2942.72,
+      "total": 57649.02,
+      "costo_adicional": 26450.02,
+      "id": "513",
+      "fecha": "2026-11-03",
+      "clave": "513-78-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 25,
+      "enganche": 7800,
+      "pagos": 78,
+      "semana": 599.19,
+      "mes": 2596.49,
+      "total": 54536.82,
+      "costo_adicional": 23337.82,
+      "id": "513",
+      "fecha": "2026-11-03",
+      "clave": "513-78-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 30,
+      "enganche": 9360,
+      "pagos": 78,
+      "semana": 559.24,
+      "mes": 2423.37,
+      "total": 52980.72,
+      "costo_adicional": 21781.72,
+      "id": "513",
+      "fecha": "2026-11-03",
+      "clave": "513-78-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 21.5,
+      "enganche": 6708,
+      "pagos": 104,
+      "semana": 601.84,
+      "mes": 2607.97,
+      "total": 69299.36,
+      "costo_adicional": 38100.36,
+      "id": "513",
+      "fecha": "2026-11-03",
+      "clave": "513-104-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 26.5,
+      "enganche": 8268,
+      "pagos": 104,
+      "semana": 563.5,
+      "mes": 2441.83,
+      "total": 66872.0,
+      "costo_adicional": 35673.0,
+      "id": "513",
+      "fecha": "2026-11-03",
+      "clave": "513-104-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 31.5,
+      "enganche": 9828,
+      "pagos": 104,
+      "semana": 525.17,
+      "mes": 2275.74,
+      "total": 64445.68,
+      "costo_adicional": 33246.68,
+      "id": "513",
+      "fecha": "2026-11-03",
+      "clave": "513-104-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 15.0,
+      "enganche": 5850,
+      "pagos": 26,
+      "semana": 1652.37,
+      "mes": 7160.27,
+      "total": 48811.62,
+      "costo_adicional": 9812.62,
+      "id": "625",
+      "fecha": "2026-11-03",
+      "clave": "625-26-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 25,
+      "enganche": 9750,
+      "pagos": 26,
+      "semana": 1457.97,
+      "mes": 6317.87,
+      "total": 47657.22,
+      "costo_adicional": 8658.22,
+      "id": "625",
+      "fecha": "2026-11-03",
+      "clave": "625-26-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 30,
+      "enganche": 11700,
+      "pagos": 26,
+      "semana": 1360.76,
+      "mes": 5896.63,
+      "total": 47079.76,
+      "costo_adicional": 8080.76,
+      "id": "625",
+      "fecha": "2026-11-03",
+      "clave": "625-26-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 15.0,
+      "enganche": 5850,
+      "pagos": 52,
+      "semana": 997.21,
+      "mes": 4321.24,
+      "total": 57704.92,
+      "costo_adicional": 18705.92,
+      "id": "625",
+      "fecha": "2026-11-03",
+      "clave": "625-52-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 25,
+      "enganche": 9750,
+      "pagos": 52,
+      "semana": 879.89,
+      "mes": 3812.86,
+      "total": 55504.28,
+      "costo_adicional": 16505.28,
+      "id": "625",
+      "fecha": "2026-11-03",
+      "clave": "625-52-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 30,
+      "enganche": 11700,
+      "pagos": 52,
+      "semana": 821.23,
+      "mes": 3558.66,
+      "total": 54403.96,
+      "costo_adicional": 15404.96,
+      "id": "625",
+      "fecha": "2026-11-03",
+      "clave": "625-52-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 15.0,
+      "enganche": 5850,
+      "pagos": 78,
+      "semana": 848.86,
+      "mes": 3678.39,
+      "total": 72061.08,
+      "costo_adicional": 33062.08,
+      "id": "625",
+      "fecha": "2026-11-03",
+      "clave": "625-78-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 25,
+      "enganche": 9750,
+      "pagos": 78,
+      "semana": 749.0,
+      "mes": 3245.67,
+      "total": 68172.0,
+      "costo_adicional": 29173.0,
+      "id": "625",
+      "fecha": "2026-11-03",
+      "clave": "625-78-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 30,
+      "enganche": 11700,
+      "pagos": 78,
+      "semana": 699.06,
+      "mes": 3029.26,
+      "total": 66226.68,
+      "costo_adicional": 27227.68,
+      "id": "625",
+      "fecha": "2026-11-03",
+      "clave": "625-78-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 21.5,
+      "enganche": 8385,
+      "pagos": 104,
+      "semana": 752.3,
+      "mes": 3259.97,
+      "total": 86624.2,
+      "costo_adicional": 47625.2,
+      "id": "625",
+      "fecha": "2026-11-03",
+      "clave": "625-104-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 26.5,
+      "enganche": 10335,
+      "pagos": 104,
+      "semana": 704.39,
+      "mes": 3052.36,
+      "total": 83591.56,
+      "costo_adicional": 44592.56,
+      "id": "625",
+      "fecha": "2026-11-03",
+      "clave": "625-104-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 31.5,
+      "enganche": 12285,
+      "pagos": 104,
+      "semana": 656.47,
+      "mes": 2844.7,
+      "total": 80557.88,
+      "costo_adicional": 41558.88,
+      "id": "625",
+      "fecha": "2026-11-03",
+      "clave": "625-104-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 15.0,
+      "enganche": 6000,
+      "pagos": 26,
+      "semana": 1694.74,
+      "mes": 7343.87,
+      "total": 50063.24,
+      "costo_adicional": 10064.24,
+      "id": "705",
+      "fecha": "2026-11-03",
+      "clave": "705-26-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 25,
+      "enganche": 10000,
+      "pagos": 26,
+      "semana": 1495.35,
+      "mes": 6479.85,
+      "total": 48879.1,
+      "costo_adicional": 8880.1,
+      "id": "705",
+      "fecha": "2026-11-03",
+      "clave": "705-26-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 30,
+      "enganche": 12000,
+      "pagos": 26,
+      "semana": 1395.66,
+      "mes": 6047.86,
+      "total": 48287.16,
+      "costo_adicional": 8288.16,
+      "id": "705",
+      "fecha": "2026-11-03",
+      "clave": "705-26-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 15.0,
+      "enganche": 6000,
+      "pagos": 52,
+      "semana": 1022.78,
+      "mes": 4432.05,
+      "total": 59184.56,
+      "costo_adicional": 19185.56,
+      "id": "705",
+      "fecha": "2026-11-03",
+      "clave": "705-52-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 25,
+      "enganche": 10000,
+      "pagos": 52,
+      "semana": 902.45,
+      "mes": 3910.62,
+      "total": 56927.4,
+      "costo_adicional": 16928.4,
+      "id": "705",
+      "fecha": "2026-11-03",
+      "clave": "705-52-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 30,
+      "enganche": 12000,
+      "pagos": 52,
+      "semana": 842.28,
+      "mes": 3649.88,
+      "total": 55798.56,
+      "costo_adicional": 15799.56,
+      "id": "705",
+      "fecha": "2026-11-03",
+      "clave": "705-52-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 15.0,
+      "enganche": 6000,
+      "pagos": 78,
+      "semana": 870.63,
+      "mes": 3772.73,
+      "total": 73909.14,
+      "costo_adicional": 33910.14,
+      "id": "705",
+      "fecha": "2026-11-03",
+      "clave": "705-78-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 25,
+      "enganche": 10000,
+      "pagos": 78,
+      "semana": 768.2,
+      "mes": 3328.87,
+      "total": 69919.6,
+      "costo_adicional": 29920.6,
+      "id": "705",
+      "fecha": "2026-11-03",
+      "clave": "705-78-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 30,
+      "enganche": 12000,
+      "pagos": 78,
+      "semana": 716.99,
+      "mes": 3106.96,
+      "total": 67925.22,
+      "costo_adicional": 27926.22,
+      "id": "705",
+      "fecha": "2026-11-03",
+      "clave": "705-78-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 21.5,
+      "enganche": 8600,
+      "pagos": 104,
+      "semana": 771.6,
+      "mes": 3343.6,
+      "total": 88846.4,
+      "costo_adicional": 48847.4,
+      "id": "705",
+      "fecha": "2026-11-03",
+      "clave": "705-104-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 26.5,
+      "enganche": 10600,
+      "pagos": 104,
+      "semana": 722.45,
+      "mes": 3130.62,
+      "total": 85734.8,
+      "costo_adicional": 45735.8,
+      "id": "705",
+      "fecha": "2026-11-03",
+      "clave": "705-104-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 31.5,
+      "enganche": 12600,
+      "pagos": 104,
+      "semana": 673.3,
+      "mes": 2917.63,
+      "total": 82623.2,
+      "costo_adicional": 42624.2,
+      "id": "705",
+      "fecha": "2026-11-03",
+      "clave": "705-104-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 15.0,
+      "enganche": 3120,
+      "pagos": 26,
+      "semana": 881.24,
+      "mes": 3818.71,
+      "total": 26032.24,
+      "costo_adicional": 5233.24,
+      "id": "594",
+      "fecha": "2026-11-03",
+      "clave": "594-26-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 25,
+      "enganche": 5200,
+      "pagos": 26,
+      "semana": 777.56,
+      "mes": 3369.43,
+      "total": 25416.56,
+      "costo_adicional": 4617.56,
+      "id": "594",
+      "fecha": "2026-11-03",
+      "clave": "594-26-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 30,
+      "enganche": 6240,
+      "pagos": 26,
+      "semana": 725.72,
+      "mes": 3144.79,
+      "total": 25108.72,
+      "costo_adicional": 4309.72,
+      "id": "594",
+      "fecha": "2026-11-03",
+      "clave": "594-26-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 15.0,
+      "enganche": 3120,
+      "pagos": 52,
+      "semana": 531.83,
+      "mes": 2304.6,
+      "total": 30775.16,
+      "costo_adicional": 9976.16,
+      "id": "594",
+      "fecha": "2026-11-03",
+      "clave": "594-52-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 25,
+      "enganche": 5200,
+      "pagos": 52,
+      "semana": 469.26,
+      "mes": 2033.46,
+      "total": 29601.52,
+      "costo_adicional": 8802.52,
+      "id": "594",
+      "fecha": "2026-11-03",
+      "clave": "594-52-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 30,
+      "enganche": 6240,
+      "pagos": 52,
+      "semana": 437.97,
+      "mes": 1897.87,
+      "total": 29014.44,
+      "costo_adicional": 8215.44,
+      "id": "594",
+      "fecha": "2026-11-03",
+      "clave": "594-52-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 15.0,
+      "enganche": 3120,
+      "pagos": 78,
+      "semana": 452.72,
+      "mes": 1961.79,
+      "total": 38432.16,
+      "costo_adicional": 17633.16,
+      "id": "594",
+      "fecha": "2026-11-03",
+      "clave": "594-78-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 25,
+      "enganche": 5200,
+      "pagos": 78,
+      "semana": 399.45,
+      "mes": 1730.95,
+      "total": 36357.1,
+      "costo_adicional": 15558.1,
+      "id": "594",
+      "fecha": "2026-11-03",
+      "clave": "594-78-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 30,
+      "enganche": 6240,
+      "pagos": 78,
+      "semana": 372.82,
+      "mes": 1615.55,
+      "total": 35319.96,
+      "costo_adicional": 14520.96,
+      "id": "594",
+      "fecha": "2026-11-03",
+      "clave": "594-78-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 21.5,
+      "enganche": 4472,
+      "pagos": 104,
+      "semana": 401.22,
+      "mes": 1738.62,
+      "total": 46198.88,
+      "costo_adicional": 25399.88,
+      "id": "594",
+      "fecha": "2026-11-03",
+      "clave": "594-104-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 26.5,
+      "enganche": 5512,
+      "pagos": 104,
+      "semana": 375.66,
+      "mes": 1627.86,
+      "total": 44580.64,
+      "costo_adicional": 23781.64,
+      "id": "594",
+      "fecha": "2026-11-03",
+      "clave": "594-104-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 31.5,
+      "enganche": 6552,
+      "pagos": 104,
+      "semana": 350.1,
+      "mes": 1517.1,
+      "total": 42962.4,
+      "costo_adicional": 22163.4,
+      "id": "594",
+      "fecha": "2026-11-03",
+      "clave": "594-104-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 15.0,
+      "enganche": 3900,
+      "pagos": 26,
+      "semana": 1101.56,
+      "mes": 4773.43,
+      "total": 32540.56,
+      "costo_adicional": 6541.56,
+      "id": "545",
+      "fecha": "2026-11-03",
+      "clave": "545-26-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 25,
+      "enganche": 6500,
+      "pagos": 26,
+      "semana": 971.96,
+      "mes": 4211.83,
+      "total": 31770.96,
+      "costo_adicional": 5771.96,
+      "id": "545",
+      "fecha": "2026-11-03",
+      "clave": "545-26-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 30,
+      "enganche": 7800,
+      "pagos": 26,
+      "semana": 907.16,
+      "mes": 3931.03,
+      "total": 31386.16,
+      "costo_adicional": 5387.16,
+      "id": "545",
+      "fecha": "2026-11-03",
+      "clave": "545-26-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 15.0,
+      "enganche": 3900,
+      "pagos": 52,
+      "semana": 664.8,
+      "mes": 2880.8,
+      "total": 38469.6,
+      "costo_adicional": 12470.6,
+      "id": "545",
+      "fecha": "2026-11-03",
+      "clave": "545-52-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 25,
+      "enganche": 6500,
+      "pagos": 52,
+      "semana": 586.58,
+      "mes": 2541.85,
+      "total": 37002.16,
+      "costo_adicional": 11003.16,
+      "id": "545",
+      "fecha": "2026-11-03",
+      "clave": "545-52-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 30,
+      "enganche": 7800,
+      "pagos": 52,
+      "semana": 547.47,
+      "mes": 2372.37,
+      "total": 36268.44,
+      "costo_adicional": 10269.44,
+      "id": "545",
+      "fecha": "2026-11-03",
+      "clave": "545-52-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 15.0,
+      "enganche": 3900,
+      "pagos": 78,
+      "semana": 565.9,
+      "mes": 2452.23,
+      "total": 48040.2,
+      "costo_adicional": 22041.2,
+      "id": "545",
+      "fecha": "2026-11-03",
+      "clave": "545-78-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 25,
+      "enganche": 6500,
+      "pagos": 78,
+      "semana": 499.32,
+      "mes": 2163.72,
+      "total": 45446.96,
+      "costo_adicional": 19447.96,
+      "id": "545",
+      "fecha": "2026-11-03",
+      "clave": "545-78-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 30,
+      "enganche": 7800,
+      "pagos": 78,
+      "semana": 466.03,
+      "mes": 2019.46,
+      "total": 44150.34,
+      "costo_adicional": 18151.34,
+      "id": "545",
+      "fecha": "2026-11-03",
+      "clave": "545-78-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 21.5,
+      "enganche": 5590,
+      "pagos": 104,
+      "semana": 501.53,
+      "mes": 2173.3,
+      "total": 57749.12,
+      "costo_adicional": 31750.12,
+      "id": "545",
+      "fecha": "2026-11-03",
+      "clave": "545-104-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 26.5,
+      "enganche": 6890,
+      "pagos": 104,
+      "semana": 469.58,
+      "mes": 2034.85,
+      "total": 55726.32,
+      "costo_adicional": 29727.32,
+      "id": "545",
+      "fecha": "2026-11-03",
+      "clave": "545-104-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 31.5,
+      "enganche": 8190,
+      "pagos": 104,
+      "semana": 437.64,
+      "mes": 1896.44,
+      "total": 53704.56,
+      "costo_adicional": 27705.56,
+      "id": "545",
+      "fecha": "2026-11-03",
+      "clave": "545-104-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 15.0,
+      "enganche": 4200,
+      "pagos": 26,
+      "semana": 1186.3,
+      "mes": 5140.63,
+      "total": 35043.8,
+      "costo_adicional": 7044.8,
+      "id": "708",
+      "fecha": "2026-11-03",
+      "clave": "708-26-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 25,
+      "enganche": 7000,
+      "pagos": 26,
+      "semana": 1046.73,
+      "mes": 4535.83,
+      "total": 34214.98,
+      "costo_adicional": 6215.98,
+      "id": "708",
+      "fecha": "2026-11-03",
+      "clave": "708-26-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 30,
+      "enganche": 8400,
+      "pagos": 26,
+      "semana": 976.94,
+      "mes": 4233.41,
+      "total": 33800.44,
+      "costo_adicional": 5801.44,
+      "id": "708",
+      "fecha": "2026-11-03",
+      "clave": "708-26-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 15.0,
+      "enganche": 4200,
+      "pagos": 52,
+      "semana": 715.94,
+      "mes": 3102.41,
+      "total": 41428.88,
+      "costo_adicional": 13429.88,
+      "id": "708",
+      "fecha": "2026-11-03",
+      "clave": "708-52-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 25,
+      "enganche": 7000,
+      "pagos": 52,
+      "semana": 631.71,
+      "mes": 2737.41,
+      "total": 39848.92,
+      "costo_adicional": 11849.92,
+      "id": "708",
+      "fecha": "2026-11-03",
+      "clave": "708-52-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 30,
+      "enganche": 8400,
+      "pagos": 52,
+      "semana": 589.59,
+      "mes": 2554.89,
+      "total": 39058.68,
+      "costo_adicional": 11059.68,
+      "id": "708",
+      "fecha": "2026-11-03",
+      "clave": "708-52-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 15.0,
+      "enganche": 4200,
+      "pagos": 78,
+      "semana": 609.43,
+      "mes": 2640.86,
+      "total": 51735.54,
+      "costo_adicional": 23736.54,
+      "id": "708",
+      "fecha": "2026-11-03",
+      "clave": "708-78-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 25,
+      "enganche": 7000,
+      "pagos": 78,
+      "semana": 537.73,
+      "mes": 2330.16,
+      "total": 48942.94,
+      "costo_adicional": 20943.94,
+      "id": "708",
+      "fecha": "2026-11-03",
+      "clave": "708-78-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 30,
+      "enganche": 8400,
+      "pagos": 78,
+      "semana": 501.88,
+      "mes": 2174.81,
+      "total": 47546.64,
+      "costo_adicional": 19547.64,
+      "id": "708",
+      "fecha": "2026-11-03",
+      "clave": "708-78-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 21.5,
+      "enganche": 6020,
+      "pagos": 104,
+      "semana": 540.11,
+      "mes": 2340.48,
+      "total": 62191.44,
+      "costo_adicional": 34192.44,
+      "id": "708",
+      "fecha": "2026-11-03",
+      "clave": "708-104-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 26.5,
+      "enganche": 7420,
+      "pagos": 104,
+      "semana": 505.71,
+      "mes": 2191.41,
+      "total": 60013.84,
+      "costo_adicional": 32014.84,
+      "id": "708",
+      "fecha": "2026-11-03",
+      "clave": "708-104-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 31.5,
+      "enganche": 8820,
+      "pagos": 104,
+      "semana": 471.3,
+      "mes": 2042.3,
+      "total": 57835.2,
+      "costo_adicional": 29836.2,
+      "id": "708",
+      "fecha": "2026-11-03",
+      "clave": "708-104-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 15.0,
+      "enganche": 3360,
+      "pagos": 26,
+      "semana": 949.04,
+      "mes": 4112.51,
+      "total": 28035.04,
+      "costo_adicional": 5635.84,
+      "id": "518",
+      "fecha": "2026-11-03",
+      "clave": "518-26-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 25,
+      "enganche": 5600,
+      "pagos": 26,
+      "semana": 837.38,
+      "mes": 3628.65,
+      "total": 27371.88,
+      "costo_adicional": 4972.68,
+      "id": "518",
+      "fecha": "2026-11-03",
+      "clave": "518-26-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 30,
+      "enganche": 6720,
+      "pagos": 26,
+      "semana": 781.56,
+      "mes": 3386.76,
+      "total": 27040.56,
+      "costo_adicional": 4641.36,
+      "id": "518",
+      "fecha": "2026-11-03",
+      "clave": "518-26-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 15.0,
+      "enganche": 3360,
+      "pagos": 52,
+      "semana": 572.75,
+      "mes": 2481.92,
+      "total": 33143.0,
+      "costo_adicional": 10743.8,
+      "id": "518",
+      "fecha": "2026-11-03",
+      "clave": "518-52-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 25,
+      "enganche": 5600,
+      "pagos": 52,
+      "semana": 505.36,
+      "mes": 2189.89,
+      "total": 31878.72,
+      "costo_adicional": 9479.52,
+      "id": "518",
+      "fecha": "2026-11-03",
+      "clave": "518-52-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 30,
+      "enganche": 6720,
+      "pagos": 52,
+      "semana": 471.67,
+      "mes": 2043.9,
+      "total": 31246.84,
+      "costo_adicional": 8847.64,
+      "id": "518",
+      "fecha": "2026-11-03",
+      "clave": "518-52-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 15.0,
+      "enganche": 3360,
+      "pagos": 78,
+      "semana": 487.55,
+      "mes": 2112.72,
+      "total": 41388.9,
+      "costo_adicional": 18989.7,
+      "id": "518",
+      "fecha": "2026-11-03",
+      "clave": "518-78-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 25,
+      "enganche": 5600,
+      "pagos": 78,
+      "semana": 430.19,
+      "mes": 1864.16,
+      "total": 39154.82,
+      "costo_adicional": 16755.62,
+      "id": "518",
+      "fecha": "2026-11-03",
+      "clave": "518-78-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 30,
+      "enganche": 6720,
+      "pagos": 78,
+      "semana": 401.51,
+      "mes": 1739.88,
+      "total": 38037.78,
+      "costo_adicional": 15638.58,
+      "id": "518",
+      "fecha": "2026-11-03",
+      "clave": "518-78-Sugerido"
+    },
+    {
+      "nombre": "Mínimo",
+      "porcentaje": 21.5,
+      "enganche": 4816,
+      "pagos": 104,
+      "semana": 432.09,
+      "mes": 1872.39,
+      "total": 49753.36,
+      "costo_adicional": 27354.16,
+      "id": "518",
+      "fecha": "2026-11-03",
+      "clave": "518-104-Mínimo"
+    },
+    {
+      "nombre": "Medio",
+      "porcentaje": 26.5,
+      "enganche": 5936,
+      "pagos": 104,
+      "semana": 404.56,
+      "mes": 1753.09,
+      "total": 48010.24,
+      "costo_adicional": 25611.04,
+      "id": "518",
+      "fecha": "2026-11-03",
+      "clave": "518-104-Medio"
+    },
+    {
+      "nombre": "Sugerido",
+      "porcentaje": 31.5,
+      "enganche": 7056,
+      "pagos": 104,
+      "semana": 377.04,
+      "mes": 1633.84,
+      "total": 46268.16,
+      "costo_adicional": 23868.96,
+      "id": "518",
+      "fecha": "2026-11-03",
+      "clave": "518-104-Sugerido"
     }
   ]
 }
