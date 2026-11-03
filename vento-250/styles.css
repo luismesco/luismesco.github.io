@@ -23,3 +23,5 @@
 @media(max-width:600px){#picker-dialog .dialog-heading,#compare-dialog .dialog-heading{top:-16px;margin-top:-8px;padding-top:8px}.dialog-heading h2{font-size:17px;max-width:calc(100% - 82px)}}
 
 .history-table th:first-child{width:18%}.history-table td{font-size:11px;text-align:left;line-height:1.6}.history-table tbody tr:last-child td,.history-table tbody tr:last-child th{background:white;font-weight:400}#debt-outlook{margin-top:8px}
+
+#future-budget{margin-top:8px}.requirements{padding-left:18px;font-size:11px;color:var(--muted)}.requirements li{padding:5px 0;line-height:1.7}#future-budget .controls{grid-template-columns:1fr 1fr}#future-budget .controls label{grid-column:auto}#future-budget .comparison-table th:first-child{width:42%}
