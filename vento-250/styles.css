@@ -7,3 +7,5 @@
 .downloads{display:flex;flex-wrap:wrap;gap:8px;margin:12px 0}.downloads a,.pdf-link{font-size:11px}.pdf-link{display:inline-block;margin:0 0 12px;color:var(--accent)}.spec-compact{border-top:1px solid var(--line);padding:10px 0;font-size:11px}.spec-compact p{margin:5px 0}
 
 .more-cards{display:block;margin:18px auto;min-width:210px}.gallery .bike-card[hidden]{display:none!important}
+
+.tax-scenario{padding:12px 16px;border:1px solid var(--line);border-bottom:0;background:var(--panel)}.tax-scenario label{cursor:pointer;color:var(--accent)}.tax-scenario small{max-width:1050px}
