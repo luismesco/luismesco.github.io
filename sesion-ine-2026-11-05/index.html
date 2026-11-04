@@ -64,7 +64,7 @@ document.querySelector('#print').addEventListener('click',()=>window.print());
 document.addEventListener('keydown',e=>{if(document.querySelector('dialog[open]'))return;const editing=e.target.matches('input,textarea,[contenteditable]');if(e.key==='Escape'){if(!searchPanel.hidden){closeSearch();document.querySelector('#search').focus()}else if(rail.classList.contains('open')){closeMenu();menu.focus()}return}if(editing)return;if(e.key==='/'){e.preventDefault();searchPanel.hidden=false;document.querySelector('#search').setAttribute('aria-expanded','true');searchInput.focus();search()}if(presenting){if(['ArrowRight'].includes(e.key)){e.preventDefault();if(active<chapters.length-1)go(chapters[active+1].id)}if(['ArrowLeft'].includes(e.key)){e.preventDefault();if(active>0)go(chapters[active-1].id)}if(e.key==='Home'){e.preventDefault();go(chapters[0].id)}if(e.key==='End'){e.preventDefault();go(chapters.at(-1).id)}}});
 chapters.forEach((c,i)=>c.hidden=i!==0);present.setAttribute('aria-pressed','true');setActive(0);if(location.hash)requestAnimationFrame(()=>go(location.hash.slice(1),false));
 })();
-(()=>{const pdf=document.querySelector('#pdf');if(location.protocol!=='file:')pdf.href='Cuadernillo_INE_2026-11-05.pdf';if('serviceWorker' in navigator&&(location.protocol==='https:'||location.hostname==='localhost'))navigator.serviceWorker.register('./sw.js').catch(()=>{});})();
+(()=>{if('serviceWorker' in navigator&&(location.protocol==='https:'||location.hostname==='localhost'))navigator.serviceWorker.register('./sw.js').catch(()=>{});})();
 
 (()=>{
  const filters=[...document.querySelectorAll('[data-filter]')],cards=[...document.querySelectorAll('.matter-card')],count=document.querySelector('#matter-count');
