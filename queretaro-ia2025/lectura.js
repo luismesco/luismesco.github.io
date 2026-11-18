@@ -40,14 +40,16 @@ const CASOS = [{"c": 1, "id": 22, "titulo": "Cinco CFDI de nómina expedidos fue
   panels.forEach(panel=>{panel.hidden=!document.body.classList.contains('presentation')&&(panel.dataset.category!==view||terms.some(t=>!panel.dataset.search.includes(t))||(view==='conclusiones'&&nature.value&&panel.dataset.nature!==nature.value));if(!panel.hidden)count++;});
   if(grid.dataset.order!==amountOrder.value){
    const cases=panels.filter(panel=>panel.classList.contains('case-panel'));
-   if(amountOrder.value==='desc')cases.reverse();
+   if(amountOrder.value.startsWith('number-'))cases.sort((a,b)=>Number(a.dataset.conclusion)-Number(b.dataset.conclusion));
+   if(amountOrder.value.endsWith('desc'))cases.reverse();
    const anchor=panels.find(panel=>panel.dataset.category==='anexos').previousElementSibling;
    cases.forEach(panel=>grid.insertBefore(panel,anchor));
    grid.dataset.order=amountOrder.value;
   }
   amountOrder.disabled=view!=='conclusiones';
   const names={conclusiones:'conclusiones',analisis:'apartados de análisis',anexos:'apartado de anexos',fuentes:'apartado de fuentes'};
-  state.textContent=`${count} ${names[view]}${view==='conclusiones'?(amountOrder.value==='desc'?' · de mayor a menor sanción propuesta':' · de menor a mayor sanción propuesta'):''}`;
+  const orderLabels={asc:'de menor a mayor sanción propuesta',desc:'de mayor a menor sanción propuesta','number-asc':'número de conclusión ascendente','number-desc':'número de conclusión descendente'};
+  state.textContent=`${count} ${names[view]}${view==='conclusiones'?' · '+orderLabels[amountOrder.value]:''}`;
   nature.disabled=view!=='conclusiones';tabs.forEach(t=>t.setAttribute('aria-pressed',String(t.dataset.view===view)));
  }
  function setView(value){view=value;filter();}
@@ -70,5 +72,5 @@ const CASOS = [{"c": 1, "id": 22, "titulo": "Cinco CFDI de nómina expedidos fue
  document.addEventListener('keydown',e=>{if(document.querySelector('dialog[open]')||/INPUT|SELECT|TEXTAREA/.test(e.target.tagName))return;if(e.key==='ArrowRight'){e.preventDefault();go(current+1);}if(e.key==='ArrowLeft'){e.preventDefault();go(current-1);}if(e.key==='Escape'&&document.body.classList.contains('presentation'))mode(false);});
  document.querySelectorAll('a[href^="#"]').forEach(a=>a.addEventListener('click',e=>{const el=document.getElementById(a.getAttribute('href').slice(1));if(!el)return;e.preventDefault();const page=el.closest('.page'),panel=el.closest('details');if(page){go(pages.indexOf(page));}else{if(panel){search.value='';nature.value='';setView(panel.dataset.category);panel.open=true;}el.scrollIntoView({behavior:'smooth',block:'start'});}}));
  go(0,false);filter();
- if(location.hash){const el=document.getElementById(location.hash.slice(1));if(el?.closest('.page'))go(pages.indexOf(el.closest('.page')));}
+ if(location.hash){const el=document.getElementById(location.hash.slice(1));if(el?.closest('.page'))go(pages.indexOf(el.closest('.page')));else if(el?.matches('.case-panel')){el.open=true;el.scrollIntoView();}}
 })();
