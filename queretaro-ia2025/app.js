@@ -71,7 +71,7 @@
       const result = await workerStatus(reg.active);
       if (result.complete) {
         announce(navigator.onLine ? 'Disponible sin conexión: análisis, ficha, PDF y capturas.' : 'Sin conexión · contenido guardado disponible.', true);
-        retry.hidden = true;
+        retry.hidden = false; retry.textContent = 'Actualizar copia sin conexión';
       } else {
         announce('Guardado incompleto. Conecta el dispositivo y guarda de nuevo.'); retry.hidden = false;
       }
