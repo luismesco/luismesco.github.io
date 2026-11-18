@@ -12,3 +12,5 @@
 }
 @media print{.site-header,.query-panel,.downloads,.app-tools{display:none!important}.result-grid{display:block!important;width:100%;margin:0}}
 @media screen{.masthead .nav-action{font:inherit;color:#f4eae0;min-height:2.75rem;background:transparent;border:0;padding:0}.ficha-body{margin-block:2rem}.ficha-body>.page{width:100%;height:auto;min-height:0;padding:1.6rem;box-shadow:none;background:var(--white);border:1px solid var(--line);border-radius:.45rem}.ficha-body .folio{position:static;margin-top:1.5rem}.ficha-body .page p{margin-bottom:.6rem}.ficha-body .page h2{font-size:1.8rem}}@media print{.ficha-body{display:contents!important}.ficha-body>.page{width:11in;height:8.5in;min-height:8.5in}.ficha-body .folio{position:absolute}}
+
+@media screen and (min-width:48rem){.filters{grid-template-columns:minmax(0,1fr) minmax(10rem,.35fr) minmax(9rem,.3fr) auto}}
