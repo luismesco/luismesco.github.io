@@ -1,0 +1,127 @@
+@font-face {
+  font-family: Montserrat;
+  src: url("/calendario-electoral-2026-2027/assets/fonts/Montserrat-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Montserrat;
+  src: url("/calendario-electoral-2026-2027/assets/fonts/Montserrat-Bold.ttf") format("truetype");
+  font-weight: 700 900;
+  font-display: swap;
+}
+
+:root {
+  color-scheme: light;
+  --wine: #4a0d14;
+  --paper: #f6f2eb;
+  --white: #fffefa;
+  --ink: #27221f;
+  --muted: #6b625b;
+  --line: #ded5c9;
+  --gold: #d6bda0;
+}
+
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font: 400 1rem/1.6 Montserrat, system-ui, sans-serif;
+}
+h1, h2, p { margin: 0; }
+a { color: var(--wine); text-underline-offset: .2em; }
+a:hover { text-decoration-thickness: .12em; }
+a:focus-visible {
+  outline: .17rem solid #a06516;
+  outline-offset: .22rem;
+}
+.wrap { width: min(calc(100% - 2.25rem), 48rem); margin-inline: auto; }
+.skip { position: absolute; top: -7rem; left: 1rem; background: var(--white); padding: .7rem 1rem; }
+.skip:focus { top: 1rem; z-index: 2; }
+
+header { background: var(--wine); color: var(--white); }
+.masthead {
+  min-height: 3.8rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: .8rem;
+  border-bottom: 1px solid #ffffff29;
+  font-weight: 700;
+}
+.masthead a {
+  display: inline-flex;
+  align-items: center;
+  gap: .35rem;
+  min-height: 2.75rem;
+  color: var(--white);
+  font-size: .78rem;
+}
+.hero { padding-block: 1.6rem 2.85rem; }
+.hero p {
+  color: var(--gold);
+  font-size: .74rem;
+  font-weight: 700;
+  letter-spacing: .075em;
+}
+.hero h1 {
+  margin-top: .4rem;
+  font-size: clamp(1.9rem, 6.2vw, 3rem);
+  line-height: 1.08;
+  letter-spacing: -.045em;
+}
+
+main { padding-bottom: 2rem; }
+.guide {
+  position: relative;
+  margin-top: -1.25rem;
+  padding: .9rem 1.1rem .6rem;
+  border: 1px solid var(--line);
+  border-radius: .55rem;
+  background: var(--white);
+}
+h2 { color: var(--wine); font-size: 1.14rem; line-height: 1.3; }
+.guide p { margin-top: .45rem; font-size: .86rem; }
+.aux { display: flex; flex-wrap: wrap; column-gap: 1.2rem; padding-top: .2rem; }
+.aux a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 2.75rem;
+  font-size: .8rem;
+  font-weight: 700;
+}
+
+#documentos { margin-top: 1.45rem; }
+.documents { list-style: none; margin: .75rem 0 0; padding: 0; border-top: 1px solid var(--line); }
+.documents li {
+  display: grid;
+  grid-template-columns: minmax(8rem, 1fr) minmax(19rem, 1.2fr);
+  gap: .65rem;
+  align-items: center;
+  padding: .28rem .35rem;
+  border-bottom: 1px solid var(--line);
+}
+.documents li:first-child { background: #ede3d6; }
+.case-name { font-size: .9rem; font-weight: 700; }
+.files { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: .4rem; }
+.files a {
+  display: flex;
+  min-height: 2.75rem;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding: .28rem .37rem;
+  border-radius: .2rem;
+  font-size: .83rem;
+  line-height: 1.23;
+  font-weight: 700;
+}
+.files a:hover { background: #efe4dc; }
+.files small { margin-top: .17rem; color: var(--muted); font-size: .62rem; font-weight: 400; }
+@media (max-width: 35rem) {
+  .documents li { grid-template-columns: 1fr; gap: .1rem; padding: .55rem .25rem .32rem; }
+  .case-name { padding-inline: .37rem; }
+  .guide { padding-inline: .85rem; }
+}
